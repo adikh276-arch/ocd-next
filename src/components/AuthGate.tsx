@@ -38,6 +38,14 @@ function AuthGateInner({ children }: { children: React.ReactNode }) {
 
   const [state, setState] = useState<AuthState>("loading");
 
+  // Capture webhook payload params from URL
+  useEffect(() => {
+    const upaId = searchParams.get('upa_id');
+    const uid = searchParams.get('uid');
+    if (upaId) sessionStorage.setItem('upa_id', upaId);
+    if (uid) sessionStorage.setItem('uid', uid);
+  }, [searchParams]);
+
   /**
    * 3. The "Smart" Restore & Navigate (Crucial Step)
    *

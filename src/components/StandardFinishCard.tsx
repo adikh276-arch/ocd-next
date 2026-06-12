@@ -31,6 +31,25 @@ export const StandardFinishCard = ({
 }: Props) => {
   const { t } = useTranslation("common");
   
+  React.useEffect(() => {
+    const upa_id = sessionStorage.getItem('upa_id');
+    const uid = sessionStorage.getItem('uid');
+    
+    if (upa_id && uid) {
+      fetch('https://api.mantracare.com', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({
+          intent: 'complete_activity',
+          upa_id: parseInt(upa_id, 10),
+          uid: uid
+        })
+      }).catch(err => console.error('Webhook error:', err));
+    } else {
+      console.log('Webhook not triggered: missing upa_id or uid in sessionStorage.');
+    }
+  }, []);
+
   return (
     <div className={`bg-white rounded-[2rem] shadow-xl shadow-slate-200/40 px-8 py-12 flex flex-col items-center justify-center animate-in fade-in slide-in-from-bottom-4 duration-700 mx-auto text-center gap-6 border border-slate-100 max-w-[400px] ${className}`}>
       <div className="space-y-4">
