@@ -1,0 +1,54 @@
+{
+  "welcome": {
+    "title": "Dziennik bałaganu i emocji",
+    "subtitle": "„Każdy przedmiot, który trzymasz, przechowuje coś dla ciebie.”",
+    "description": "Nie chodzi o robienie miejsca. Chodzi o zrozumienie, co trzymasz w swoich rzeczach. 🌸",
+    "instruction": "Pomyśl o jednej rzeczy, której się trzymasz. Ta, która przychodzi ci do głowy jako pierwsza, jest właściwa. ✨",
+    "placeholder": "np. stary szalik mojej mamy, zepsuty zegarek",
+    "myJournal": "📖 Mój dziennik →",
+    "nextBtn": "To jest mój cel →"
+  },
+  "exploration": {
+    "title": "Przyjrzyjmy się temu razem. 🔍",
+    "subtitle": "Odpowiedz, którąkolwiek uważasz za właściwą. Możesz pominąć którąkolwiek.",
+    "prompt1": "Kiedy ten obiekt pojawił się w twoim życiu? Co się wtedy działo?",
+    "prompt2": "Co Twoim zdaniem by się stało, gdyby tego obiektu jutro nie było?",
+    "prompt3": "Czy ten przedmiot przypomina Ci jakąś osobę, czas lub wersję Ciebie samego?",
+    "prompt4": "Przed czym chroni Cię trzymanie tego przedmiotu?",
+    "placeholder": "Pisz swobodnie — to jest tylko dla Ciebie. 💭",
+    "back": "← powrót",
+    "next": "dalej →",
+    "nextBtn": "Wystarczająco dużo się zastanowiłem →"
+  },
+  "insight": {
+    "title": "Co zauważyłeś? 💡",
+    "description1": "Czasami przedmioty niosą ze sobą więcej niż rzeczy. Zawierają uczucia, dla których jeszcze nie znaleźliśmy innego miejsca.",
+    "description2": "Co tak naprawdę kryje w sobie ten przedmiot?",
+    "option1": "Strach przed zapomnieniem",
+    "option2": "Strach przed brakiem wystarczającej ilości",
+    "option3": "Wspomnienie, którego nie jestem gotowy stracić",
+    "option4": "Część mojej tożsamości",
+    "option5": "Wina czy odpowiedzialność",
+    "option6": "Miłość do kogoś",
+    "option7": "Czegoś, czego jeszcze nie potrafię nazwać",
+    "footer": "Nazwanie czegoś nie oznacza, że trzeba działać. Sama świadomość to praca. 🌸",
+    "nextBtn": "Widzę to teraz →"
+  },
+  "closing": {
+    "title": "Właśnie dokonałeś czegoś odważnego.",
+    "subtitle": "Większość ludzi nigdy nie pyta, dlaczego tak się trzymają. Ty tak. Taka szczerość to początek prawdziwej zmiany.",
+    "todaysObject": "Dzisiejszy obiekt",
+    "whatsHolding": "Co trzyma",
+    "footer": "Wróć, kiedy będziesz gotowy odkryć coś innego. 🌸",
+    "entriesCount_one": "🌿 {{count}} entry in your journal",
+    "entriesCount_other": "🌿 {{count}} entries in your journal",
+    "viewJournal": "📖 Zobacz moje poprzednie wpisy →",
+    "closeBtn": "Zamknij na dziś"
+  },
+  "journal": {
+    "title": "Mój dziennik 📖",
+    "subtitle": "Każdy wpis to chwila odwagi.",
+    "empty": "Twój dziennik czeka. Zacznij pisać swoją pierwszą refleksję już dziś.",
+    "startBtn": "Rozpocznij dzisiejszy wpis →"
+  }
+}

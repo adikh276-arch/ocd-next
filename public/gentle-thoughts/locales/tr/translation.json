@@ -1,0 +1,32 @@
+{
+  "404": "404",
+  "header": "OKB İpuçları",
+  "subHeader": "Nazik topraklama teknikleri",
+  "tipBadge": "Uç",
+  "swipeHint": "Devam etmek için kaydırın",
+  "prevTip": "Önceki ipucu",
+  "nextTip": "Sonraki ipucu",
+  "tips": [
+    "Düşünceyi fark edin ve nazikçe şu şekilde etiketleyin: &quot;Bu bir obsesif-kompülsif bozukluk düşüncesi.&quot;",
+    "Sorunu hemen çözmeye çalışmak yerine belirsizliğe izin verin.",
+    "Rahatsız edici duyguların var olmasına izin verin ve bu duygulara sahip olduğunuz için kendinizi yargılamayın.",
+    "Düşüncelerin gerçekler veya niyetler değil, zihinsel olaylar olduğunu kendinize hatırlatın.",
+    "Şu anda ne yaptığınıza odaklanın, &quot;ya şöyle olsaydı&quot; senaryolarına değil.",
+    "Kaygı arttığında yavaş nefes alma pratiği yapın — yavaşça nefes alın, daha da yavaşça nefes verin.",
+    "Duygusal dengeyi sağlamak için düzenli bir uyku rutini oluşturun.",
+    "Düşük enerji seviyelerinden kaynaklanan kaygı ataklarını önlemek için düzenli ve dengeli öğünler tüketin.",
+    "Eğer kafein tüketiminin huzursuzluğunuzu veya rahatsız edici düşüncelerinizi artırdığını fark ederseniz, kafein alımınızı azaltın.",
+    "Kendinize karşı nazik olun; obsesif-kompulsif bozukluktan kurtulmada ilerleme adım adım gerçekleşir, mükemmel bir şekilde değil."
+  ],
+  "not_found": "Bulunmadı",
+  "oops_page_not_found": "Hop! Sayfa bulunmadı",
+  "return_to_home": "Eve Dönüş",
+  "more": "Daha fazlası",
+  "previous_slide": "Önceki slayt",
+  "next_slide": "Sonraki slayt",
+  "close": "Kapat",
+  "previous": "Önceki",
+  "next": "Sıradaki",
+  "more_pages": "Daha fazla sayfa",
+  "toggle_sidebar": "Yan Çubuğu Aç"
+}

@@ -1,0 +1,32 @@
+{
+  "404": "404",
+  "header": "Conseils pour les TOC",
+  "subHeader": "techniques d&#39;ancrage douces",
+  "tipBadge": "Conseil",
+  "swipeHint": "Balayez pour continuer",
+  "prevTip": "Conseil précédent",
+  "nextTip": "Prochain conseil",
+  "tips": [
+    "Prenez conscience de cette pensée et qualifiez-la gentiment de : « C&#39;est une pensée obsessionnelle-compulsive. »",
+    "Acceptez l&#39;incertitude au lieu de chercher à la résoudre immédiatement.",
+    "Laissez exister les sentiments désagréables sans vous juger pour les ressentir.",
+    "Rappelez-vous que les pensées sont des événements mentaux, et non des faits ou des intentions.",
+    "Concentrez-vous sur ce que vous faites dans le moment présent, et non sur des scénarios hypothétiques.",
+    "Pratiquez la respiration lente lorsque l&#39;anxiété monte : inspirez lentement, expirez encore plus lentement.",
+    "Adoptez une routine de sommeil régulière pour favoriser la régulation émotionnelle.",
+    "Mangez des repas réguliers et équilibrés pour éviter les pics d&#39;anxiété liés à une baisse d&#39;énergie.",
+    "Réduisez votre consommation de caféine si vous remarquez qu&#39;elle augmente l&#39;agitation ou les pensées intrusives.",
+    "Soyez indulgent envers vous-même — les progrès dans la guérison des TOC se font étape par étape, et non parfaitement."
+  ],
+  "not_found": "Non trouvé",
+  "oops_page_not_found": "Oups ! Page non trouvée",
+  "return_to_home": "Retour au pays",
+  "more": "Plus",
+  "previous_slide": "Diapositive précédente",
+  "next_slide": "Diapositive suivante",
+  "close": "Fermer",
+  "previous": "Précédent",
+  "next": "Suivant",
+  "more_pages": "Plus de pages",
+  "toggle_sidebar": "Basculer la barre latérale"
+}

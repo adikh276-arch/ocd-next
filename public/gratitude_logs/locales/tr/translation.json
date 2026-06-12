@@ -1,0 +1,22 @@
+{
+  "404": "404",
+  "title": "Şükran Duygusu Bildirimi",
+  "subtitle": "Minnettar olduğunuz 3 şeyi söyleyin.",
+  "input_placeholder": "Minnettarım...",
+  "submit_button": "Teşekkür Günlüğü",
+  "logged_title": "Teşekkür mesajı kaydedildi!",
+  "logged_subtitle": "Küçük anlar, büyük mutluluk.",
+  "log_another": "Başka bir oturum aç",
+  "history_title": "Şükran Günlüklerim",
+  "gratitude_history": "Şükran Tarihi",
+  "oops_page_not_found": "Hop! Sayfa bulunmadı",
+  "return_to_home": "Eve Dönüş",
+  "more": "Daha fazlası",
+  "previous_slide": "Önceki slayt",
+  "next_slide": "Sonraki slayt",
+  "close": "Kapat",
+  "previous": "Önceki",
+  "next": "Sıradaki",
+  "more_pages": "Daha fazla sayfa",
+  "toggle_sidebar": "Yan Çubuğu Aç"
+}

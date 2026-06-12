@@ -1,0 +1,22 @@
+{
+  "404": "404",
+  "title": "Bilan de gratitude",
+  "subtitle": "Nommez trois choses pour lesquelles vous êtes reconnaissant(e).",
+  "input_placeholder": "Je suis reconnaissant pour...",
+  "submit_button": "Journal de gratitude",
+  "logged_title": "Gratitude enregistrée !",
+  "logged_subtitle": "Petits moments, grande joie.",
+  "log_another": "Connectez-vous à un autre",
+  "history_title": "Mon journal de gratitude",
+  "gratitude_history": "Histoire de la gratitude",
+  "oops_page_not_found": "Oups ! Page non trouvée",
+  "return_to_home": "Retour au pays",
+  "more": "Plus",
+  "previous_slide": "Diapositive précédente",
+  "next_slide": "Diapositive suivante",
+  "close": "Fermer",
+  "previous": "Précédent",
+  "next": "Suivant",
+  "more_pages": "Plus de pages",
+  "toggle_sidebar": "Basculer la barre latérale"
+}

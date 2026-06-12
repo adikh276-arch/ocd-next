@@ -1,0 +1,65 @@
+{
+  "404": "404",
+  "welcome": {
+    "title": "Comprender la ansiedad por la salud",
+    "description": "¿Te has preguntado alguna vez por qué las preocupaciones sobre la salud nunca desaparecen, por mucho que te informes? Aquí te explicamos la razón.",
+    "read_time": "Lectura de 2 minutos",
+    "button": "Muéstrame →"
+  },
+  "cycle": {
+    "title": "Esto es lo que está sucediendo en tu cerebro.",
+    "description_1": "La ansiedad por la salud no aparece y desaparece sin más. Es un círculo vicioso, y cada vez que la revisas, la fortaleces.",
+    "description_2": "Cada ciclo le enseña a tu cerebro que valía la pena comprobar la preocupación. Así que sigue reapareciendo, cada vez con más fuerza.",
+    "highlight": "💡 Revisar da alivio, pero nunca libertad.",
+    "button": "Reconozco esto →",
+    "restart": "↩ Y vuelve a empezar..."
+  },
+  "nodes": {
+    "trigger": {
+      "label": "Desencadenar",
+      "desc": "Un dolor de cabeza. Un artículo. Un pensamiento."
+    },
+    "anxiety": {
+      "label": "Picos de ansiedad",
+      "desc": "¿Y si algo anda mal conmigo?"
+    },
+    "check": {
+      "label": "Usted comprueba",
+      "desc": "Google. Médico. Pregúntale a alguien."
+    },
+    "relief": {
+      "label": "Alivio breve",
+      "desc": "Vale… probablemente estoy bien."
+    },
+    "doubt": {
+      "label": "La duda regresa",
+      "desc": "¿Pero qué pasa si se equivocan?"
+    }
+  },
+  "break_cycle": {
+    "title": "Aquí te explicamos cómo contraatacar.",
+    "description": "Cada etapa del ciclo tiene una forma de interrumpirlo. Toca cada una para ver qué puedes hacer:",
+    "tips": [
+      "Obsérvalo sin reaccionar. Repítete: «Eso es un detonante, no un hecho». Luego, respira hondo antes de hacer nada.",
+      "Nombra esa sensación en voz alta: «Me siento ansioso/a ahora mismo». Nombrarla reduce su intensidad. No necesitas solucionarla, solo reconocerla.",
+      "Esta es la etapa más importante para interrumpir. Retrasa la revisión solo 5 minutos. Luego 10. Cada retraso debilita el hábito.",
+      "Recuerda: este alivio no durará. El verdadero alivio proviene de tolerar la incertidumbre, no de escapar de ella.",
+      "No te dejes llevar por la duda. Di: «Ahí está la duda otra vez». Y deja que pase como una nube, sin seguirla."
+    ],
+    "all_tapped": "Ahora sabes exactamente dónde reside el ciclo y cómo interrumpirlo. Ese conocimiento es poderoso. 💙",
+    "button": "Completo ✓"
+  },
+  "language_switcher": {
+    "label": "Idioma"
+  },
+  "oops_page_not_found": "¡Ups! Página no encontrada",
+  "return_to_home": "Regreso a casa",
+  "more": "Más",
+  "previous_slide": "Diapositiva anterior",
+  "next_slide": "Siguiente diapositiva",
+  "close": "Cierre",
+  "previous": "Anterior",
+  "next": "Siguiente",
+  "more_pages": "Más páginas",
+  "toggle_sidebar": "Alternar barra lateral"
+}

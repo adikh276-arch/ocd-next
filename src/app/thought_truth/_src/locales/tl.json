@@ -1,0 +1,59 @@
+{
+  "welcome": {
+    "badge": "PURE O OCD",
+    "title": "Kaisipan o Katotohanan?",
+    "description": "Mag-swipe pakaliwa para sa Mali / Mag-swipe pakanan para sa Totoo!",
+    "details": "5 tanong · tama o mali",
+    "button": "Tara na! 🚀"
+  },
+  "before": {
+    "title": "Bago tayo magsimula",
+    "p1": "Ang ating utak ay lumilikha ng lahat ng uri ng kaisipan araw-araw — kahit na nakakatakot o kakaiba. Hindi ibig sabihin nito ay may mali sa iyo.",
+    "p2": "Sa Pure O OCD, ang mismong kaisipan ay hindi ang problema. Ang problema ay kung gaano natin ito binibigyan ng kahalagahan.",
+    "button": "Handa na ako 💪"
+  },
+  "quiz": {
+    "questionCount": "Tanong {{current}} ng {{total}}",
+    "falseHint": "👈 Mali",
+    "trueHint": "Totoo 👉",
+    "correct": "✅ Tama!",
+    "incorrect": "❌ Hindi pa talaga!",
+    "continue": "Magpatuloy →"
+  },
+  "results": {
+    "amazing": "Kamangha-mangha!",
+    "niceTry": "Magandang Pagsubok!",
+    "keepLearning": "Patuloy na Mag-aral!",
+    "scoreMsg": "Tama ang nakuha mong {{score}} mula sa {{total}}",
+    "heartsMsg": "Mga natitirang puso: ",
+    "remember": "Tandaan: ang mga iniisip ay mga iniisip lamang. Hindi nito tinutukoy kung sino ka. 💜",
+    "tryAgain": "Subukan Muli 🔄"
+  },
+  "questions": [
+    {
+      "q": "Ang pagkakaroon ng marahas na kaisipan ay nangangahulugan na ikaw ay isang mapanganib na tao.",
+      "correctExplain": "Ang mga kaisipan ay hindi katotohanan. Lahat ay may mga mapanghimasok na kaisipan — hindi ka nila binibigyang kahulugan.",
+      "wrongExplain": "Sa totoo lang, ang pagkakaroon ng nakakatakot na kaisipan ay hindi nangangahulugang mapanganib ka. Normal lang ang mga nakakaabala na kaisipan."
+    },
+    {
+      "q": "Ang mga nakakaabala na kaisipan ay nararanasan halos lahat sa isang punto.",
+      "correctExplain": "Ipinapakita ng pananaliksik na mahigit 90% ng mga tao ang nakakaranas ng mga nakakaabala na kaisipan. Hindi ka nag-iisa!",
+      "wrongExplain": "Ang mga mapanghimasok na kaisipan ay talagang karaniwan — ipinapakita ng mga pag-aaral na halos lahat ay mayroon nito."
+    },
+    {
+      "q": "Habang sinusubukan mong pigilan ang isang kaisipan, lalo itong bumabalik.",
+      "correctExplain": "Ito ay tinatawag na &#39;epekto ng puting oso.&#39; Ang pagpigil ay nagpapadilim sa mga iniisip.",
+      "wrongExplain": "Totoo naman talaga! Ang pagsisikap na itaboy ang mga iniisip ay nagpapatibay sa mga ito."
+    },
+    {
+      "q": "Kung ang isang kaisipan ay tila totoo, dapat itong totoo.",
+      "correctExplain": "Ang mga damdamin ay hindi katotohanan. Ang OCD ay nagpaparamdam sa mga iniisip na apurahan at totoo — ngunit ang mga ito ay mga kaisipan lamang.",
+      "wrongExplain": "Hindi porket totoo ang isang kaisipan ay totoo na ito. Mahirap ang OCD sa ganoong paraan."
+    },
+    {
+      "q": "Ang pagtanggap sa isang kaisipan ay katumbas ng pagsang-ayon dito.",
+      "correctExplain": "Ang pagtanggap ay nangangahulugang hayaang umiral ang isang kaisipan nang hindi ito nilalabanan — hindi sinusuportahan ito.",
+      "wrongExplain": "Pagtanggap ≠ pagsang-ayon. Mapapansin mo ang isang kaisipan nang hindi mo ito pinaniniwalaan o kinukunsinti."
+    }
+  ]
+}

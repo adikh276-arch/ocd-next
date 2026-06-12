@@ -1,0 +1,49 @@
+# Dependencies
+node_modules
+.pnp
+.pnp.js
+
+# Build output
+dist
+build
+.next
+out
+
+# Version Control
+.git
+.gitignore
+
+# Environment variables (Safety First!)
+# Only allow standard .env if you strictly commit public config there.
+# Always ignore local overrides containing secrets.
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+.env.production
+.env.development
+
+# IDE and Editor directories
+.vscode
+.idea
+*.swp
+*.swo
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Testing
+coverage
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Optional: Ignore Docker config files themselves
+Dockerfile
+docker-compose.yml
+README.md

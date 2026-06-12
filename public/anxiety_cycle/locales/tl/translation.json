@@ -1,0 +1,65 @@
+{
+  "404": "404",
+  "welcome": {
+    "title": "Pag-unawa sa Pagkabalisa sa Kalusugan",
+    "description": "Naisip mo na ba kung bakit hindi nawawala ang mga alalahanin sa kalusugan — kahit gaano mo pa ito suriin? Narito ang eksaktong dahilan.",
+    "read_time": "2 minutong pagbasa",
+    "button": "Ipakita sa Akin →"
+  },
+  "cycle": {
+    "title": "Ito ang Nangyayari sa Iyong Utak",
+    "description_1": "Ang pagkabalisa tungkol sa kalusugan ay hindi basta-basta lumilitaw at umaalis. Ito ay paulit-ulit na tumatakbo — at sa tuwing titingnan mo, pinapalakas mo ang loop na iyon.",
+    "description_2": "Itinuturo ng bawat loop sa iyong utak na ang pag-aalala ay dapat suriin. Kaya patuloy itong bumabalik — sa bawat pagkakataon ay medyo mas malakas.",
+    "highlight": "💡 Ang pagsuri ay nagbibigay ng ginhawa — ngunit hindi kailanman kalayaan.",
+    "button": "Kinikilala Ko Ito →",
+    "restart": "↩ At magsisimula ulit ito..."
+  },
+  "nodes": {
+    "trigger": {
+      "label": "Gatilyo",
+      "desc": "Sakit ng ulo. Isang artikulo. Isang kaisipan."
+    },
+    "anxiety": {
+      "label": "Mga Pagtaas ng Pagkabalisa",
+      "desc": "Paano kung may mali sa akin?"
+    },
+    "check": {
+      "label": "Suriin Mo",
+      "desc": "Google. Doktor. Magtanong ka sa isang tao."
+    },
+    "relief": {
+      "label": "Maikling Tulong",
+      "desc": "Sige... malamang ayos lang ako."
+    },
+    "doubt": {
+      "label": "Bumalik ang Pagdududa",
+      "desc": "Pero paano kung mali sila?"
+    }
+  },
+  "break_cycle": {
+    "title": "Narito Kung Paano Lumaban",
+    "description": "Ang bawat yugto ng siklo ay may paraan upang maantala ito. I-tap ang bawat isa upang makita kung ano ang maaari mong gawin:",
+    "tips": [
+      "Pansinin ito nang hindi nagre-react. Sabihin sa sarili — 'Isa iyan sa mga dahilan, hindi katotohanan.' Pagkatapos ay huminga nang dahan-dahan bago gumawa ng kahit ano.",
+      "Banggitin nang malakas ang nararamdaman — 'Nakakaramdam ako ng pagkabalisa ngayon.' Ang pagbibigay ng pangalan dito ay nakakabawas sa bisa nito. Hindi mo kailangang ayusin ito — kilalanin mo lang ito.",
+      "Ito ang pinakamahalagang yugto para makaabala. Ipagpaliban ang pagsusuri ng 5 minuto lamang. Pagkatapos ay 10 minuto. Ang bawat pagkaantala ay nagpapahina sa nakagawian.",
+      "Paalalahanan ang iyong sarili — ang ginhawang ito ay hindi magtatagal. Ang tunay na ginhawa ay nagmumula sa pagtitiis sa kawalan ng katiyakan, hindi sa pagtakas dito.",
+      "Huwag kang mabahala sa pagdududa. Sabihin mo — 'Ayan na naman ang pagdududa.' Pagkatapos ay hayaan mo na lang itong lumipas na parang ulap nang hindi mo na ito sinusundan."
+    ],
+    "all_tapped": "Alam mo na ngayon kung saan eksaktong nabubuhay ang siklo — at kung paano ito putulin. Ang kaalamang iyan ay makapangyarihan. 💙",
+    "button": "Kumpletuhin ang ✓"
+  },
+  "language_switcher": {
+    "label": "Wika"
+  },
+  "oops_page_not_found": "Oops! Hindi natagpuan ang pahina",
+  "return_to_home": "Bumalik sa Tahanan",
+  "more": "Higit pa",
+  "previous_slide": "Nakaraang slide",
+  "next_slide": "Susunod na slide",
+  "close": "Isara",
+  "previous": "Nakaraan",
+  "next": "Susunod",
+  "more_pages": "Higit pang mga pahina",
+  "toggle_sidebar": "I-toggle ang Sidebar"
+}

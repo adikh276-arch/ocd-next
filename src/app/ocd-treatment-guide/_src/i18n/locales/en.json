@@ -1,0 +1,60 @@
+{
+  "title": "OCD Treatment: What You Need to Know",
+  "hero": {
+    "p1": "Being diagnosed with Obsessive-Compulsive Disorder can feel overwhelming. But it's important to know that OCD is highly treatable.",
+    "p2": "With the right support and evidence-based care, many people are able to regain control and live fulfilling lives."
+  },
+  "is_treatable": {
+    "title": "Is OCD Actually Treatable?",
+    "p1": "Yes — and there's strong research to support that.",
+    "p2": "Roughly half of individuals respond very well to standard first-line treatments. Even if the first attempt doesn't work perfectly, about 70% of people see meaningful improvement when they stay engaged with treatment and adjust strategies as needed.",
+    "quote": "Recovery doesn't always happen overnight, but progress is absolutely possible."
+  },
+  "treatments": {
+    "title": "What Treatments Work Best?",
+    "specialized": {
+      "title": "Specialized Therapy",
+      "subtitle": "ERP-Based CBT",
+      "p1": "OCD involves two main components:",
+      "obsessions": "intrusive, distressing thoughts or urges.",
+      "compulsions": "repetitive behaviors done to reduce anxiety.",
+      "p2": "The most effective therapy for OCD is a specific form of Cognitive Behavioral Therapy called Exposure and Response Prevention (ERP).",
+      "p3": "Instead of avoiding anxiety triggers, ERP helps individuals:",
+      "steps": {
+        "1": "face feared thoughts or situations",
+        "2": "Resist performing the usual compulsive response",
+        "3": "Learn that anxiety naturally decreases without rituals"
+      },
+      "quote": "Over time, this retrains the brain's fear response.",
+      "p4": "Therapy is typically conducted weekly over several months. During this period, clients also practice exercises between sessions. While anxiety may temporarily increase during exposures, this discomfort is part of the healing process.",
+      "p5": "Studies suggest that a majority of people who fully engage in ERP experience significant symptom reduction."
+    }
+  },
+  "get_started": {
+    "title": "How Do You Get Started?",
+    "p1": "The first step is reaching out to a healthcare professional — this could be a primary care provider, psychiatrist, or an OCD-trained therapist.",
+    "p2": "Effective care should include:",
+    "care_items": [
+      "Clear education about OCD",
+      "Discussion of treatment options",
+      "Shared decision-making",
+      "Consideration of your preferences and goals"
+    ],
+    "goals_p": "Treatment goals often include:",
+    "goal_items": [
+      "Reducing symptom intensity",
+      "Improving daily functioning",
+      "Increasing quality of life",
+      "Building coping tools for stressful situations"
+    ]
+  },
+  "final_word": {
+    "title": "A Final Word",
+    "p1": "OCD can be persistent, but it is manageable. Many people — including clinicians, researchers, and individuals with lived experience — have dedicated their work to improving outcomes for those affected.",
+    "quote": "With the right combination of treatment, patience, and support, meaningful recovery is possible."
+  },
+  "common": {
+    "obsessions_label": "Obsessions",
+    "compulsions_label": "Compulsions"
+  }
+}

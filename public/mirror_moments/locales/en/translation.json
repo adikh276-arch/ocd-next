@@ -1,0 +1,44 @@
+{
+  "welcome": {
+    "title": "Mirror Work",
+    "quote": "\"The way you speak to yourself matters more than you know. This is a moment to be kind to the person who needs it most — you.\"",
+    "subtitle": "Find a quiet moment. This is just for you.",
+    "button": "I'm Ready →",
+    "back": "Go back"
+  },
+  "mirror": {
+    "title": "Read These to Yourself",
+    "description": "These are things your kindest, healthiest self wants you to hear. Read each one slowly — out loud if you can. Take your time.",
+    "back": "Go back",
+    "prev": "Previous",
+    "next": "Next",
+    "read_again": "Read it again if you need to. There is no rush.",
+    "complete": "Complete ✓",
+    "completion_msg": "You showed up for yourself today.\nThat is everything. 💙",
+    "affirmations": [
+      "I am not my anxious thoughts.\nMy thoughts are not facts.",
+      "I am doing the best I can\nwith what I have right now.",
+      "It is okay to not have all the answers.\nUncertainty is part of life.",
+      "My body is not my enemy.\nIt is working hard to take care of me.",
+      "I deserve the same kindness\nI would give to someone I love.",
+      "This worry will pass. It always does.\nI have survived every hard moment so far.",
+      "I am more than my health anxiety.\nThere is so much more to me than this."
+    ]
+  },
+  "notfound": {
+    "title": "404",
+    "subtitle": "Oops! Page not found",
+    "return": "Return to Home"
+  },
+  "common": {
+    "language": "Language"
+  },
+  "more": "More",
+  "previous_slide": "Previous slide",
+  "next_slide": "Next slide",
+  "close": "Close",
+  "previous": "Previous",
+  "next": "Next",
+  "more_pages": "More pages",
+  "toggle_sidebar": "Toggle Sidebar"
+}

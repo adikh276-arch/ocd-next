@@ -1,0 +1,81 @@
+{
+  "404": "404",
+  "activity_name": "Thay đổi cách suy nghĩ",
+  "intro": {
+    "title": "Hãy nhìn nhận vấn đề theo một cách khác.",
+    "p1": "Tâm trí chúng ta tự động tạo ra những suy nghĩ — đặc biệt là khi mức độ lo lắng cao.",
+    "p2": "Một số việc nghe có vẻ cấp bách. Một số việc khác nghe có vẻ thuyết phục.",
+    "p3": "Nhưng suy nghĩ chỉ là sự diễn giải, chứ không phải sự thật.",
+    "p4": "Hôm nay, chúng ta sẽ thực hành việc nhẹ nhàng định hình lại một cái.",
+    "button": "Tôi sẵn sàng thử."
+  },
+  "identify": {
+    "title": "Ý nghĩ đó là gì?",
+    "p1": "Hãy viết ra suy nghĩ đó chính xác như nó xuất hiện trong đầu bạn.",
+    "p2": "Không chỉnh sửa. Không sửa chữa.",
+    "placeholder": "Ví dụ: &quot;Nếu tôi mắc sai lầm, mọi thứ sẽ sụp đổ.&quot;",
+    "hint": "Hãy chú ý đến giọng điệu của suy nghĩ đó.",
+    "button": "Tôi hiểu rõ điều đó."
+  },
+  "examine": {
+    "title": "Hãy chậm lại nào.",
+    "question": "Điều gì khiến suy nghĩ này trở nên đúng đắn? Phải chăng đó là:",
+    "hint": "Lo lắng thường phóng đại những điều có thể xảy ra thành những điều chắc chắn.",
+    "button": "Được rồi…"
+  },
+  "reframe": {
+    "title": "Vậy phiên bản nào cân bằng hơn?",
+    "p1": "Điều này không có nghĩa là giả vờ mọi thứ đều ổn.",
+    "p2": "Đó là về việc bổ sung thêm góc nhìn.",
+    "list_title": "Hãy thử viết ra một suy nghĩ như sau:",
+    "list_item1": "Thực tế hơn",
+    "list_item2": "Ít cực đoan hơn",
+    "list_item3": "Dựa trên bằng chứng",
+    "placeholder": "Hãy viết một phiên bản cân bằng hơn…",
+    "original_label": "Nguyên bản:",
+    "balanced_label": "Cân bằng:",
+    "example_original": "Nếu tôi nghĩ vậy, thì chắc chắn đó là sự thật.",
+    "example_balanced": "Suy nghĩ diễn ra một cách tự động. Chúng không quyết định hành động của tôi.",
+    "button": "Như vậy nghe có vẻ thực tế hơn."
+  },
+  "integration": {
+    "title": "Hãy chú ý đến sự thay đổi.",
+    "p1": "Hãy so sánh ý tưởng ban đầu và ý tưởng được diễn đạt lại.",
+    "p2": "Liệu suy nghĩ mới này có đúng không:",
+    "list_item1": "Giảm bớt tính cấp bách?",
+    "list_item2": "Tạo không gian?",
+    "list_item3": "Bạn cảm thấy linh hoạt hơn một chút chứ?",
+    "hint": "Ngay cả những thay đổi nhỏ cũng góp phần xây dựng khả năng phục hồi.",
+    "button": "Tôi có thể luyện tập điều này."
+  },
+  "completion": {
+    "title": "Góc nhìn đúng đắn tạo nên sức mạnh.",
+    "subtitle": "Bạn đã luyện tập cách phản ứng khác đi.",
+    "p1": "Đó là sự tiến bộ.",
+    "try_again": "Hãy thử lại",
+    "show_saved": "Hiển thị các mục đã lưu của tôi"
+  },
+  "distortions": {
+    "prediction": "Một dự đoán",
+    "worst_case": "Một kịch bản tồi tệ nhất",
+    "assumption": "Một giả định",
+    "feeling": "Một cảm xúc được ngụy trang thành sự thật."
+  },
+  "saved_entries": {
+    "title": "Các mục đã lưu của tôi",
+    "loading": "Đang tải nhật ký của bạn...",
+    "no_entries": "Chưa có mục nào được lưu.",
+    "the_thought": "Suy nghĩ",
+    "reframed": "Định hình lại"
+  },
+  "oops_page_not_found": "Rất tiếc! Không tìm thấy trang",
+  "return_to_home": "Trở về nhà",
+  "more": "Xem thêm",
+  "previous_slide": "Trang trình bày trước",
+  "next_slide": "Trang trình bày tiếp theo",
+  "close": "Đóng",
+  "previous": "Trước",
+  "next": "Kế tiếp",
+  "more_pages": "Các trang khác",
+  "toggle_sidebar": "Chuyển đổi thanh bên"
+}

@@ -1,0 +1,65 @@
+{
+  "404": "404",
+  "welcome": {
+    "title": "Comprendere l'ansia per la salute",
+    "description": "Vi siete mai chiesti perché le preoccupazioni per la salute non scompaiono mai, non importa quante volte vi sottoponiate a controlli? Ecco la spiegazione.",
+    "read_time": "2 minuti di lettura",
+    "button": "Mostrami →"
+  },
+  "cycle": {
+    "title": "Ecco cosa succede nel tuo cervello",
+    "description_1": "L'ansia per la salute non compare e scompare all'improvviso. Si perpetua in un circolo vizioso e ogni volta che controlli, non fai altro che rafforzarlo.",
+    "description_2": "Ogni ciclo ripete che la preoccupazione valeva la pena di essere verificata. Quindi continua a ripresentarsi, ogni volta un po' più forte.",
+    "highlight": "💡 Controllare dà sollievo, ma non libera mai.",
+    "button": "Riconosco questo →",
+    "restart": "↩ E ricomincia tutto da capo..."
+  },
+  "nodes": {
+    "trigger": {
+      "label": "Grilletto",
+      "desc": "Un mal di testa. Un articolo. Un pensiero."
+    },
+    "anxiety": {
+      "label": "Picchi di ansia",
+      "desc": "E se avessi qualche problema?"
+    },
+    "check": {
+      "label": "Tu controlli",
+      "desc": "Google. Dottore. Chiedi a qualcuno."
+    },
+    "relief": {
+      "label": "Breve sollievo",
+      "desc": "Okay… probabilmente sto bene."
+    },
+    "doubt": {
+      "label": "Il dubbio ritorna",
+      "desc": "Ma se si sbagliassero?"
+    }
+  },
+  "break_cycle": {
+    "title": "Ecco come reagire",
+    "description": "Ogni fase del ciclo può essere interrotta in diversi modi. Tocca ciascuna fase per scoprire cosa puoi fare:",
+    "tips": [
+      "Osservalo senza reagire. Dì a te stesso: \"Questo è un fattore scatenante, non un dato di fatto\". Poi fai un respiro lento prima di fare qualsiasi cosa.",
+      "Dai un nome a quella sensazione ad alta voce: \"In questo momento mi sento ansioso\". Nominarla ne riduce l'intensità. Non devi risolverla, devi solo riconoscerla.",
+      "Questa è la fase più importante da interrompere. Rimanda il controllo di soli 5 minuti. Poi di 10. Ogni ritardo indebolisce l'abitudine.",
+      "Ricordati che questo sollievo non durerà. Il vero sollievo deriva dal tollerare l'incertezza, non dal fuggire da essa.",
+      "Non lasciarti coinvolgere dal dubbio. Dì a te stesso: \"Ecco di nuovo quel dubbio\". Poi lascialo passare come una nuvola, senza seguirlo."
+    ],
+    "all_tapped": "Ora sai esattamente dove si annida questo ciclo e come interromperlo. Questa conoscenza è potentissima. 💙",
+    "button": "Completato ✓"
+  },
+  "language_switcher": {
+    "label": "Lingua"
+  },
+  "oops_page_not_found": "Ops! Pagina non trovata",
+  "return_to_home": "Ritorno a casa",
+  "more": "Altro",
+  "previous_slide": "Diapositiva precedente",
+  "next_slide": "Slide successiva",
+  "close": "Chiudi",
+  "previous": "Precedente",
+  "next": "Prossimo",
+  "more_pages": "Altre pagine",
+  "toggle_sidebar": "Toggle Sidebar"
+}

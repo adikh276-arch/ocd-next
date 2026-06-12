@@ -1,0 +1,59 @@
+{
+  "welcome": {
+    "badge": "DOC PURO",
+    "title": "Pensiero o verità?",
+    "description": "Scorri verso sinistra per Falso / Scorri verso destra per Vero!",
+    "details": "5 domande · vero o falso",
+    "button": "Andiamo! 🚀"
+  },
+  "before": {
+    "title": "Prima di iniziare",
+    "p1": "Il nostro cervello genera ogni giorno ogni sorta di pensiero, anche spaventoso o bizzarro. Questo non significa che ci sia qualcosa che non va in te.",
+    "p2": "Nel disturbo ossessivo-compulsivo a predominanza ossessiva (DOC) di tipo O puro, il problema non è il pensiero in sé, ma l&#39;importanza che gli attribuiamo.",
+    "button": "Sono pronto 💪"
+  },
+  "quiz": {
+    "questionCount": "Domanda {{current}} di {{total}}",
+    "falseHint": "👈 Falso",
+    "trueHint": "Vero 👉",
+    "correct": "✅ Corretto!",
+    "incorrect": "❌ Non proprio!",
+    "continue": "Continua →"
+  },
+  "results": {
+    "amazing": "Sorprendente!",
+    "niceTry": "Bel tentativo!",
+    "keepLearning": "Continua ad imparare!",
+    "scoreMsg": "Hai ottenuto {{score}} su {{total}} corretto",
+    "heartsMsg": "Cuori rimanenti: ",
+    "remember": "Ricorda: i pensieri sono solo pensieri. Non definiscono chi sei. 💜",
+    "tryAgain": "Riprova 🔄"
+  },
+  "questions": [
+    {
+      "q": "Avere pensieri violenti significa essere una persona pericolosa.",
+      "correctExplain": "I pensieri non sono fatti. Tutti hanno pensieri intrusivi, ma non ti definiscono.",
+      "wrongExplain": "In realtà, avere un pensiero spaventoso non ti rende pericoloso. I pensieri intrusivi sono normali."
+    },
+    {
+      "q": "I pensieri intrusivi sono un&#39;esperienza comune a quasi tutti, prima o poi.",
+      "correctExplain": "Le ricerche dimostrano che oltre il 90% delle persone sperimenta pensieri intrusivi. Non sei solo!",
+      "wrongExplain": "I pensieri intrusivi sono in realtà molto comuni: gli studi dimostrano che quasi tutti ne hanno."
+    },
+    {
+      "q": "Più si cerca di reprimere un pensiero, più questo ritorna.",
+      "correctExplain": "Questo fenomeno è chiamato &quot;effetto orso bianco&quot;. La soppressione rende i pensieri più persistenti.",
+      "wrongExplain": "È proprio vero! Cercare di allontanare i pensieri non fa altro che farli tornare più forti."
+    },
+    {
+      "q": "Se un pensiero sembra reale, allora deve essere vero.",
+      "correctExplain": "Le emozioni non sono fatti. Il disturbo ossessivo-compulsivo fa sì che i pensieri sembrino urgenti e reali, ma in realtà sono solo pensieri.",
+      "wrongExplain": "Il fatto che un pensiero sembri reale non significa che sia vero. Il disturbo ossessivo-compulsivo è insidioso proprio per questo."
+    },
+    {
+      "q": "Accettare un&#39;idea equivale ad essere d&#39;accordo con essa.",
+      "correctExplain": "Accettare significa lasciare che un pensiero esista senza combatterlo, non approvarlo.",
+      "wrongExplain": "Accettazione ≠ accordo. Puoi notare un pensiero senza crederci o agire di conseguenza."
+    }
+  ]
+}

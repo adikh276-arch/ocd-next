@@ -1,0 +1,54 @@
+{
+  "welcome": {
+    "title": "Jurnal Kekacauan & Emosi",
+    "subtitle": "\"Setiap benda yang kamu simpan menyimpan sesuatu untukmu.\"",
+    "description": "Ini bukan soal membersihkan ruang. Ini soal memahami apa yang tersimpan di dalam barang-barangmu. 🌸",
+    "instruction": "Coba pikirkan satu barang yang selama ini kamu simpan. Apa pun yang pertama kali terlintas di pikiranmu adalah barang yang tepat. ✨",
+    "placeholder": "misalnya syal lama ibuku, jam tangan yang rusak",
+    "myJournal": "📖 Jurnal Saya →",
+    "nextBtn": "Ini Objek Saya →"
+  },
+  "exploration": {
+    "title": "Mari kita jelajahi ini bersama. 🔍",
+    "subtitle": "Jawablah mana pun yang menurut Anda tepat. Anda bisa melewatkan salah satunya.",
+    "prompt1": "Kapan benda ini masuk ke dalam hidup Anda? Apa yang terjadi saat itu?",
+    "prompt2": "Menurut Anda apa yang akan terjadi jika objek ini hilang besok?",
+    "prompt3": "Apakah benda ini mengingatkan Anda pada seseorang, suatu masa, atau versi diri Anda sendiri?",
+    "prompt4": "Apa manfaat menyimpan benda ini bagi Anda?",
+    "placeholder": "Menulislah dengan bebas — ini khusus untukmu. 💭",
+    "back": "← kembali",
+    "next": "selanjutnya →",
+    "nextBtn": "Aku Sudah Cukup Merenung →"
+  },
+  "insight": {
+    "title": "Apa yang kamu perhatikan? 💡",
+    "description1": "Terkadang benda-benda menyimpan lebih dari sekadar barang. Benda-benda itu menyimpan perasaan yang belum kita temukan tempat lain untuk mengungkapkannya.",
+    "description2": "Apa sebenarnya yang benda ini simpan untuk Anda?",
+    "option1": "Ketakutan untuk melupakan",
+    "option2": "Ketakutan tidak memiliki cukup",
+    "option3": "Sebuah kenangan yang tak siap kulupakan.",
+    "option4": "Bagian dari identitas saya",
+    "option5": "Rasa bersalah atau tanggung jawab",
+    "option6": "Cinta untuk seseorang",
+    "option7": "Sesuatu yang belum bisa saya sebutkan namanya",
+    "footer": "Menyebutkannya bukan berarti Anda harus bertindak berdasarkan hal itu. Kesadaran itu sendiri adalah sebuah pekerjaan. 🌸",
+    "nextBtn": "Sekarang Aku Mengerti →"
+  },
+  "closing": {
+    "title": "Kamu baru saja melakukan sesuatu yang berani.",
+    "subtitle": "Kebanyakan orang tidak pernah bertanya mengapa mereka bertahan. Anda melakukannya. Kejujuran seperti itulah yang menjadi awal perubahan nyata.",
+    "todaysObject": "Objek hari ini",
+    "whatsHolding": "Apa yang dipegangnya",
+    "footer": "Silakan kembali kapan pun Anda siap untuk menjelajahi tempat lain. 🌸",
+    "entriesCount_one": "🌿 {{count}} entry in your journal",
+    "entriesCount_other": "🌿 {{count}} entries in your journal",
+    "viewJournal": "📖 Lihat entri saya sebelumnya →",
+    "closeBtn": "Tutup untuk hari ini"
+  },
+  "journal": {
+    "title": "Jurnal Saya 📖",
+    "subtitle": "Setiap entri adalah momen keberanian.",
+    "empty": "Jurnal Anda sudah menunggu. Mulailah refleksi pertama Anda hari ini.",
+    "startBtn": "Mulai Entri Hari Ini →"
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "404": "404",
+  "activity_name": "Membingkai Ulang Pikiran",
+  "intro": {
+    "title": "Mari kita lihat pemikiran itu dari sudut pandang yang berbeda.",
+    "p1": "Pikiran kita menghasilkan pikiran otomatis — terutama ketika tingkat kecemasan tinggi.",
+    "p2": "Sebagian terasa mendesak. Sebagian lagi terasa meyakinkan.",
+    "p3": "Namun, pikiran adalah interpretasi, bukan fakta.",
+    "p4": "Hari ini, kita akan berlatih membentuk ulang salah satunya dengan lembut.",
+    "button": "Saya siap mencoba."
+  },
+  "identify": {
+    "title": "Apa yang dipikirkan?",
+    "p1": "Tuliskan pemikiran itu persis seperti yang muncul dalam benak Anda.",
+    "p2": "Tidak ada pengeditan. Tidak ada perbaikan.",
+    "placeholder": "Contoh: &quot;Jika saya membuat kesalahan, semuanya akan hancur berantakan.&quot;",
+    "hint": "Perhatikan nada pemikiran tersebut.",
+    "button": "Saya melihatnya dengan jelas."
+  },
+  "examine": {
+    "title": "Mari kita perlambat.",
+    "question": "Apa yang membuat pemikiran ini terasa benar? Apakah itu:",
+    "hint": "Kecemasan sering kali memperbesar kemungkinan menjadi kepastian.",
+    "button": "Oke…"
+  },
+  "reframe": {
+    "title": "Versi mana yang lebih seimbang?",
+    "p1": "Ini bukan tentang berpura-pura semuanya baik-baik saja.",
+    "p2": "Ini tentang menambah perspektif.",
+    "list_title": "Cobalah menuliskan sebuah pemikiran yang:",
+    "list_item1": "Lebih realistis",
+    "list_item2": "Kurang ekstrem",
+    "list_item3": "Berdasarkan bukti",
+    "placeholder": "Tulis versi yang lebih seimbang…",
+    "original_label": "Asli:",
+    "balanced_label": "Seimbang:",
+    "example_original": "Jika aku memikirkannya, pasti itu benar.",
+    "example_balanced": "Pikiran muncul secara otomatis. Pikiran tidak menentukan tindakan saya.",
+    "button": "Itu terasa lebih masuk akal."
+  },
+  "integration": {
+    "title": "Perhatikan pergeserannya.",
+    "p1": "Bandingkan pemikiran awal dan pemikiran yang telah dirumuskan ulang.",
+    "p2": "Apakah pemikiran baru ini:",
+    "list_item1": "Mengurangi urgensi?",
+    "list_item2": "Menciptakan ruang?",
+    "list_item3": "Merasa sedikit lebih fleksibel?",
+    "hint": "Perubahan kecil sekalipun dapat membangun ketahanan.",
+    "button": "Saya bisa mempraktikkannya."
+  },
+  "completion": {
+    "title": "Sudut pandang membangun kekuatan.",
+    "subtitle": "Anda berlatih merespons dengan cara yang berbeda.",
+    "p1": "Itu adalah sebuah kemajuan.",
+    "try_again": "Coba lagi",
+    "show_saved": "Tampilkan entri yang saya simpan"
+  },
+  "distortions": {
+    "prediction": "Sebuah prediksi",
+    "worst_case": "Skenario terburuk",
+    "assumption": "Sebuah asumsi",
+    "feeling": "Perasaan yang disamarkan sebagai fakta"
+  },
+  "saved_entries": {
+    "title": "Entri yang Saya Simpan",
+    "loading": "Sedang memuat log Anda...",
+    "no_entries": "Belum ada entri yang tersimpan.",
+    "the_thought": "Pemikiran",
+    "reframed": "Dibingkai ulang"
+  },
+  "oops_page_not_found": "Ups! Halaman tidak ditemukan",
+  "return_to_home": "Kembali ke Rumah",
+  "more": "Selengkapnya",
+  "previous_slide": "Slide sebelumnya",
+  "next_slide": "Slide berikutnya",
+  "close": "Tutup",
+  "previous": "sebelumnya",
+  "next": "Selanjutnya",
+  "more_pages": "Halaman lainnya",
+  "toggle_sidebar": "Beralih Bilah Sisi"
+}

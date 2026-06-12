@@ -1,0 +1,22 @@
+{
+  "404": "404",
+  "title": "Dankbarkeits-Check-in",
+  "subtitle": "Nenne drei Dinge, für die du dankbar bist",
+  "input_placeholder": "Ich bin dankbar für...",
+  "submit_button": "Dankbarkeit protokollieren",
+  "logged_title": "Dankbarkeit protokolliert!",
+  "logged_subtitle": "Kleine Momente, große Freude.",
+  "log_another": "Weiteres Protokoll",
+  "history_title": "Meine Dankbarkeitslisten",
+  "gratitude_history": "Dankbarkeitsgeschichte",
+  "oops_page_not_found": "Ups! Seite nicht gefunden",
+  "return_to_home": "Rückkehr in die Heimat",
+  "more": "Mehr",
+  "previous_slide": "Vorherige Folie",
+  "next_slide": "Nächste Folie",
+  "close": "Schließen",
+  "previous": "Früher",
+  "next": "Als Nächstes",
+  "more_pages": "Mehr Seiten",
+  "toggle_sidebar": "Seitenleiste umschalten"
+}

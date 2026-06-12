@@ -1,0 +1,44 @@
+{
+  "welcome": {
+    "title": "Ayna Çalışması",
+    "quote": "\"Kendinize nasıl konuştuğunuz sandığınızdan daha önemlidir. Bu, en çok ihtiyacı olan kişiye, yani kendinize karşı nazik olma anıdır.\"",
+    "subtitle": "Sakin bir an bulun. Bu sadece sizin için.",
+    "button": "Hazırım →",
+    "back": "Geri gitmek"
+  },
+  "mirror": {
+    "title": "Bunları Kendiniz Okuyun",
+    "description": "Bunlar, en nazik ve sağlıklı benliğinizin duymanızı istediği şeyler. Her birini yavaşça okuyun - mümkünse yüksek sesle. Acele etmeyin.",
+    "back": "Geri gitmek",
+    "prev": "Öncesi",
+    "next": "Sonraki",
+    "read_again": "Gerekirse tekrar okuyun. Acele etmenize gerek yok.",
+    "complete": "Tamamlandı ✓",
+    "completion_msg": "Bugün kendin için buradaydın.\nBu her şey demek. 💙",
+    "affirmations": [
+      "Ben kaygılı düşüncelerim değilim.\n\nDüşüncelerim gerçekler değildir.",
+      "Elimdeki imkanlarla elimden gelenin en iyisini yapıyorum.",
+      "Tüm cevaplara sahip olmamak sorun değil.\nBelirsizlik hayatın bir parçasıdır.",
+      "Bedenim düşmanım değil.\nBenimle ilgilenmek için çok çalışıyor.",
+      "Sevdiğim birine göstereceğim aynı iyiliği ben de hak ediyorum.",
+      "Bu endişe geçecek. Her zaman geçer.\n\nŞimdiye kadar her zor anın üstesinden geldim.",
+      "Ben sağlık kaygımdan çok daha fazlasıyım.\nBen bundan çok daha fazlasıyım."
+    ]
+  },
+  "notfound": {
+    "title": "404",
+    "subtitle": "Ups! Sayfa bulunamadı.",
+    "return": "Ana sayfaya dön"
+  },
+  "common": {
+    "language": "Dil"
+  },
+  "more": "Daha fazlası",
+  "previous_slide": "Önceki slayt",
+  "next_slide": "Sonraki slayt",
+  "close": "Kapat",
+  "previous": "Önceki",
+  "next": "Sıradaki",
+  "more_pages": "Daha fazla sayfa",
+  "toggle_sidebar": "Yan Çubuğu Aç"
+}

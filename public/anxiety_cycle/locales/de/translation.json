@@ -1,0 +1,65 @@
+{
+  "404": "404",
+  "welcome": {
+    "title": "Gesundheitsangst verstehen",
+    "description": "Haben Sie sich jemals gefragt, warum gesundheitliche Sorgen nie verschwinden – egal wie oft man sie untersuchen lässt? Hier ist der genaue Grund.",
+    "read_time": "2 Minuten Lesezeit",
+    "button": "Zeig mir →"
+  },
+  "cycle": {
+    "title": "Das passiert in Ihrem Gehirn",
+    "description_1": "Gesundheitsangst taucht nicht einfach auf und verschwindet wieder. Sie befindet sich in einer Schleife – und jedes Mal, wenn man etwas überprüft, verstärkt man diese Schleife.",
+    "description_2": "Jeder Wiederholungszyklus lehrt Ihr Gehirn, dass die Sorge berechtigt war, überprüft zu werden. Deshalb kehrt sie immer wieder zurück – jedes Mal ein bisschen lauter.",
+    "highlight": "💡 Kontrollen bringen Erleichterung – aber niemals Freiheit.",
+    "button": "Ich erkenne das →",
+    "restart": "Und es beginnt von neuem..."
+  },
+  "nodes": {
+    "trigger": {
+      "label": "Auslösen",
+      "desc": "Kopfschmerzen. Ein Artikel. Ein Gedanke."
+    },
+    "anxiety": {
+      "label": "Angstspitzen",
+      "desc": "Was, wenn mit mir etwas nicht stimmt?"
+    },
+    "check": {
+      "label": "Sie prüfen",
+      "desc": "Google. Arzt. Jemanden fragen."
+    },
+    "relief": {
+      "label": "Kurze Erleichterung",
+      "desc": "Okay… mir geht es wahrscheinlich gut."
+    },
+    "doubt": {
+      "label": "Zweifel kehren zurück",
+      "desc": "Aber was, wenn sie sich irren?"
+    }
+  },
+  "break_cycle": {
+    "title": "So können Sie sich wehren",
+    "description": "Jede Phase des Zyklus kann unterbrochen werden. Tippe auf jede einzelne, um zu sehen, was du tun kannst:",
+    "tips": [
+      "Nimm es wahr, ohne zu reagieren. Sage dir: „Das ist ein Auslöser, keine Tatsache.“ Dann atme einmal tief durch, bevor du irgendetwas tust.",
+      "Sprich das Gefühl laut aus – „Ich bin gerade ängstlich.“ Indem du es benennst, schwächst du seine Macht. Du musst es nicht lösen – nimm es einfach nur wahr.",
+      "Dies ist der wichtigste Zeitpunkt für eine Unterbrechung. Verzögern Sie die Kontrolle zunächst um 5 Minuten, dann um 10. Jede Verzögerung schwächt die Gewohnheit.",
+      "Erinnere dich daran: Diese Erleichterung wird nicht anhalten. Wahre Erleichterung entsteht durch das Ertragen von Unsicherheit, nicht durch die Flucht vor ihr.",
+      "Lass dich nicht auf den Zweifel ein. Sag einfach: „Da ist er wieder, der Zweifel.“ Und dann lass ihn wie eine Wolke vorüberziehen, ohne ihm nachzugehen."
+    ],
+    "all_tapped": "Du weißt nun genau, wo der Kreislauf seinen Ursprung hat – und wie du ihn durchbrechen kannst. Dieses Wissen ist mächtig. 💙",
+    "button": "Abgeschlossen ✓"
+  },
+  "language_switcher": {
+    "label": "Sprache"
+  },
+  "oops_page_not_found": "Ups! Seite nicht gefunden",
+  "return_to_home": "Rückkehr in die Heimat",
+  "more": "Mehr",
+  "previous_slide": "Vorherige Folie",
+  "next_slide": "Nächste Folie",
+  "close": "Schließen",
+  "previous": "Früher",
+  "next": "Als Nächstes",
+  "more_pages": "Mehr Seiten",
+  "toggle_sidebar": "Seitenleiste umschalten"
+}

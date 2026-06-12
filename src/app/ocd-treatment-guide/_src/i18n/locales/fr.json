@@ -1,0 +1,61 @@
+{
+  "title": "Traitement des TOC : ce que vous devez savoir",
+  "hero": {
+    "p1": "Recevoir un diagnostic de trouble obsessionnel-compulsif peut être bouleversant. Mais il est important de savoir que le TOC se soigne très bien.",
+    "p2": "Avec le soutien adéquat et des soins fondés sur des données probantes, de nombreuses personnes parviennent à reprendre le contrôle et à mener une vie épanouissante."
+  },
+  "is_treatable": {
+    "title": "Les TOC sont-ils réellement traitables ?",
+    "p1": "Oui, et de solides recherches le confirment.",
+    "p2": "Environ la moitié des personnes répondent très bien aux traitements de première intention. Même si la première tentative n&#39;est pas parfaitement efficace, environ 70 % des personnes constatent une amélioration significative en poursuivant activement leur traitement et en adaptant les stratégies selon leurs besoins.",
+    "quote": "La guérison ne se fait pas toujours du jour au lendemain, mais les progrès sont tout à fait possibles."
+  },
+  "treatments": {
+    "title": "Quels sont les traitements les plus efficaces ?",
+    "specialized": {
+      "title": "Thérapie spécialisée",
+      "subtitle": "Thérapie cognitivo-comportementale basée sur l&#39;ERP",
+      "p1": "Le TOC comporte deux composantes principales :",
+      "obsessions": "pensées ou pulsions intrusives et angoissantes.",
+      "compulsions": "comportements répétitifs visant à réduire l&#39;anxiété.",
+      "p2": "Le traitement le plus efficace contre les TOC est une forme spécifique de thérapie cognitivo-comportementale appelée exposition avec prévention de la réponse (ERP).",
+      "p3": "Au lieu d&#39;éviter les facteurs déclencheurs d&#39;anxiété, l&#39;ERP aide les individus à :",
+      "steps": [
+        null,
+        "faire face à des pensées ou des situations redoutées",
+        "Résistez à la réaction compulsive habituelle.",
+        "Apprenez que l&#39;anxiété diminue naturellement sans rituels."
+      ],
+      "quote": "Avec le temps, cela modifie la réponse de peur du cerveau.",
+      "p4": "La thérapie se déroule généralement à raison d&#39;une séance par semaine pendant plusieurs mois. Durant cette période, les patients pratiquent également des exercices entre les séances. Bien que l&#39;anxiété puisse augmenter temporairement lors des expositions, ce malaise fait partie intégrante du processus de guérison.",
+      "p5": "Des études suggèrent qu&#39;une majorité de personnes qui s&#39;engagent pleinement dans la thérapie d&#39;exposition avec prévention de la réponse (ERP) constatent une réduction significative de leurs symptômes."
+    }
+  },
+  "get_started": {
+    "title": "Comment commencer ?",
+    "p1": "La première étape consiste à contacter un professionnel de la santé — il peut s&#39;agir d&#39;un médecin généraliste, d&#39;un psychiatre ou d&#39;un thérapeute spécialisé dans les TOC.",
+    "p2": "Des soins efficaces devraient comprendre :",
+    "care_items": [
+      "Une information claire sur les TOC",
+      "Discussion des options de traitement",
+      "Prise de décision partagée",
+      "Prise en compte de vos préférences et de vos objectifs"
+    ],
+    "goals_p": "Les objectifs du traitement comprennent souvent :",
+    "goal_items": [
+      "Réduire l&#39;intensité des symptômes",
+      "Améliorer le fonctionnement quotidien",
+      "Améliorer la qualité de vie",
+      "Développer des outils pour faire face aux situations stressantes"
+    ]
+  },
+  "final_word": {
+    "title": "Un dernier mot",
+    "p1": "Les TOC peuvent être persistants, mais ils sont gérables. De nombreuses personnes, notamment des cliniciens, des chercheurs et des personnes atteintes de TOC, ont consacré leurs travaux à améliorer la prise en charge des personnes concernées.",
+    "quote": "Avec une combinaison appropriée de traitement, de patience et de soutien, une guérison significative est possible."
+  },
+  "common": {
+    "obsessions_label": "Obsessions",
+    "compulsions_label": "Compulsions"
+  }
+}

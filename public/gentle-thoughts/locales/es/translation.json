@@ -1,0 +1,32 @@
+{
+  "404": "404",
+  "header": "Consejos para el TOC",
+  "subHeader": "Técnicas suaves de conexión a tierra",
+  "tipBadge": "Consejo",
+  "swipeHint": "Desliza para continuar",
+  "prevTip": "Consejo anterior",
+  "nextTip": "Siguiente consejo",
+  "tips": [
+    "Observa el pensamiento y etiquétalo suavemente: &quot;Este es un pensamiento TOC&quot;.",
+    "Permita la incertidumbre en lugar de intentar resolverla inmediatamente.",
+    "Deja que los sentimientos incómodos existan sin juzgarte por tenerlos.",
+    "Recuerde que los pensamientos son eventos mentales, no hechos o intenciones.",
+    "Concéntrese en lo que está haciendo en el momento presente, no en escenarios hipotéticos.",
+    "Practique la respiración lenta cuando aumente la ansiedad: inhale lentamente y exhale aún más lentamente.",
+    "Mantenga una rutina de sueño constante para favorecer la regulación emocional.",
+    "Coma comidas regulares y equilibradas para evitar picos de ansiedad debido a la falta de energía.",
+    "Reduce la cafeína si notas que aumenta la inquietud o los pensamientos intrusivos.",
+    "Sea amable con usted mismo: el progreso en la recuperación del TOC ocurre paso a paso, no de manera perfecta."
+  ],
+  "not_found": "No encontrado",
+  "oops_page_not_found": "¡Ups! Página no encontrada",
+  "return_to_home": "Regreso a casa",
+  "more": "Más",
+  "previous_slide": "Diapositiva anterior",
+  "next_slide": "Siguiente diapositiva",
+  "close": "Cierre",
+  "previous": "Anterior",
+  "next": "Siguiente",
+  "more_pages": "Más páginas",
+  "toggle_sidebar": "Alternar barra lateral"
+}

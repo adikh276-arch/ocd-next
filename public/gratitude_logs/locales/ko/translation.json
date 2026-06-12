@@ -1,0 +1,22 @@
+{
+  "404": "404",
+  "title": "감사 점검",
+  "subtitle": "감사한 일 세 가지를 말해 보세요.",
+  "input_placeholder": "저는 ~에 감사합니다...",
+  "submit_button": "감사의 기록",
+  "logged_title": "감사 인사 기록 완료!",
+  "logged_subtitle": "작은 순간들이 큰 기쁨을 가져다줍니다.",
+  "log_another": "로그 추가",
+  "history_title": "나의 감사 기록",
+  "gratitude_history": "감사의 역사",
+  "oops_page_not_found": "앗! 페이지를 찾을 수 없습니다",
+  "return_to_home": "고향으로의 귀환",
+  "more": "더 보기",
+  "previous_slide": "이전 슬라이드",
+  "next_slide": "다음 슬라이드",
+  "close": "닫습니다",
+  "previous": "이전",
+  "next": "다음",
+  "more_pages": "더 많은 페이지",
+  "toggle_sidebar": "토글 사이드바"
+}

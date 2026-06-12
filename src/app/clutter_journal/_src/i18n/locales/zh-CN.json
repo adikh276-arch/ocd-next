@@ -1,0 +1,54 @@
+{
+  "welcome": {
+    "title": "杂物与情绪日记",
+    "subtitle": "你保留的每一个物品都在为你保留着一些东西。",
+    "description": "这并非关乎腾出空间，而是关乎了解你的物品承载着什么。🌸",
+    "instruction": "想想你一直珍藏的一件物品。第一个浮现在脑海中的就是正确的答案。✨",
+    "placeholder": "例如：我母亲的旧围巾，一块坏掉的手表",
+    "myJournal": "📖 我的日记 →",
+    "nextBtn": "这是我的目标 →"
+  },
+  "exploration": {
+    "title": "让我们一起来探索一下。🔍",
+    "subtitle": "回答你觉得合适的问题，可以跳过任何一个。",
+    "prompt1": "这件物品是什么时候进入你的生活的？当时发生了什么事？",
+    "prompt2": "你觉得如果明天这个物体消失了会发生什么？",
+    "prompt3": "这个物品是否让你想起某个人、某个时期，或者某个版本的自己？",
+    "prompt4": "保管这个物品能保护你免受什么伤害？",
+    "placeholder": "尽情书写——这是专门为你准备的。💭",
+    "back": "← 返回",
+    "next": "下一页 →",
+    "nextBtn": "我已经反思够了 →"
+  },
+  "insight": {
+    "title": "你注意到了什么？💡",
+    "description1": "有时候，物品承载的不仅仅是东西，它们还承载着我们尚未找到其他归宿的情感。",
+    "description2": "这个物品对你来说究竟意味着什么？",
+    "option1": "害怕遗忘",
+    "option2": "害怕不够用",
+    "option3": "一段我不愿失去的回忆",
+    "option4": "这是我身份认同的一部分",
+    "option5": "罪责或责任",
+    "option6": "对某人的爱",
+    "option7": "某种我暂时还无法命名的东西",
+    "footer": "意识到它并不意味着你必须采取行动。觉察本身就是一种行动。🌸",
+    "nextBtn": "我现在明白了 →"
+  },
+  "closing": {
+    "title": "你做了件勇敢的事。",
+    "subtitle": "大多数人从不问自己为什么执迷不悟。你问了。这种坦诚才是真正改变的开始。",
+    "todaysObject": "今天的物品",
+    "whatsHolding": "它里面装着什么",
+    "footer": "随时欢迎你回来探索其他地方。🌸",
+    "entriesCount_one": "🌿 {{count}} entry in your journal",
+    "entriesCount_other": "🌿 {{count}} entries in your journal",
+    "viewJournal": "📖 查看我之前的文章 →",
+    "closeBtn": "今日结束"
+  },
+  "journal": {
+    "title": "我的日记📖",
+    "subtitle": "每一次参赛都是一次勇气的考验。",
+    "empty": "你的日记本已准备就绪。今天就开始你的第一次反思吧。",
+    "startBtn": "开始今天的日记 →"
+  }
+}

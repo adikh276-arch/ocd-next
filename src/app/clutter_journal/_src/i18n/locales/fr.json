@@ -1,0 +1,54 @@
+{
+  "welcome": {
+    "title": "Journal du désordre et des émotions",
+    "subtitle": "«Chaque objet que vous conservez conserve quelque chose pour vous.»",
+    "description": "Il ne s'agit pas de faire de la place. Il s'agit de comprendre ce que vos objets renferment. 🌸",
+    "instruction": "Pensez à un objet auquel vous tenez. Le premier qui vous vient à l'esprit est le bon. ✨",
+    "placeholder": "par exemple, le vieux foulard de ma mère, une montre cassée",
+    "myJournal": "📖 Mon journal →",
+    "nextBtn": "Ceci est mon objet →"
+  },
+  "exploration": {
+    "title": "Explorons cela ensemble. 🔍",
+    "subtitle": "Répondez à la question qui vous semble la plus appropriée. Vous pouvez en ignorer certaines.",
+    "prompt1": "Quand cet objet est-il entré dans votre vie ? Que se passait-il alors ?",
+    "prompt2": "Que pensez-vous qu'il se passerait si cet objet disparaissait demain ?",
+    "prompt3": "Cet objet vous rappelle-t-il une personne, une époque ou une version de vous-même ?",
+    "prompt4": "De quoi le fait de posséder cet objet vous protège-t-il ?",
+    "placeholder": "Écrivez librement — ceci est juste pour vous. 💭",
+    "back": "← retour",
+    "next": "suivant →",
+    "nextBtn": "J'ai suffisamment réfléchi →"
+  },
+  "insight": {
+    "title": "Qu'avez-vous remarqué ? 💡",
+    "description1": "Parfois, les objets renferment plus que de simples choses. Ils renferment des sentiments pour lesquels nous n'avons pas encore trouvé d'autre échappatoire.",
+    "description2": "Que recèle réellement cet objet pour vous ?",
+    "option1": "La peur d'oublier",
+    "option2": "La peur de ne pas en avoir assez",
+    "option3": "Un souvenir que je ne suis pas prêt à perdre",
+    "option4": "Une partie de mon identité",
+    "option5": "Culpabilité ou responsabilité",
+    "option6": "L'amour pour quelqu'un",
+    "option7": "Quelque chose que je ne peux pas encore nommer",
+    "footer": "Le fait de le nommer ne signifie pas que vous devez agir en conséquence. La prise de conscience est déjà un travail en soi. 🌸",
+    "nextBtn": "Je le vois maintenant →"
+  },
+  "closing": {
+    "title": "Vous venez de faire preuve de courage.",
+    "subtitle": "La plupart des gens ne se demandent jamais pourquoi ils s'accrochent. Vous, vous l'avez fait. C'est ce genre d'honnêteté qui est à l'origine d'un véritable changement.",
+    "todaysObject": "L'objet du jour",
+    "whatsHolding": "Ce qu'il contient",
+    "footer": "Revenez quand vous serez prêt(e) à en explorer un autre. 🌸",
+    "entriesCount_one": "🌿 {{count}} entry in your journal",
+    "entriesCount_other": "🌿 {{count}} entries in your journal",
+    "viewJournal": "📖 Voir mes articles précédents →",
+    "closeBtn": "Clôture pour aujourd'hui"
+  },
+  "journal": {
+    "title": "Mon journal 📖",
+    "subtitle": "Chaque inscription est un acte de courage.",
+    "empty": "Votre journal vous attend. Commencez votre première réflexion dès aujourd'hui.",
+    "startBtn": "Commencer l'entrée du jour →"
+  }
+}

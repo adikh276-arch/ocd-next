@@ -1,0 +1,32 @@
+{
+  "404": "404",
+  "header": "OCD Tips",
+  "subHeader": "Gentle grounding techniques",
+  "tipBadge": "Tip",
+  "swipeHint": "swipe to continue",
+  "prevTip": "Previous tip",
+  "nextTip": "Next tip",
+  "tips": [
+    "Notice the thought and label it gently: \"This is an OCD thought.\"",
+    "Allow uncertainty instead of trying to solve it immediately.",
+    "Let uncomfortable feelings exist without judging yourself for having them.",
+    "Remind yourself that thoughts are mental events, not facts or intentions.",
+    "Focus on what you are doing in the present moment, not on \"what if\" scenarios.",
+    "Practice slow breathing when anxiety rises — inhale slowly, exhale even slower.",
+    "Keep a consistent sleep routine to support emotional regulation.",
+    "Eat regular, balanced meals to avoid anxiety spikes from low energy.",
+    "Reduce caffeine if you notice it increases restlessness or intrusive thoughts.",
+    "Be kind to yourself — progress in OCD recovery happens step by step, not perfectly."
+  ],
+  "not_found": "Not Found",
+  "oops_page_not_found": "Oops! Page not found",
+  "return_to_home": "Return to Home",
+  "more": "More",
+  "previous_slide": "Previous slide",
+  "next_slide": "Next slide",
+  "close": "Close",
+  "previous": "Previous",
+  "next": "Next",
+  "more_pages": "More pages",
+  "toggle_sidebar": "Toggle Sidebar"
+}

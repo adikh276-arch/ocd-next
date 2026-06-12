@@ -1,0 +1,56 @@
+{
+  "auth": {
+    "loading": "Đang tải trình theo dõi của bạn..."
+  },
+  "index": {
+    "title": "Nhật ký OCD",
+    "subtitle": "Ghi âm & Theo dõi",
+    "journal": "Tạp chí",
+    "history": "Lịch sử",
+    "analytics": "Phân tích"
+  },
+  "log": {
+    "context": "Bối cảnh",
+    "home": "Trang chủ",
+    "work": "Công việc",
+    "social": "Xã hội",
+    "other": "Khác",
+    "custom_placeholder": "Chính xác là ở đâu? (ví dụ: Vườn, Phòng tập thể dục)",
+    "observation": "Quan sát",
+    "urge_placeholder": "Hãy nắm bắt ý nghĩ hoặc thôi thúc ngay khi nó xuất hiện...",
+    "previous_notes": "Các ghi chú trước đó trong {{location}}",
+    "decision": "Phán quyết",
+    "acted_label": "Hành động theo thôi thúc",
+    "waited_label": "Chờ",
+    "resisted_label": "Được nhận thấy mà không cần hành động",
+    "complete_session": "Phiên hoàn chỉnh",
+    "success_title": "Khoảnh khắc được ghi lại",
+    "success_desc": "Thông tin của bạn đã được lưu trữ an toàn.",
+    "error_title": "Không thể lưu",
+    "error_desc": "Đã xảy ra lỗi khi lưu thông tin của bạn vào cơ sở dữ liệu."
+  },
+  "history": {
+    "title": "Dòng thời gian",
+    "subtitle": "Suy ngẫm và sự trưởng thành",
+    "journal_date": "Ngày ghi nhật ký",
+    "no_entries": "Chưa có bài đăng nào",
+    "start_today": "Hãy bắt đầu viết nhật ký đầu tiên của bạn ngay hôm nay!"
+  },
+  "insights": {
+    "title": "Thông tin chi tiết về phản hồi",
+    "subtitle": "Phân tích tăng trưởng của bạn",
+    "back": "Trở lại Nhật ký",
+    "this_week": "Tuần này",
+    "last_week": "Tuần trước",
+    "two_weeks_ago": "Cách đây 2 tuần",
+    "waiting_data": "Đang chờ dữ liệu",
+    "log_entries": "Hãy ghi lại các mục trong khoảng thời gian này để theo dõi tiến độ của bạn.",
+    "info": "Thông tin chi tiết yêu cầu ít nhất 1 mục nhập để hiển thị tóm tắt và 4 mục nhập để phân tích mẫu.",
+    "activity": "Hoạt động",
+    "entry_flows": "Luồng nhập cảnh",
+    "pattern_discovery": "Khám phá mẫu",
+    "pattern_resisted": "Bạn nhận thấy những thôi thúc mà không hành động thường xuyên hơn là hành động theo chúng. Đó là bằng chứng cho thấy khả năng quan sát nhạy bén của bạn.",
+    "pattern_acted": "Trong thời gian này, bạn đã hành động theo những thôi thúc của bản thân thường xuyên hơn. Đây chỉ đơn thuần là một giai đoạn trong hành trình – nhận thức là bước đầu tiên để thay đổi.",
+    "pattern_balanced": "Phản hồi của các bạn trong giai đoạn này khá cân bằng. Các bạn đang tìm được điểm cân bằng của mình."
+  }
+}

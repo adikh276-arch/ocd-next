@@ -1,0 +1,56 @@
+{
+  "auth": {
+    "loading": "Nilo-load ang iyong tracker..."
+  },
+  "index": {
+    "title": "Mga Tala ng OCD",
+    "subtitle": "Mag-record at Subaybayan",
+    "journal": "Dyornal",
+    "history": "Kasaysayan",
+    "analytics": "Analitika"
+  },
+  "log": {
+    "context": "Konteksto",
+    "home": "Tahanan",
+    "work": "Trabaho",
+    "social": "Panlipunan",
+    "other": "Iba pa",
+    "custom_placeholder": "Saan eksakto? (hal. Hardin, Gym)",
+    "observation": "Obserbasyon",
+    "urge_placeholder": "Kunin ang kaisipan o pagnanasa ayon sa paglitaw nito...",
+    "previous_notes": "Mga nakaraang tala sa {{location}}",
+    "decision": "Desisyon",
+    "acted_label": "Kumikilos ayon sa pagnanasa",
+    "waited_label": "Naghihintay",
+    "resisted_label": "Napansin nang hindi umaarte",
+    "complete_session": "Kumpletuhin ang Sesyon",
+    "success_title": "Nakatala ang Sandali",
+    "success_desc": "Ligtas na na-save ang iyong entry.",
+    "error_title": "Nabigong i-save",
+    "error_desc": "Nagkaroon ng problema sa pag-save ng iyong entry sa database."
+  },
+  "history": {
+    "title": "Takdang Panahon",
+    "subtitle": "Mga Repleksyon at Paglago",
+    "journal_date": "Petsa ng Journal",
+    "no_entries": "Wala pang mga entry",
+    "start_today": "Simulan ang iyong unang talaan ngayon"
+  },
+  "insights": {
+    "title": "Mga Pananaw sa Tugon",
+    "subtitle": "Ang Iyong Pagsusuri sa Paglago",
+    "back": "Balik sa Dyornal",
+    "this_week": "Ngayong Linggo",
+    "last_week": "Noong nakaraang Linggo",
+    "two_weeks_ago": "2 Linggo Na ang Nakalipas",
+    "waiting_data": "Naghihintay para sa Datos",
+    "log_entries": "Mga entry sa log sa panahong ito para makita ang mga pattern ng iyong progreso dito.",
+    "info": "Ang mga insight ay nangangailangan ng kahit isang entry upang ipakita ang buod, at apat na entry para sa pagsusuri ng pattern.",
+    "activity": "Aktibidad",
+    "entry_flows": "Mga Daloy ng Pagpasok",
+    "pattern_discovery": "Pagtuklas ng Pattern",
+    "pattern_resisted": "Napansin mo ang mga pagnanasa nang hindi mo ito mas madalas na ginagawa kaysa sa ginagawa mo. Iyan ay patunay ng lakas sa pagmamasid.",
+    "pattern_acted": "Mas madalas kang kumilos ayon sa mga pagnanasa sa panahong ito. Ito ay isa lamang yugto ng paglalakbay — ang iyong kamalayan ang unang hakbang tungo sa pagbabago.",
+    "pattern_balanced": "Pantay ang balanse ng iyong mga tugon sa panahong ito. Nahahanap mo na ang iyong gitnang landas."
+  }
+}

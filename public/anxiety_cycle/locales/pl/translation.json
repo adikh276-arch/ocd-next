@@ -1,0 +1,65 @@
+{
+  "404": "404",
+  "welcome": {
+    "title": "Zrozumienie lęku o zdrowie",
+    "description": "Zastanawiałeś się kiedyś, dlaczego obawy o zdrowie nigdy nie znikają – bez względu na to, jak często je badasz? Oto dlaczego.",
+    "read_time": "2 minuty czytania",
+    "button": "Pokaż mi →"
+  },
+  "cycle": {
+    "title": "Oto, co dzieje się w Twoim mózgu",
+    "description_1": "Lęk o zdrowie nie pojawia się i nie znika ot tak. Działa w pętli – i za każdym razem, gdy to sprawdzasz, ta pętla się wzmacnia.",
+    "description_2": "Każda pętla uczy mózg, że warto było sprawdzić zmartwienie. Dlatego wraca – za każdym razem trochę głośniej.",
+    "highlight": "💡 Sprawdzanie przynosi ulgę — ale nigdy wolność.",
+    "button": "Rozpoznaję to →",
+    "restart": "↩ I zaczyna się od nowa..."
+  },
+  "nodes": {
+    "trigger": {
+      "label": "Spust",
+      "desc": "Ból głowy. Artykuł. Myśl."
+    },
+    "anxiety": {
+      "label": "Skoki lęku",
+      "desc": "A co jeśli coś jest ze mną nie tak?"
+    },
+    "check": {
+      "label": "Sprawdzasz",
+      "desc": "Google. Lekarz. Zapytaj kogoś."
+    },
+    "relief": {
+      "label": "Krótkotrwała ulga",
+      "desc": "Okej… pewnie wszystko w porządku."
+    },
+    "doubt": {
+      "label": "Wątpliwości powracają",
+      "desc": "A co jeśli się mylą?"
+    }
+  },
+  "break_cycle": {
+    "title": "Oto jak się bronić",
+    "description": "Każdy etap cyklu ma sposób na jego przerwanie. Dotknij każdego z nich, aby zobaczyć, co możesz zrobić:",
+    "tips": [
+      "Zauważ to, nie reagując. Powiedz sobie: „To czynnik wyzwalający, a nie fakt”. Następnie weź jeden głęboki oddech, zanim cokolwiek zrobisz.",
+      "Nazwij to uczucie na głos – „W tej chwili czuję niepokój”. Nazywanie go osłabia jego siłę. Nie musisz go naprawiać – po prostu zaakceptuj.",
+      "To najważniejszy etap, który należy przerwać. Opóźnij kontrolę o zaledwie 5 minut. Potem o 10. Każde opóźnienie osłabia nawyk.",
+      "Przypomnij sobie – ta ulga nie będzie trwała wiecznie. Prawdziwa ulga płynie z tolerowania niepewności, a nie z uciekania od niej.",
+      "Nie angażuj się w wątpliwości. Powiedz: „Znowu ta wątpliwość”. A potem pozwól jej przemknąć jak chmura, nie podążając za nią."
+    ],
+    "all_tapped": "Teraz wiesz dokładnie, gdzie ten cykl się toczy — i jak go przerwać. Ta wiedza jest potężna. 💙",
+    "button": "Zakończone ✓"
+  },
+  "language_switcher": {
+    "label": "Język"
+  },
+  "oops_page_not_found": "Ups! Strona nie znaleziona",
+  "return_to_home": "Powrót do domu",
+  "more": "Więcej",
+  "previous_slide": "Poprzedni slajd",
+  "next_slide": "Następny slajd",
+  "close": "Zamknij",
+  "previous": "Poprzednie",
+  "next": "Następny",
+  "more_pages": "Więcej stron",
+  "toggle_sidebar": "Przełącznik boczny"
+}

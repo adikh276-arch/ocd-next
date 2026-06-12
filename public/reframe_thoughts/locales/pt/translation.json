@@ -1,0 +1,81 @@
+{
+  "404": "404",
+  "activity_name": "Reformule seus pensamentos",
+  "intro": {
+    "title": "Vamos analisar o pensamento de uma perspectiva diferente.",
+    "p1": "Nossa mente gera pensamentos automáticos — especialmente quando a ansiedade está alta.",
+    "p2": "Algumas parecem urgentes. Outras, convincentes.",
+    "p3": "Mas pensamentos são interpretações, não fatos.",
+    "p4": "Hoje, vamos praticar como remodelar um deles delicadamente.",
+    "button": "Estou pronto para tentar."
+  },
+  "identify": {
+    "title": "Qual era o pensamento?",
+    "p1": "Escreva o pensamento exatamente como ele lhe veio à mente.",
+    "p2": "Sem edição. Sem correções.",
+    "placeholder": "Por exemplo: &quot;Se eu cometer um erro, tudo vai desmoronar.&quot;",
+    "hint": "Observe o tom do pensamento.",
+    "button": "Vejo isso claramente."
+  },
+  "examine": {
+    "title": "Vamos com calma.",
+    "question": "O que faz com que esse pensamento pareça verdadeiro? Será que é:",
+    "hint": "A ansiedade muitas vezes amplifica as possibilidades, transformando-as em certezas.",
+    "button": "OK…"
+  },
+  "reframe": {
+    "title": "Qual seria uma versão mais equilibrada?",
+    "p1": "Não se trata de fingir que está tudo bem.",
+    "p2": "Trata-se de ampliar a perspectiva.",
+    "list_title": "Tente escrever um pensamento que seja:",
+    "list_item1": "Mais realista",
+    "list_item2": "Menos extremo",
+    "list_item3": "Fundamentado em evidências",
+    "placeholder": "Escreva uma versão mais equilibrada…",
+    "original_label": "Original:",
+    "balanced_label": "Equilibrado:",
+    "example_original": "Se eu penso nisso, deve ser verdade.",
+    "example_balanced": "Os pensamentos acontecem automaticamente. Eles não definem minhas ações.",
+    "button": "Isso parece mais realista."
+  },
+  "integration": {
+    "title": "Observe a mudança.",
+    "p1": "Compare o pensamento original com o pensamento reformulado.",
+    "p2": "O novo pensamento:",
+    "list_item1": "Reduzir a urgência?",
+    "list_item2": "Criar espaço?",
+    "list_item3": "Você se sente um pouco mais flexível?",
+    "hint": "Mesmo pequenas mudanças fortalecem a resiliência.",
+    "button": "Posso praticar isso."
+  },
+  "completion": {
+    "title": "A perspectiva fortalece.",
+    "subtitle": "Você praticou responder de forma diferente.",
+    "p1": "Isso é progresso.",
+    "try_again": "Tente novamente",
+    "show_saved": "Mostrar minhas entradas salvas"
+  },
+  "distortions": {
+    "prediction": "Uma previsão",
+    "worst_case": "Um cenário pessimista",
+    "assumption": "Uma suposição",
+    "feeling": "Um sentimento disfarçado de fato"
+  },
+  "saved_entries": {
+    "title": "Minhas entradas salvas",
+    "loading": "Carregando seus registros...",
+    "no_entries": "Nenhuma entrada salva ainda.",
+    "the_thought": "O Pensamento",
+    "reframed": "Reformulado"
+  },
+  "oops_page_not_found": "Ops! Página não encontrada",
+  "return_to_home": "Retorno ao Lar",
+  "more": "Mais",
+  "previous_slide": "Slide anterior",
+  "next_slide": "Próximo slide",
+  "close": "Fechar",
+  "previous": "Anterior",
+  "next": "Próximo",
+  "more_pages": "Mais páginas",
+  "toggle_sidebar": "Alternar a barra lateral"
+}

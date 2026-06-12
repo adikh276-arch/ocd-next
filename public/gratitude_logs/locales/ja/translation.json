@@ -1,0 +1,22 @@
+{
+  "404": "404",
+  "title": "感謝の気持ちをチェックインする",
+  "subtitle": "感謝していることを3つ挙げてください",
+  "input_placeholder": "私は感謝しています…",
+  "submit_button": "感謝の気持ちを記録",
+  "logged_title": "感謝の気持ちを記録しました！",
+  "logged_subtitle": "ささやかな瞬間が、大きな喜びを生み出す。",
+  "log_another": "別のログ",
+  "history_title": "私の感謝記録",
+  "gratitude_history": "感謝の歴史",
+  "oops_page_not_found": "おっと!ページが見つかりません",
+  "return_to_home": "帰郷",
+  "more": "続き",
+  "previous_slide": "前のスライド",
+  "next_slide": "次のスライド",
+  "close": "閉じる",
+  "previous": "過去",
+  "next": "次",
+  "more_pages": "さらにページを増やします",
+  "toggle_sidebar": "トグルサイドバー"
+}

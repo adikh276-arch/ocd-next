@@ -1,0 +1,44 @@
+{
+  "welcome": {
+    "title": "Travail en miroir",
+    "quote": "« La façon dont vous vous parlez à vous-même compte plus que vous ne le pensez. C'est le moment d'être bienveillant envers la personne qui en a le plus besoin : vous-même. »",
+    "subtitle": "Trouvez un moment de calme. C'est rien que pour vous.",
+    "button": "Je suis prêt(e) →",
+    "back": "Retour"
+  },
+  "mirror": {
+    "title": "Lisez ceci pour vous-même",
+    "description": "Voici des choses que votre moi le plus bienveillant et le plus sain souhaite que vous entendiez. Lisez-les lentement, à voix haute si possible. Prenez votre temps.",
+    "back": "Retour",
+    "prev": "Précédent",
+    "next": "Suivant",
+    "read_again": "Relisez-le si nécessaire. Il n'y a pas d'urgence.",
+    "complete": "Terminé ✓",
+    "completion_msg": "Tu as pris soin de toi aujourd'hui.\n\nC'est tout. 💙",
+    "affirmations": [
+      "Je ne suis pas mes pensées angoissées.\n\nMes pensées ne sont pas des faits.",
+      "Je fais de mon mieux\navec ce que j'ai actuellement.",
+      "Il est normal de ne pas avoir toutes les réponses.\n\nL'incertitude fait partie de la vie.",
+      "Mon corps n'est pas mon ennemi.\n\nIl travaille dur pour prendre soin de moi.",
+      "Je mérite la même bienveillance\n\nque j'accorderais à quelqu'un que j'aime.",
+      "Cette inquiétude finira par passer. Elle finit toujours par passer.\n\nJ'ai surmonté toutes les épreuves jusqu'à présent.",
+      "Je suis bien plus que mon anxiété liée à la santé.\n\nJe suis tellement plus que ça."
+    ]
+  },
+  "notfound": {
+    "title": "404",
+    "subtitle": "Oups ! Page introuvable",
+    "return": "Retour à l'accueil"
+  },
+  "common": {
+    "language": "Langue"
+  },
+  "more": "Plus",
+  "previous_slide": "Diapositive précédente",
+  "next_slide": "Diapositive suivante",
+  "close": "Fermer",
+  "previous": "Précédent",
+  "next": "Suivant",
+  "more_pages": "Plus de pages",
+  "toggle_sidebar": "Basculer la barre latérale"
+}

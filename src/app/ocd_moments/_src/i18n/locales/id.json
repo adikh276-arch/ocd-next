@@ -1,0 +1,56 @@
+{
+  "auth": {
+    "loading": "Sedang memuat pelacak Anda..."
+  },
+  "index": {
+    "title": "Catatan OCD",
+    "subtitle": "Rekam & Lacak",
+    "journal": "Jurnal",
+    "history": "Sejarah",
+    "analytics": "Analisis"
+  },
+  "log": {
+    "context": "Konteks",
+    "home": "Rumah",
+    "work": "Bekerja",
+    "social": "Sosial",
+    "other": "Lainnya",
+    "custom_placeholder": "Tepatnya di mana? (misalnya, Taman, Gym)",
+    "observation": "Pengamatan",
+    "urge_placeholder": "Catatlah pikiran atau dorongan itu saat muncul...",
+    "previous_notes": "Catatan sebelumnya di {{location}}",
+    "decision": "Keputusan",
+    "acted_label": "Bertindak berdasarkan dorongan",
+    "waited_label": "Menunggu",
+    "resisted_label": "Memperhatikan tanpa bertindak",
+    "complete_session": "Sesi Lengkap",
+    "success_title": "Momen Tercatat",
+    "success_desc": "Entri Anda telah disimpan dengan aman.",
+    "error_title": "Gagal menyimpan",
+    "error_desc": "Terdapat masalah saat menyimpan entri Anda ke dalam basis data."
+  },
+  "history": {
+    "title": "Garis waktu",
+    "subtitle": "Refleksi & Pertumbuhan",
+    "journal_date": "Tanggal Jurnal",
+    "no_entries": "Belum ada entri",
+    "start_today": "Mulailah pencatatan log pertama Anda hari ini."
+  },
+  "insights": {
+    "title": "Wawasan Respons",
+    "subtitle": "Analisis Pertumbuhan Anda",
+    "back": "Kembali ke Jurnal",
+    "this_week": "Minggu Ini",
+    "last_week": "Minggu lalu",
+    "two_weeks_ago": "2 Minggu Lalu",
+    "waiting_data": "Menunggu Data",
+    "log_entries": "Catatlah perkembangan Anda selama periode ini untuk melihat pola kemajuan Anda di sini.",
+    "info": "Analisis data memerlukan minimal 1 entri untuk menampilkan ringkasan, dan 4 entri untuk analisis pola.",
+    "activity": "Aktivitas",
+    "entry_flows": "Alur Masuk",
+    "pattern_discovery": "Penemuan Pola",
+    "pattern_resisted": "Anda lebih sering menyadari dorongan-dorongan tanpa bertindak daripada bertindak berdasarkan dorongan tersebut. Itu adalah bukti kekuatan dalam pengamatan.",
+    "pattern_acted": "Anda lebih sering bertindak berdasarkan dorongan hati selama periode ini. Ini hanyalah sebuah fase dalam perjalanan — kesadaran Anda adalah langkah pertama menuju perubahan.",
+    "pattern_balanced": "Tanggapan Anda seimbang pada periode ini. Anda sedang menemukan titik tengah Anda."
+  }
+}

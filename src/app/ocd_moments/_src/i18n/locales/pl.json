@@ -1,0 +1,56 @@
+{
+  "auth": {
+    "loading": "Ładowanie trackera..."
+  },
+  "index": {
+    "title": "Dzienniki OCD",
+    "subtitle": "Nagrywaj i śledź",
+    "journal": "Dziennik",
+    "history": "Historia",
+    "analytics": "Analityka"
+  },
+  "log": {
+    "context": "Kontekst",
+    "home": "Dom",
+    "work": "Praca",
+    "social": "Społeczny",
+    "other": "Inny",
+    "custom_placeholder": "Gdzie dokładnie? (np. Ogród, Siłownia)",
+    "observation": "Obserwacja",
+    "urge_placeholder": "Uchwyć myśl lub impuls, taki jaki się pojawia...",
+    "previous_notes": "Poprzednie notatki w {{location}}",
+    "decision": "Decyzja",
+    "acted_label": "Działanie pod wpływem impulsu",
+    "waited_label": "Czekanie",
+    "resisted_label": "Zauważono bez działania",
+    "complete_session": "Pełna sesja",
+    "success_title": "Zarejestrowany moment",
+    "success_desc": "Twój wpis został bezpiecznie zapisany.",
+    "error_title": "Nie udało się zapisać",
+    "error_desc": "Wystąpił problem podczas zapisywania Twojego wpisu w bazie danych."
+  },
+  "history": {
+    "title": "Oś czasu",
+    "subtitle": "Refleksje i rozwój",
+    "journal_date": "Data dziennika",
+    "no_entries": "Brak wpisów",
+    "start_today": "Zacznij swój pierwszy dziennik już dziś"
+  },
+  "insights": {
+    "title": "Wgląd w reakcje",
+    "subtitle": "Twoja analiza wzrostu",
+    "back": "Powrót do dziennika",
+    "this_week": "W tym tygodniu",
+    "last_week": "Ostatni tydzień",
+    "two_weeks_ago": "2 tygodnie temu",
+    "waiting_data": "Oczekiwanie na dane",
+    "log_entries": "Rejestruj wpisy z tego okresu, aby śledzić tutaj swoje postępy.",
+    "info": "Podsumowanie wymaga co najmniej 1 wpisu, a analiza wzorców — 4 wpisów.",
+    "activity": "Działalność",
+    "entry_flows": "Przepływy wejściowe",
+    "pattern_discovery": "Odkrywanie wzorców",
+    "pattern_resisted": "Zauważałeś impulsy częściej niż działałeś, niż działałeś zgodnie z nimi. To dowód siły obserwacji.",
+    "pattern_acted": "W tym okresie częściej ulegałeś impulsom. To po prostu etap podróży – twoja świadomość to pierwszy krok do zmiany.",
+    "pattern_balanced": "Twoje odpowiedzi były w tym okresie równomiernie rozłożone. Znajdujesz swój złoty środek."
+  }
+}

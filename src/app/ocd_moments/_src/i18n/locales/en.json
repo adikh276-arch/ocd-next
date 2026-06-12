@@ -1,0 +1,56 @@
+{
+    "auth": {
+        "loading": "Loading your tracker..."
+    },
+    "index": {
+        "title": "OCD Logs",
+        "subtitle": "Record & Track",
+        "journal": "Journal",
+        "history": "History",
+        "analytics": "Analytics"
+    },
+    "log": {
+        "context": "Context",
+        "home": "Home",
+        "work": "Work",
+        "social": "Social",
+        "other": "Other",
+        "custom_placeholder": "Where exactly? (e.g. Garden, Gym)",
+        "observation": "Observation",
+        "urge_placeholder": "Capture the thought or urge as it appears...",
+        "previous_notes": "Previous notes in {{location}}",
+        "decision": "Decision",
+        "acted_label": "Acting on the urge",
+        "waited_label": "Waiting",
+        "resisted_label": "Noticed without acting",
+        "complete_session": "Complete Session",
+        "success_title": "Moment Logged",
+        "success_desc": "Your entry has been saved securely.",
+        "error_title": "Failed to save",
+        "error_desc": "There was a problem saving your entry to the database."
+    },
+    "history": {
+        "title": "Timeline",
+        "subtitle": "Reflections & Growth",
+        "journal_date": "Journal Date",
+        "no_entries": "No entries yet",
+        "start_today": "Start your first log today"
+    },
+    "insights": {
+        "title": "Response Insights",
+        "subtitle": "Your Growth Analytics",
+        "back": "Back to Journal",
+        "this_week": "This Week",
+        "last_week": "Last Week",
+        "two_weeks_ago": "2 Weeks Ago",
+        "waiting_data": "Waiting for Data",
+        "log_entries": "Log entries during this period to see your progress patterns here.",
+        "info": "Insights require at least 1 entry to show summary, and 4 entries for pattern analysis.",
+        "activity": "Activity",
+        "entry_flows": "Entry Flows",
+        "pattern_discovery": "Pattern Discovery",
+        "pattern_resisted": "You noticed urges without acting more often than you acted on them. That is proof of strength in observation.",
+        "pattern_acted": "You acted on urges more often this period. This is simply a phase of the journey — your awareness is the first step to change.",
+        "pattern_balanced": "Your responses were evenly balanced this period. You are finding your middle ground."
+    }
+}

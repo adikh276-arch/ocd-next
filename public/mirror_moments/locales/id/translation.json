@@ -1,0 +1,44 @@
+{
+  "welcome": {
+    "title": "Kerja Cermin",
+    "quote": "\"Cara Anda berbicara kepada diri sendiri jauh lebih penting daripada yang Anda sadari. Ini adalah saat untuk bersikap baik kepada orang yang paling membutuhkannya — diri Anda sendiri.\"",
+    "subtitle": "Carilah momen yang tenang. Ini hanya untukmu.",
+    "button": "Saya Siap →",
+    "back": "Kembali"
+  },
+  "mirror": {
+    "title": "Bacalah Ini untuk Diri Sendiri",
+    "description": "Inilah hal-hal yang ingin didengar oleh diri Anda yang paling baik dan sehat. Bacalah setiap poin perlahan—bahkan dengan suara keras jika memungkinkan. Luangkan waktu Anda.",
+    "back": "Kembali",
+    "prev": "Sebelumnya",
+    "next": "Berikutnya",
+    "read_again": "Bacalah lagi jika perlu. Tidak perlu terburu-buru.",
+    "complete": "Selesai ✓",
+    "completion_msg": "Kamu telah hadir untuk dirimu sendiri hari ini.\n\nItu sudah cukup. 💙",
+    "affirmations": [
+      "Aku bukanlah pikiran-pikiran cemasku.\n\nPikiranku bukanlah fakta.",
+      "Saya melakukan yang terbaik yang saya bisa\ndengan apa yang saya miliki saat ini.",
+      "Tidak apa-apa jika tidak memiliki semua jawaban.\nKetidakpastian adalah bagian dari kehidupan.",
+      "Tubuhku bukanlah musuhku.\n\nIa bekerja keras untuk menjagaku.",
+      "Aku pantas mendapatkan kebaikan yang sama\nyang akan kuberikan kepada seseorang yang kucintai.",
+      "Kekhawatiran ini akan berlalu. Selalu begitu.\n\nAku telah melewati setiap momen sulit sejauh ini.",
+      "Aku lebih dari sekadar kecemasan tentang kesehatanku.\nAda banyak hal lain dalam diriku selain ini."
+    ]
+  },
+  "notfound": {
+    "title": "404",
+    "subtitle": "Ups! Halaman tidak ditemukan",
+    "return": "Kembali ke Halaman Utama"
+  },
+  "common": {
+    "language": "Bahasa"
+  },
+  "more": "Selengkapnya",
+  "previous_slide": "Slide sebelumnya",
+  "next_slide": "Slide berikutnya",
+  "close": "Tutup",
+  "previous": "sebelumnya",
+  "next": "Selanjutnya",
+  "more_pages": "Halaman lainnya",
+  "toggle_sidebar": "Beralih Bilah Sisi"
+}

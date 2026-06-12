@@ -1,0 +1,22 @@
+{
+  "404": "404",
+  "title": "Verifica della gratitudine",
+  "subtitle": "Elenca 3 cose per cui sei grato/a",
+  "input_placeholder": "Sono grato per...",
+  "submit_button": "Log Gratitudine",
+  "logged_title": "Ringraziamenti registrati!",
+  "logged_subtitle": "Piccoli momenti, grande gioia.",
+  "log_another": "Accedi a un altro",
+  "history_title": "I miei diari della gratitudine",
+  "gratitude_history": "Storia della gratitudine",
+  "oops_page_not_found": "Ops! Pagina non trovata",
+  "return_to_home": "Ritorno a casa",
+  "more": "Altro",
+  "previous_slide": "Diapositiva precedente",
+  "next_slide": "Slide successiva",
+  "close": "Chiudi",
+  "previous": "Precedente",
+  "next": "Prossimo",
+  "more_pages": "Altre pagine",
+  "toggle_sidebar": "Toggle Sidebar"
+}

@@ -1,0 +1,54 @@
+{
+  "welcome": {
+    "title": "Diario de desorden y emociones",
+    "subtitle": "\"Cada objeto que guardas guarda algo para ti.\"",
+    "description": "No se trata de despejar espacio. Se trata de comprender qué contienen tus cosas. 🌸",
+    "instruction": "Piensa en un objeto al que te hayas aferrado. Lo primero que te venga a la mente es lo correcto. ✨",
+    "placeholder": "Por ejemplo, la vieja bufanda de mi madre, un reloj roto.",
+    "myJournal": "📖 Mi diario →",
+    "nextBtn": "Este es mi objeto →"
+  },
+  "exploration": {
+    "title": "Exploremos esto juntos. 🔍",
+    "subtitle": "Responde la que te parezca más adecuada. Puedes saltarte cualquiera.",
+    "prompt1": "¿Cuándo llegó este objeto a tu vida? ¿Qué estaba pasando entonces?",
+    "prompt2": "¿Qué crees que pasaría si este objeto desapareciera mañana?",
+    "prompt3": "¿Este objeto te recuerda a alguna persona, a una época o a alguna versión de ti mismo?",
+    "prompt4": "¿De qué te protege conservar este objeto?",
+    "placeholder": "Escribe libremente; esto es solo para ti. 💭",
+    "back": "← atrás",
+    "next": "siguiente →",
+    "nextBtn": "Ya he reflexionado lo suficiente →"
+  },
+  "insight": {
+    "title": "¿Qué notaste? 💡",
+    "description1": "A veces, los objetos encierran más que cosas. Guardan sentimientos para los que aún no hemos encontrado otro lugar.",
+    "description2": "¿Qué significado tiene realmente este objeto para ti?",
+    "option1": "El miedo a olvidar",
+    "option2": "El miedo a no tener suficiente",
+    "option3": "Un recuerdo que no estoy preparado para perder.",
+    "option4": "Una parte de mi identidad",
+    "option5": "Culpa o responsabilidad",
+    "option6": "Amor por alguien",
+    "option7": "Algo que aún no puedo nombrar",
+    "footer": "Nombrarlo no significa que tengas que actuar en consecuencia. La toma de conciencia en sí misma es el trabajo. 🌸",
+    "nextBtn": "Ahora lo veo →"
+  },
+  "closing": {
+    "title": "Acabas de hacer algo valiente.",
+    "subtitle": "La mayoría de la gente nunca se pregunta por qué se aferra a algo. Tú sí. Ese tipo de honestidad es donde comienza el verdadero cambio.",
+    "todaysObject": "Objeto de hoy",
+    "whatsHolding": "Lo que contiene",
+    "footer": "Vuelve cuando estés listo para explorar otro. 🌸",
+    "entriesCount_one": "🌿 {{count}} entry in your journal",
+    "entriesCount_other": "🌿 {{count}} entries in your journal",
+    "viewJournal": "📖 Ver mis entradas anteriores →",
+    "closeBtn": "Cerrado por hoy"
+  },
+  "journal": {
+    "title": "Mi diario 📖",
+    "subtitle": "Cada participación es un momento de valentía.",
+    "empty": "Tu diario te está esperando. Comienza hoy mismo tu primera reflexión.",
+    "startBtn": "Comienza la entrada de hoy →"
+  }
+}

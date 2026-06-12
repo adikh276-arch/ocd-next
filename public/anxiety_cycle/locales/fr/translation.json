@@ -1,0 +1,65 @@
+{
+  "404": "404",
+  "welcome": {
+    "title": "Comprendre l'anxiété liée à la santé",
+    "description": "Vous êtes-vous déjà demandé pourquoi les soucis de santé ne disparaissent jamais, peu importe le nombre de contrôles effectués ? Voici la réponse.",
+    "read_time": "2 minutes de lecture",
+    "button": "Afficher →"
+  },
+  "cycle": {
+    "title": "Voici ce qui se passe dans votre cerveau",
+    "description_1": "L'anxiété liée à la santé n'apparaît pas et ne disparaît pas comme par magie. Elle s'installe dans un cercle vicieux, et chaque fois que vous vérifiez votre santé, vous ne faites que renforcer ce cercle.",
+    "description_2": "Chaque itération confirme à votre cerveau que cette inquiétude était justifiée. Elle revient donc sans cesse, à chaque fois un peu plus forte.",
+    "highlight": "💡 Vérifier apporte un soulagement, mais jamais la liberté.",
+    "button": "Je reconnais ceci →",
+    "restart": "↩ Et ça recommence..."
+  },
+  "nodes": {
+    "trigger": {
+      "label": "Déclenchement",
+      "desc": "Un mal de tête. Un article. Une pensée."
+    },
+    "anxiety": {
+      "label": "Pics d'anxiété",
+      "desc": "Et si c'était moi qui avais un problème ?"
+    },
+    "check": {
+      "label": "Vous vérifiez",
+      "desc": "Google. Docteur. Demandez à quelqu'un."
+    },
+    "relief": {
+      "label": "Soulagement bref",
+      "desc": "Bon… je vais probablement bien."
+    },
+    "doubt": {
+      "label": "Le doute revient",
+      "desc": "Et s'ils se trompent ?"
+    }
+  },
+  "break_cycle": {
+    "title": "Voici comment riposter",
+    "description": "Chaque étape du cycle peut être interrompue. Touchez-en une pour découvrir les options disponibles :",
+    "tips": [
+      "Observez-le sans réagir. Dites-vous : « C’est un déclencheur, pas un fait. » Puis, prenez une grande inspiration lente avant d’agir.",
+      "Mettez des mots sur ce que vous ressentez : « Je suis anxieux(se) en ce moment. » Le simple fait de le nommer en atténue l’intensité. Inutile de chercher à le résoudre, il suffit de le reconnaître.",
+      "C'est à cette étape qu'il est le plus important d'interrompre le processus. Retardez la vérification de seulement 5 minutes. Puis de 10. Chaque délai affaiblit l'habitude.",
+      "Rappelez-vous : ce soulagement est éphémère. Le véritable soulagement vient de l'acceptation de l'incertitude, et non de sa fuite.",
+      "Ne vous laissez pas envahir par le doute. Dites-vous simplement : « Voilà le doute qui revient. » Puis laissez-le passer comme un nuage, sans le suivre."
+    ],
+    "all_tapped": "Vous savez maintenant précisément où se situe ce cycle — et comment l'interrompre. Ce savoir est précieux. 💙",
+    "button": "Terminé ✓"
+  },
+  "language_switcher": {
+    "label": "Langue"
+  },
+  "oops_page_not_found": "Oups ! Page non trouvée",
+  "return_to_home": "Retour au pays",
+  "more": "Plus",
+  "previous_slide": "Diapositive précédente",
+  "next_slide": "Diapositive suivante",
+  "close": "Fermer",
+  "previous": "Précédent",
+  "next": "Suivant",
+  "more_pages": "Plus de pages",
+  "toggle_sidebar": "Basculer la barre latérale"
+}

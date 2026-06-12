@@ -1,0 +1,22 @@
+{
+  "404": "404",
+  "title": "Kiểm tra lòng biết ơn",
+  "subtitle": "Hãy kể tên 3 điều mà bạn biết ơn.",
+  "input_placeholder": "Tôi biết ơn vì...",
+  "submit_button": "Ghi lại lòng biết ơn",
+  "logged_title": "Lòng biết ơn đã được ghi nhận!",
+  "logged_subtitle": "Những khoảnh khắc nhỏ bé, niềm vui lớn lao.",
+  "log_another": "Đăng nhập vào một trang khác",
+  "history_title": "Nhật ký lòng biết ơn của tôi",
+  "gratitude_history": "Lịch sử biết ơn",
+  "oops_page_not_found": "Rất tiếc! Không tìm thấy trang",
+  "return_to_home": "Trở về nhà",
+  "more": "Xem thêm",
+  "previous_slide": "Trang trình bày trước",
+  "next_slide": "Trang trình bày tiếp theo",
+  "close": "Đóng",
+  "previous": "Trước",
+  "next": "Kế tiếp",
+  "more_pages": "Các trang khác",
+  "toggle_sidebar": "Chuyển đổi thanh bên"
+}

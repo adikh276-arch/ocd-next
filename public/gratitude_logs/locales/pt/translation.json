@@ -1,0 +1,22 @@
+{
+  "404": "404",
+  "title": "Check-in de gratidão",
+  "subtitle": "Cite 3 coisas pelas quais você é grato(a).",
+  "input_placeholder": "Sou grato por...",
+  "submit_button": "Registro de Gratidão",
+  "logged_title": "Gratidão registrada!",
+  "logged_subtitle": "Pequenos momentos, grandes alegrias.",
+  "log_another": "Registre outro",
+  "history_title": "Meus Registros de Gratidão",
+  "gratitude_history": "História da Gratidão",
+  "oops_page_not_found": "Ops! Página não encontrada",
+  "return_to_home": "Retorno ao Lar",
+  "more": "Mais",
+  "previous_slide": "Slide anterior",
+  "next_slide": "Próximo slide",
+  "close": "Fechar",
+  "previous": "Anterior",
+  "next": "Próximo",
+  "more_pages": "Mais páginas",
+  "toggle_sidebar": "Alternar a barra lateral"
+}

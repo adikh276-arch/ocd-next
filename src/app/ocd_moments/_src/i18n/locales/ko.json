@@ -1,0 +1,56 @@
+{
+  "auth": {
+    "loading": "추적기를 불러오는 중..."
+  },
+  "index": {
+    "title": "강박증 기록",
+    "subtitle": "기록 및 추적",
+    "journal": "신문",
+    "history": "역사",
+    "analytics": "해석학"
+  },
+  "log": {
+    "context": "문맥",
+    "home": "집",
+    "work": "일하다",
+    "social": "사회의",
+    "other": "다른",
+    "custom_placeholder": "정확히 어디인가요? (예: 정원, 체육관)",
+    "observation": "관찰",
+    "urge_placeholder": "떠오르는 생각이나 충동을 그대로 포착하세요...",
+    "previous_notes": "{{location}}의 이전 메모",
+    "decision": "결정",
+    "acted_label": "충동에 따라 행동하다",
+    "waited_label": "대기 중",
+    "resisted_label": "행동하지 않고도 알아차렸다.",
+    "complete_session": "전체 세션",
+    "success_title": "순간 기록됨",
+    "success_desc": "입력하신 내용이 안전하게 저장되었습니다.",
+    "error_title": "저장에 실패했습니다",
+    "error_desc": "입력 내용을 데이터베이스에 저장하는 데 문제가 발생했습니다."
+  },
+  "history": {
+    "title": "타임라인",
+    "subtitle": "성찰과 성장",
+    "journal_date": "저널 날짜",
+    "no_entries": "아직 항목이 없습니다",
+    "start_today": "오늘 첫 로그를 시작하세요"
+  },
+  "insights": {
+    "title": "응답 인사이트",
+    "subtitle": "성장 분석",
+    "back": "저널로 돌아가기",
+    "this_week": "이번 주",
+    "last_week": "지난주",
+    "two_weeks_ago": "2주 전",
+    "waiting_data": "데이터를 기다리는 중",
+    "log_entries": "이 기간 동안의 로그 기록을 통해 진행 상황을 확인할 수 있습니다.",
+    "info": "인사이트를 보려면 요약 정보를 표시하기 위해 최소 1개의 항목이 필요하고, 패턴 분석을 위해서는 4개의 항목이 필요합니다.",
+    "activity": "활동",
+    "entry_flows": "진입 흐름",
+    "pattern_discovery": "패턴 발견",
+    "pattern_resisted": "당신은 충동을 느끼면서도 행동으로 옮기지 않은 경우가 행동으로 옮긴 경우보다 더 많았습니다. 이는 관찰력이 뛰어나다는 증거입니다.",
+    "pattern_acted": "이 기간 동안 충동에 따라 행동하는 경우가 더 많았습니다. 이는 변화의 여정에서 흔히 나타나는 현상이며, 스스로 이를 인지하는 것이 변화의 첫걸음입니다.",
+    "pattern_balanced": "이번 기간 동안 여러분의 답변은 고르게 분포되어 있었습니다. 여러분은 이제 균형 잡힌 입장을 찾아가고 있습니다."
+  }
+}

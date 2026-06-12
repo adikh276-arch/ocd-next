@@ -1,0 +1,54 @@
+{
+  "welcome": {
+    "title": "Clutter & Emotion Journal",
+    "subtitle": "\"Every object you keep is keeping something for you.\"",
+    "description": "This isn't about clearing space. It's about understanding what your things are holding. 🌸",
+    "instruction": "Think of one item you've been holding onto. Whatever comes to mind first is the right one. ✨",
+    "placeholder": "e.g. my mother's old scarf, a broken watch",
+    "myJournal": "📖 My Journal →",
+    "nextBtn": "This Is My Object →"
+  },
+  "exploration": {
+    "title": "Let's explore this together. 🔍",
+    "subtitle": "Answer whichever feels right. You can skip any.",
+    "prompt1": "When did this object come into your life? What was happening then?",
+    "prompt2": "What do you imagine would happen if this object was gone tomorrow?",
+    "prompt3": "Does this object remind you of a person, a time, or a version of yourself?",
+    "prompt4": "What does keeping this object protect you from?",
+    "placeholder": "Write freely — this is just for you. 💭",
+    "back": "← back",
+    "next": "next →",
+    "nextBtn": "I've Reflected Enough →"
+  },
+  "insight": {
+    "title": "What did you notice? 💡",
+    "description1": "Sometimes objects hold more than things. They hold feelings we haven't found another place for yet.",
+    "description2": "What is this object really holding for you?",
+    "option1": "A fear of forgetting",
+    "option2": "A fear of not having enough",
+    "option3": "A memory I'm not ready to lose",
+    "option4": "A part of my identity",
+    "option5": "Guilt or responsibility",
+    "option6": "Love for someone",
+    "option7": "Something I can't name yet",
+    "footer": "Naming it doesn't mean you have to act on it. Awareness itself is the work. 🌸",
+    "nextBtn": "I See It Now →"
+  },
+  "closing": {
+    "title": "You just did something brave.",
+    "subtitle": "Most people never ask why they hold on. You did. That kind of honesty is where real change begins.",
+    "todaysObject": "Today's object",
+    "whatsHolding": "What it's holding",
+    "footer": "Come back whenever you're ready to explore another. 🌸",
+    "entriesCount_one": "🌿 {{count}} entry in your journal",
+    "entriesCount_other": "🌿 {{count}} entries in your journal",
+    "viewJournal": "📖 View my past entries →",
+    "closeBtn": "Close for Today"
+  },
+  "journal": {
+    "title": "My Journal 📖",
+    "subtitle": "Every entry is a moment of courage.",
+    "empty": "Your journal is waiting. Start your first reflection today.",
+    "startBtn": "Start Today's Entry →"
+  }
+}

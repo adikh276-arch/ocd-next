@@ -1,0 +1,22 @@
+{
+  "404": "404",
+  "title": "Gratitude Check-In",
+  "subtitle": "Name 3 things you're grateful for",
+  "input_placeholder": "I'm grateful for...",
+  "submit_button": "Log Gratitude",
+  "logged_title": "Gratitude logged!",
+  "logged_subtitle": "Small moments, big joy.",
+  "log_another": "Log Another",
+  "history_title": "My Gratitude Logs",
+  "gratitude_history": "Gratitude History",
+  "oops_page_not_found": "Oops! Page not found",
+  "return_to_home": "Return to Home",
+  "more": "More",
+  "previous_slide": "Previous slide",
+  "next_slide": "Next slide",
+  "close": "Close",
+  "previous": "Previous",
+  "next": "Next",
+  "more_pages": "More pages",
+  "toggle_sidebar": "Toggle Sidebar"
+}

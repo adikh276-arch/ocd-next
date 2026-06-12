@@ -1,0 +1,61 @@
+{
+  "title": "Pengobatan OCD: Apa yang Perlu Anda Ketahui",
+  "hero": {
+    "p1": "Mendapatkan diagnosis Gangguan Obsesif-Kompulsif (OCD) bisa terasa sangat berat. Namun, penting untuk diketahui bahwa OCD sangat dapat diobati.",
+    "p2": "Dengan dukungan yang tepat dan perawatan berbasis bukti, banyak orang mampu mendapatkan kembali kendali dan menjalani kehidupan yang memuaskan."
+  },
+  "is_treatable": {
+    "title": "Apakah OCD Sebenarnya Dapat Diobati?",
+    "p1": "Ya — dan ada penelitian kuat yang mendukung hal itu.",
+    "p2": "Kira-kira setengah dari individu merespons dengan sangat baik terhadap pengobatan lini pertama standar. Bahkan jika upaya pertama tidak berhasil sempurna, sekitar 70% orang melihat peningkatan yang berarti ketika mereka tetap terlibat dengan pengobatan dan menyesuaikan strategi sesuai kebutuhan.",
+    "quote": "Pemulihan tidak selalu terjadi dalam semalam, tetapi kemajuan sangat mungkin terjadi."
+  },
+  "treatments": {
+    "title": "Perawatan apa yang paling efektif?",
+    "specialized": {
+      "title": "Terapi Khusus",
+      "subtitle": "CBT Berbasis ERP",
+      "p1": "OCD melibatkan dua komponen utama:",
+      "obsessions": "pikiran atau dorongan yang mengganggu dan meresahkan.",
+      "compulsions": "Perilaku berulang yang dilakukan untuk mengurangi kecemasan.",
+      "p2": "Terapi yang paling efektif untuk OCD adalah bentuk spesifik dari Terapi Perilaku Kognitif yang disebut Terapi Paparan dan Pencegahan Respons (Exposure and Response Prevention/ERP).",
+      "p3": "Alih-alih menghindari pemicu kecemasan, ERP membantu individu untuk:",
+      "steps": [
+        null,
+        "menghadapi pikiran atau situasi yang ditakuti",
+        "Hindari melakukan respons kompulsif yang biasa dilakukan.",
+        "Pahami bahwa kecemasan akan berkurang secara alami tanpa ritual."
+      ],
+      "quote": "Seiring waktu, hal ini melatih kembali respons rasa takut otak.",
+      "p4": "Terapi biasanya dilakukan setiap minggu selama beberapa bulan. Selama periode ini, klien juga melakukan latihan di antara sesi. Meskipun kecemasan mungkin meningkat sementara selama paparan, ketidaknyamanan ini adalah bagian dari proses penyembuhan.",
+      "p5": "Studi menunjukkan bahwa sebagian besar orang yang sepenuhnya terlibat dalam ERP mengalami pengurangan gejala yang signifikan."
+    }
+  },
+  "get_started": {
+    "title": "Bagaimana Cara Memulainya?",
+    "p1": "Langkah pertama adalah menghubungi profesional perawatan kesehatan — ini bisa berupa dokter perawatan primer, psikiater, atau terapis yang terlatih dalam menangani OCD.",
+    "p2": "Perawatan yang efektif harus mencakup:",
+    "care_items": [
+      "Edukasi yang jelas tentang OCD",
+      "Diskusi tentang pilihan pengobatan",
+      "Pengambilan keputusan bersama",
+      "Mempertimbangkan preferensi dan tujuan Anda"
+    ],
+    "goals_p": "Tujuan pengobatan sering meliputi:",
+    "goal_items": [
+      "Mengurangi intensitas gejala",
+      "Meningkatkan fungsi sehari-hari",
+      "Meningkatkan kualitas hidup",
+      "Membangun alat bantu untuk mengatasi situasi stres."
+    ]
+  },
+  "final_word": {
+    "title": "Kata Penutup",
+    "p1": "OCD bisa bersifat menetap, tetapi dapat dikelola. Banyak orang — termasuk dokter, peneliti, dan individu dengan pengalaman langsung — telah mendedikasikan pekerjaan mereka untuk meningkatkan hasil bagi mereka yang terkena dampaknya.",
+    "quote": "Dengan kombinasi perawatan, kesabaran, dan dukungan yang tepat, pemulihan yang berarti dimungkinkan."
+  },
+  "common": {
+    "obsessions_label": "Obsesi",
+    "compulsions_label": "Paksaan"
+  }
+}

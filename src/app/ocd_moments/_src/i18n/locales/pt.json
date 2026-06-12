@@ -1,0 +1,56 @@
+{
+  "auth": {
+    "loading": "Carregando seu rastreador..."
+  },
+  "index": {
+    "title": "Registros de TOC",
+    "subtitle": "Gravar e acompanhar",
+    "journal": "Jornal",
+    "history": "História",
+    "analytics": "Análises"
+  },
+  "log": {
+    "context": "Contexto",
+    "home": "Lar",
+    "work": "Trabalhar",
+    "social": "Social",
+    "other": "Outro",
+    "custom_placeholder": "Onde exatamente? (ex.: Jardim, Ginásio)",
+    "observation": "Observação",
+    "urge_placeholder": "Capture o pensamento ou o impulso assim que ele surgir...",
+    "previous_notes": "Anotações anteriores em {{location}}",
+    "decision": "Decisão",
+    "acted_label": "Agindo por impulso",
+    "waited_label": "Esperando",
+    "resisted_label": "Percebido sem agir",
+    "complete_session": "Sessão completa",
+    "success_title": "Momento Registrado",
+    "success_desc": "Sua inscrição foi salva com segurança.",
+    "error_title": "Falha ao salvar",
+    "error_desc": "Ocorreu um problema ao salvar sua entrada no banco de dados."
+  },
+  "history": {
+    "title": "Linha do tempo",
+    "subtitle": "Reflexões e Crescimento",
+    "journal_date": "Data do diário",
+    "no_entries": "Ainda não há inscrições.",
+    "start_today": "Comece seu primeiro diário hoje mesmo"
+  },
+  "insights": {
+    "title": "Informações sobre a resposta",
+    "subtitle": "Suas análises de crescimento",
+    "back": "Voltar ao diário",
+    "this_week": "Essa semana",
+    "last_week": "Semana passada",
+    "two_weeks_ago": "2 semanas atrás",
+    "waiting_data": "Aguardando dados",
+    "log_entries": "Registre aqui os itens da sua lista de atividades durante esse período para acompanhar seu progresso.",
+    "info": "Para exibir um resumo, é necessário apresentar pelo menos uma entrada, e para uma análise de padrões, são necessárias quatro entradas.",
+    "activity": "Atividade",
+    "entry_flows": "Fluxos de entrada",
+    "pattern_discovery": "Descoberta de padrões",
+    "pattern_resisted": "Você percebeu impulsos sem agir de acordo com eles com mais frequência do que agiu. Isso demonstra grande capacidade de observação.",
+    "pattern_acted": "Você agiu por impulso com mais frequência neste período. Isso é simplesmente uma fase da jornada — sua consciência é o primeiro passo para a mudança.",
+    "pattern_balanced": "Suas respostas foram equilibradas neste período. Você está encontrando um ponto de equilíbrio."
+  }
+}

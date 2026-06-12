@@ -1,0 +1,81 @@
+{
+  "404": "404",
+  "activity_name": "Recadrer les pensées",
+  "intro": {
+    "title": "Examinons cette idée sous un autre angle.",
+    "p1": "Notre esprit génère des pensées automatiques, surtout lorsque l&#39;anxiété est forte.",
+    "p2": "Certains semblent urgents. D&#39;autres semblent convaincants.",
+    "p3": "Mais les pensées sont des interprétations, pas des faits.",
+    "p4": "Aujourd&#39;hui, nous allons nous exercer à en remodeler un en douceur.",
+    "button": "Je suis prêt à essayer."
+  },
+  "identify": {
+    "title": "Quelle était l&#39;idée ?",
+    "p1": "Écrivez votre pensée exactement telle qu&#39;elle vous est apparue.",
+    "p2": "Aucune modification. Aucune correction.",
+    "placeholder": "Par exemple : « Si je fais une erreur, tout s&#39;effondrera. »",
+    "hint": "Remarquez le ton de la pensée.",
+    "button": "Je le vois clairement."
+  },
+  "examine": {
+    "title": "Ralentissons le rythme.",
+    "question": "Qu&#39;est-ce qui rend cette pensée crédible ? Est-ce :",
+    "hint": "L&#39;anxiété transforme souvent les possibilités en certitudes.",
+    "button": "D&#39;accord…"
+  },
+  "reframe": {
+    "title": "Quelle est une version plus équilibrée ?",
+    "p1": "Il ne s&#39;agit pas de faire comme si tout allait bien.",
+    "p2": "Il s&#39;agit d&#39;apporter un éclairage nouveau.",
+    "list_title": "Essayez d&#39;écrire une pensée qui est :",
+    "list_item1": "Plus réaliste",
+    "list_item2": "Moins extrême",
+    "list_item3": "Fondé sur des preuves",
+    "placeholder": "Rédigez une version plus équilibrée…",
+    "original_label": "Original:",
+    "balanced_label": "Équilibré:",
+    "example_original": "Si je le pense, c&#39;est que c&#39;est vrai.",
+    "example_balanced": "Les pensées surviennent automatiquement. Elles ne déterminent pas mes actions.",
+    "button": "Cela paraît plus concret."
+  },
+  "integration": {
+    "title": "Remarquez le changement.",
+    "p1": "Comparez la pensée originale et la pensée reformulée.",
+    "p2": "La nouvelle pensée :",
+    "list_item1": "Réduire l&#39;urgence ?",
+    "list_item2": "Créer de l&#39;espace ?",
+    "list_item3": "Vous vous sentez un peu plus souple ?",
+    "hint": "Même de petits changements renforcent la résilience.",
+    "button": "Je peux m&#39;entraîner à cela."
+  },
+  "completion": {
+    "title": "La perspective forge le caractère.",
+    "subtitle": "Vous vous êtes entraîné à répondre différemment.",
+    "p1": "C&#39;est un progrès.",
+    "try_again": "Essayer à nouveau",
+    "show_saved": "Afficher mes entrées enregistrées"
+  },
+  "distortions": {
+    "prediction": "Une prédiction",
+    "worst_case": "Un scénario catastrophe",
+    "assumption": "Une hypothèse",
+    "feeling": "Un sentiment déguisé en fait"
+  },
+  "saved_entries": {
+    "title": "Mes articles enregistrés",
+    "loading": "Chargement de vos journaux...",
+    "no_entries": "Aucune entrée enregistrée pour le moment.",
+    "the_thought": "La pensée",
+    "reframed": "Recadré"
+  },
+  "oops_page_not_found": "Oups ! Page non trouvée",
+  "return_to_home": "Retour au pays",
+  "more": "Plus",
+  "previous_slide": "Diapositive précédente",
+  "next_slide": "Diapositive suivante",
+  "close": "Fermer",
+  "previous": "Précédent",
+  "next": "Suivant",
+  "more_pages": "Plus de pages",
+  "toggle_sidebar": "Basculer la barre latérale"
+}

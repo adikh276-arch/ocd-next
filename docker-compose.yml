@@ -1,0 +1,51 @@
+version: "3.8"
+
+# ─────────────────────────────────────────────────────────────────────────────
+# OCD Service — platform.mantracare.com/ocd
+#
+# Routes:
+#   /ocd            → OCD Self-Care dashboard (root page.tsx)
+#   /ocd/<slug>     → Individual therapeutic activity
+#
+# Traefik routes all /ocd/* traffic to this container on port 80.
+# basePath '/ocd' is baked into the Next.js build so assets resolve correctly.
+# ─────────────────────────────────────────────────────────────────────────────
+
+services:
+  ocd:
+    image: bunker.mantracare.com/lovable/ocd:2.1
+    restart: unless-stopped
+
+    environment:
+      - DATABASE_URL=$DATABASE_URL
+      - NEXT_PUBLIC_BASE_PATH=/ocd
+      - NODE_ENV=production
+
+    networks:
+      - traefik_public
+
+    labels:
+      - "traefik.enable=true"
+
+      # ── HTTPS Router: match /ocd/* ─────────────────────────────────────────
+      - "traefik.http.routers.ocd.rule=(Host(`web.mantracare.com`) || Host(`platform.mantracare.com`)) && PathPrefix(`/ocd`)"
+      - "traefik.http.routers.ocd.entrypoints=websecure"
+      - "traefik.http.routers.ocd.tls=true"
+
+      # ── HTTP → HTTPS Redirect Router ──────────────────────────────────────
+      - "traefik.http.routers.ocd-http.rule=(Host(`web.mantracare.com`) || Host(`platform.mantracare.com`)) && PathPrefix(`/ocd`)"
+      - "traefik.http.routers.ocd-http.entrypoints=web"
+      - "traefik.http.routers.ocd-http.middlewares=ocd-https-redirect"
+      - "traefik.http.middlewares.ocd-https-redirect.redirectscheme.scheme=https"
+      - "traefik.http.middlewares.ocd-https-redirect.redirectscheme.permanent=true"
+
+      # ── Service: internal Next.js port 80 ─────────────────────────────────
+      - "traefik.http.services.ocd.loadbalancer.server.port=80"
+
+      # ── NO StripPrefix middleware ──────────────────────────────────────────
+      # basePath: '/ocd' is baked into the Next.js build.
+      # The /ocd prefix MUST be preserved for _next/ asset paths to resolve.
+
+networks:
+  traefik_public:
+    external: true   # Must already exist (shared with Traefik and Coach)

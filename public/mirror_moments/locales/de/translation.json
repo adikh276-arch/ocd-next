@@ -1,0 +1,44 @@
+{
+  "welcome": {
+    "title": "Spiegelarbeit",
+    "quote": "„Wie du mit dir selbst sprichst, ist wichtiger, als du denkst. Jetzt ist der Moment gekommen, freundlich zu der Person zu sein, die es am meisten braucht – zu dir selbst.“",
+    "subtitle": "Nimm dir einen ruhigen Moment. Das ist nur für dich.",
+    "button": "Ich bin bereit →",
+    "back": "Geh zurück"
+  },
+  "mirror": {
+    "title": "Lies dir das selbst durch",
+    "description": "Das sind Dinge, die dein liebevollstes und gesündestes Selbst dir sagen möchte. Lies jeden einzelnen Satz langsam – wenn möglich laut. Nimm dir Zeit.",
+    "back": "Geh zurück",
+    "prev": "Vorherige",
+    "next": "Nächste",
+    "read_again": "Lies es bei Bedarf noch einmal. Es besteht keine Eile.",
+    "complete": "Abgeschlossen ✓",
+    "completion_msg": "Du warst heute für dich selbst da.\nDas ist alles. 💙",
+    "affirmations": [
+      "Ich bin nicht meine ängstlichen Gedanken.\nMeine Gedanken sind keine Tatsachen.",
+      "Ich tue mein Bestes\nmit dem, was ich im Moment habe.",
+      "Es ist in Ordnung, nicht alle Antworten zu haben. Unsicherheit gehört zum Leben.",
+      "Mein Körper ist nicht mein Feind.\nEr arbeitet hart, um mich zu versorgen.",
+      "Ich verdiene dieselbe Freundlichkeit, die ich jemandem entgegenbringen würde, den ich liebe.",
+      "Diese Sorge wird vorübergehen. Das tut sie immer.\nIch habe bisher jede schwierige Phase überstanden.",
+      "Ich bin mehr als meine Gesundheitsangst.\nIch bin so viel mehr als das."
+    ]
+  },
+  "notfound": {
+    "title": "404",
+    "subtitle": "Hoppla! Seite nicht gefunden",
+    "return": "Zurück zur Startseite"
+  },
+  "common": {
+    "language": "Sprache"
+  },
+  "more": "Mehr",
+  "previous_slide": "Vorherige Folie",
+  "next_slide": "Nächste Folie",
+  "close": "Schließen",
+  "previous": "Früher",
+  "next": "Als Nächstes",
+  "more_pages": "Mehr Seiten",
+  "toggle_sidebar": "Seitenleiste umschalten"
+}

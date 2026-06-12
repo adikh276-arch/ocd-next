@@ -1,0 +1,22 @@
+{
+  "404": "404",
+  "title": "Pag-check-in ng Pasasalamat",
+  "subtitle": "Magbigay ng 3 bagay na ipinagpapasalamat mo",
+  "input_placeholder": "Nagpapasalamat ako para sa...",
+  "submit_button": "Pasasalamat sa Talaan",
+  "logged_title": "Nakatala ang pasasalamat!",
+  "logged_subtitle": "Maliliit na sandali, malaking saya.",
+  "log_another": "Mag-log ng Isa Pa",
+  "history_title": "Aking Mga Talaan ng Pasasalamat",
+  "gratitude_history": "Kasaysayan ng Pasasalamat",
+  "oops_page_not_found": "Oops! Hindi natagpuan ang pahina",
+  "return_to_home": "Bumalik sa Tahanan",
+  "more": "Higit pa",
+  "previous_slide": "Nakaraang slide",
+  "next_slide": "Susunod na slide",
+  "close": "Isara",
+  "previous": "Nakaraan",
+  "next": "Susunod",
+  "more_pages": "Higit pang mga pahina",
+  "toggle_sidebar": "I-toggle ang Sidebar"
+}

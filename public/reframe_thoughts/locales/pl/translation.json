@@ -1,0 +1,81 @@
+{
+  "404": "404",
+  "activity_name": "Przeformułuj myśli",
+  "intro": {
+    "title": "Spójrzmy na tę myśl inaczej.",
+    "p1": "Nasz umysł generuje myśli automatyczne — zwłaszcza, gdy odczuwamy duży niepokój.",
+    "p2": "Niektóre wydają się pilne. Inne przekonujące.",
+    "p3": "Ale myśli to interpretacje, a nie fakty.",
+    "p4": "Dzisiaj poćwiczymy delikatne nadawanie mu nowego kształtu.",
+    "button": "Jestem gotowy spróbować."
+  },
+  "identify": {
+    "title": "Co to była za myśl?",
+    "p1": "Zapisz myśl dokładnie tak, jak pojawiła się w Twojej głowie.",
+    "p2": "Bez edycji. Bez poprawiania.",
+    "placeholder": "np. „Jeśli popełnię błąd, wszystko się rozpadnie”.",
+    "hint": "Zwróć uwagę na ton tej myśli.",
+    "button": "Widzę to wyraźnie."
+  },
+  "examine": {
+    "title": "Zwolnijmy tempo.",
+    "question": "Co sprawia, że ta myśl wydaje się prawdziwa? Czy to:",
+    "hint": "Lęk często przekształca możliwości w pewność.",
+    "button": "Dobra…"
+  },
+  "reframe": {
+    "title": "Która wersja jest bardziej zrównoważona?",
+    "p1": "Nie chodzi o to, żeby udawać, że wszystko jest w porządku.",
+    "p2": "Chodzi o dodanie perspektywy.",
+    "list_title": "Spróbuj napisać myśl, która brzmi:",
+    "list_item1": "Bardziej realistyczne",
+    "list_item2": "Mniej ekstremalne",
+    "list_item3": "Oparte na dowodach",
+    "placeholder": "Napisz bardziej zrównoważoną wersję…",
+    "original_label": "Oryginalny:",
+    "balanced_label": "Zrównoważony:",
+    "example_original": "Jeśli tak myślę, to musi to być prawda.",
+    "example_balanced": "Myśli pojawiają się automatycznie. Nie definiują moich działań.",
+    "button": "To daje poczucie większego ugruntowania."
+  },
+  "integration": {
+    "title": "Zwróć uwagę na zmianę.",
+    "p1": "Porównaj myśl oryginalną i przeformułowaną.",
+    "p2": "Czy nowa myśl:",
+    "list_item1": "Zmniejszyć poczucie pilności?",
+    "list_item2": "Stworzyć przestrzeń?",
+    "list_item3": "Czujesz się odrobinę bardziej elastyczny?",
+    "hint": "Nawet niewielkie zmiany budują odporność.",
+    "button": "Mogę to ćwiczyć."
+  },
+  "completion": {
+    "title": "Perspektywa buduje siłę.",
+    "subtitle": "Ćwiczyłeś reagowanie w inny sposób.",
+    "p1": "To jest postęp.",
+    "try_again": "Spróbuj ponownie",
+    "show_saved": "Pokaż moje zapisane wpisy"
+  },
+  "distortions": {
+    "prediction": "Prognoza",
+    "worst_case": "Najgorszy scenariusz",
+    "assumption": "Założenie",
+    "feeling": "Uczucie przebrane za fakt"
+  },
+  "saved_entries": {
+    "title": "Moje zapisane wpisy",
+    "loading": "Ładowanie dzienników...",
+    "no_entries": "Nie zapisano jeszcze żadnych wpisów.",
+    "the_thought": "Myśl",
+    "reframed": "Przeformułowany"
+  },
+  "oops_page_not_found": "Ups! Strona nie znaleziona",
+  "return_to_home": "Powrót do domu",
+  "more": "Więcej",
+  "previous_slide": "Poprzedni slajd",
+  "next_slide": "Następny slajd",
+  "close": "Zamknij",
+  "previous": "Poprzednie",
+  "next": "Następny",
+  "more_pages": "Więcej stron",
+  "toggle_sidebar": "Przełącznik boczny"
+}

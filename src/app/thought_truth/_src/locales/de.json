@@ -1,0 +1,59 @@
+{
+  "welcome": {
+    "badge": "Reiner O-Zwangs-Zwang",
+    "title": "Gedanke oder Wahrheit?",
+    "description": "Wischen Sie nach links für Falsch / Wischen Sie nach rechts für Wahr!",
+    "details": "5 Fragen · Richtig oder falsch",
+    "button": "Auf geht&#39;s! 🚀"
+  },
+  "before": {
+    "title": "Bevor wir beginnen",
+    "p1": "Unser Gehirn produziert täglich alle möglichen Gedanken – sogar beängstigende oder seltsame. Das bedeutet nicht, dass mit dir etwas nicht stimmt.",
+    "p2": "Bei der reinen Zwangsstörung (Pure O OCD) ist nicht der Gedanke an sich das Problem. Das Problem ist, wie viel Bedeutung wir ihm beimessen.",
+    "button": "Ich bin bereit 💪"
+  },
+  "quiz": {
+    "questionCount": "Frage {{current}} von {{total}}",
+    "falseHint": "👈 Falsch",
+    "trueHint": "Wahr 👉",
+    "correct": "✅ Korrekt!",
+    "incorrect": "❌ Nicht ganz!",
+    "continue": "Weiter →"
+  },
+  "results": {
+    "amazing": "Toll!",
+    "niceTry": "Netter Versuch!",
+    "keepLearning": "Lernen Sie weiter!",
+    "scoreMsg": "Du hast {{score}} aus {{total}} richtig erhalten.",
+    "heartsMsg": "Verbleibende Herzen: ",
+    "remember": "Denk daran: Gedanken sind nur Gedanken. Sie definieren nicht, wer du bist. 💜",
+    "tryAgain": "Erneut versuchen 🔄"
+  },
+  "questions": [
+    {
+      "q": "Gewalttätige Gedanken zu haben bedeutet, dass man eine gefährliche Person ist.",
+      "correctExplain": "Gedanken sind keine Tatsachen. Jeder hat aufdringliche Gedanken – sie definieren einen nicht.",
+      "wrongExplain": "Tatsächlich macht Sie ein beängstigender Gedanke nicht gefährlich. Aufdringliche Gedanken sind normal."
+    },
+    {
+      "q": "Fast jeder Mensch erlebt irgendwann einmal aufdringliche Gedanken.",
+      "correctExplain": "Studien zeigen, dass über 90 % der Menschen von aufdringlichen Gedanken geplagt werden. Sie sind nicht allein!",
+      "wrongExplain": "Aufdringliche Gedanken sind tatsächlich sehr verbreitet – Studien zeigen, dass fast jeder sie hat."
+    },
+    {
+      "q": "Je mehr man versucht, einen Gedanken zu unterdrücken, desto stärker kommt er wieder.",
+      "correctExplain": "Dies wird als „Weißbäreneffekt“ bezeichnet. Unterdrückte Gedanken machen sie hartnäckiger.",
+      "wrongExplain": "Das stimmt tatsächlich! Wenn man versucht, Gedanken zu verdrängen, kehren sie nur umso stärker zurück."
+    },
+    {
+      "q": "Wenn sich ein Gedanke real anfühlt, muss er wahr sein.",
+      "correctExplain": "Gefühle sind keine Tatsachen. Zwangsstörungen lassen Gedanken dringlich und real erscheinen – aber es sind nur Gedanken.",
+      "wrongExplain": "Nur weil sich ein Gedanke real anfühlt, heißt das nicht, dass er wahr ist. Zwangsstörungen sind in dieser Hinsicht tückisch."
+    },
+    {
+      "q": "Einen Gedanken zu akzeptieren bedeutet, ihm zuzustimmen.",
+      "correctExplain": "Akzeptanz bedeutet, einen Gedanken zuzulassen, ohne ihn zu bekämpfen – ihn also nicht zu befürworten.",
+      "wrongExplain": "Akzeptanz ist nicht gleich Zustimmung. Man kann einen Gedanken wahrnehmen, ohne ihn zu glauben oder danach zu handeln."
+    }
+  ]
+}

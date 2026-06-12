@@ -1,0 +1,44 @@
+{
+  "welcome": {
+    "title": "Trabalho com espelhos",
+    "quote": "\"A maneira como você fala consigo mesmo importa mais do que você imagina. Este é o momento de ser gentil com a pessoa que mais precisa disso — você.\"",
+    "subtitle": "Encontre um momento de tranquilidade. Isso é só para você.",
+    "button": "Estou pronto →",
+    "back": "Volte"
+  },
+  "mirror": {
+    "title": "Leia isso para si mesmo",
+    "description": "Estas são coisas que a sua versão mais gentil e saudável quer que você ouça. Leia cada uma delas devagar — em voz alta, se puder. Não tenha pressa.",
+    "back": "Volte",
+    "prev": "Anterior",
+    "next": "Próximo",
+    "read_again": "Leia novamente se precisar. Não há pressa.",
+    "complete": "Concluído ✓",
+    "completion_msg": "Você priorizou a si mesma hoje.\nIsso é tudo. 💙",
+    "affirmations": [
+      "Eu não sou meus pensamentos ansiosos.\nMeus pensamentos não são fatos.",
+      "Estou fazendo o melhor que posso\ncom o que tenho agora.",
+      "Não ter todas as respostas é normal.\nA incerteza faz parte da vida.",
+      "Meu corpo não é meu inimigo.\nEle está trabalhando duro para cuidar de mim.",
+      "Eu mereço a mesma gentileza que daria a alguém que amo.",
+      "Essa preocupação vai passar. Sempre passa.\nSobrevivi a todos os momentos difíceis até agora.",
+      "Sou muito mais do que minha ansiedade relacionada à saúde.\nHá muito mais em mim do que isso."
+    ]
+  },
+  "notfound": {
+    "title": "404",
+    "subtitle": "Ops! Página não encontrada",
+    "return": "Voltar para a página inicial"
+  },
+  "common": {
+    "language": "Linguagem"
+  },
+  "more": "Mais",
+  "previous_slide": "Slide anterior",
+  "next_slide": "Próximo slide",
+  "close": "Fechar",
+  "previous": "Anterior",
+  "next": "Próximo",
+  "more_pages": "Mais páginas",
+  "toggle_sidebar": "Alternar a barra lateral"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Trattamento del DOC: cosa devi sapere",
+  "hero": {
+    "p1": "Ricevere una diagnosi di disturbo ossessivo-compulsivo può essere un&#39;esperienza travolgente. Ma è importante sapere che il DOC è altamente curabile.",
+    "p2": "Con il giusto supporto e cure basate sulle prove, molte persone riescono a riprendere il controllo e a vivere una vita appagante."
+  },
+  "is_treatable": {
+    "title": "Il DOC è davvero curabile?",
+    "p1": "Sì, e ci sono solide ricerche a supporto di questa affermazione.",
+    "p2": "Circa la metà degli individui risponde molto bene ai trattamenti standard di prima linea. Anche se il primo tentativo non funziona perfettamente, circa il 70% delle persone riscontra miglioramenti significativi se continua a impegnarsi nel trattamento e adatta le strategie secondo necessità.",
+    "quote": "La guarigione non avviene sempre dall&#39;oggi al domani, ma è assolutamente possibile fare progressi."
+  },
+  "treatments": {
+    "title": "Quali trattamenti sono più efficaci?",
+    "specialized": {
+      "title": "Terapia Specialistica",
+      "subtitle": "CBT basato su ERP",
+      "p1": "Il DOC è caratterizzato da due componenti principali:",
+      "obsessions": "pensieri o impulsi intrusivi e angoscianti.",
+      "compulsions": "comportamenti ripetitivi messi in atto per ridurre l&#39;ansia.",
+      "p2": "La terapia più efficace per il DOC è una forma specifica di terapia cognitivo-comportamentale chiamata Esposizione e Prevenzione della Risposta (ERP).",
+      "p3": "Invece di evitare i fattori scatenanti dell&#39;ansia, l&#39;ERP aiuta le persone a:",
+      "steps": [
+        null,
+        "affrontare pensieri o situazioni temute",
+        "Resisti all&#39;esecuzione della solita risposta compulsiva",
+        "Scopri che l&#39;ansia diminuisce naturalmente senza rituali"
+      ],
+      "quote": "Nel tempo, questo riaddestra la risposta del cervello alla paura.",
+      "p4": "La terapia viene in genere condotta settimanalmente per diversi mesi. Durante questo periodo, i clienti praticano anche esercizi tra una seduta e l&#39;altra. Sebbene l&#39;ansia possa aumentare temporaneamente durante le esposizioni, questo disagio fa parte del processo di guarigione.",
+      "p5": "Gli studi suggeriscono che la maggior parte delle persone che si dedicano pienamente all&#39;ERP riscontrano una significativa riduzione dei sintomi."
+    }
+  },
+  "get_started": {
+    "title": "Come si inizia?",
+    "p1": "Il primo passo è rivolgersi a un professionista sanitario: potrebbe essere un medico di base, uno psichiatra o uno psicoterapeuta specializzato in disturbi ossessivo-compulsivi.",
+    "p2": "Un&#39;assistenza efficace dovrebbe includere:",
+    "care_items": [
+      "Educazione chiara sul DOC",
+      "Discussione sulle opzioni di trattamento",
+      "Decisione condivisa",
+      "Considerazione delle tue preferenze e dei tuoi obiettivi"
+    ],
+    "goals_p": "Gli obiettivi del trattamento spesso includono:",
+    "goal_items": [
+      "Riduzione dell&#39;intensità dei sintomi",
+      "Migliorare il funzionamento quotidiano",
+      "Migliorare la qualità della vita",
+      "Costruire strumenti di coping per situazioni stressanti"
+    ]
+  },
+  "final_word": {
+    "title": "Una parola finale",
+    "p1": "Il DOC può essere persistente, ma è gestibile. Molte persone, tra cui medici, ricercatori e persone con esperienza diretta, hanno dedicato il loro lavoro a migliorare i risultati per le persone colpite.",
+    "quote": "Con la giusta combinazione di trattamento, pazienza e supporto, è possibile una guarigione significativa."
+  },
+  "common": {
+    "obsessions_label": "Ossessioni",
+    "compulsions_label": "Compulsioni"
+  }
+}

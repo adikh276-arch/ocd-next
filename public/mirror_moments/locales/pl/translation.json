@@ -1,0 +1,44 @@
+{
+  "welcome": {
+    "title": "Praca lustrzana",
+    "quote": "„Sposób, w jaki do siebie mówisz, ma większe znaczenie, niż myślisz. To moment, by okazać życzliwość osobie, która najbardziej tego potrzebuje – sobie”.",
+    "subtitle": "Znajdź chwilę spokoju. To tylko dla Ciebie.",
+    "button": "Jestem gotowy →",
+    "back": "Wracać"
+  },
+  "mirror": {
+    "title": "Przeczytaj to sobie",
+    "description": "To są rzeczy, które chce ci przekazać twoje najżyczliwsze, najzdrowsze „ja”. Przeczytaj je powoli – na głos, jeśli potrafisz. Nie spiesz się.",
+    "back": "Wracać",
+    "prev": "Poprzedni",
+    "next": "Następny",
+    "read_again": "Przeczytaj to jeszcze raz, jeśli potrzebujesz. Nie ma pośpiechu.",
+    "complete": "Zakończone ✓",
+    "completion_msg": "Dziś dałeś z siebie wszystko.\nTo wszystko. 💙",
+    "affirmations": [
+      "Nie jestem swoimi niespokojnymi myślami.\nMoje myśli nie są faktami.",
+      "Robię, co mogę, mając to, co mam teraz.",
+      "To nic, że nie znasz wszystkich odpowiedzi.\nNiepewność jest częścią życia.",
+      "Moje ciało nie jest moim wrogiem.\nCiężko pracuje, żeby się mną opiekować.",
+      "Zasługuję na taką samą życzliwość, jaką dałbym komuś, kogo kocham.",
+      "Ten niepokój minie. Zawsze tak jest. Do tej pory przetrwałem każdą trudną chwilę.",
+      "Jestem czymś więcej niż tylko moim lękiem o zdrowie. Jest we mnie o wiele więcej."
+    ]
+  },
+  "notfound": {
+    "title": "404",
+    "subtitle": "Ups! Strona nie została znaleziona",
+    "return": "Powrót do strony głównej"
+  },
+  "common": {
+    "language": "Język"
+  },
+  "more": "Więcej",
+  "previous_slide": "Poprzedni slajd",
+  "next_slide": "Następny slajd",
+  "close": "Zamknij",
+  "previous": "Poprzednie",
+  "next": "Następny",
+  "more_pages": "Więcej stron",
+  "toggle_sidebar": "Przełącznik boczny"
+}

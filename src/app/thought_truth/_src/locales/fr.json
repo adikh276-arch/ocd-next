@@ -1,0 +1,59 @@
+{
+  "welcome": {
+    "badge": "TOC pur",
+    "title": "Pensée ou vérité ?",
+    "description": "Balayez vers la gauche pour Faux / Balayez vers la droite pour Vrai !",
+    "details": "5 questions · vrai ou faux",
+    "button": "C&#39;est parti ! 🚀"
+  },
+  "before": {
+    "title": "Avant de commencer",
+    "p1": "Notre cerveau produit toutes sortes de pensées chaque jour, même des pensées effrayantes ou étranges. Cela ne signifie pas que vous avez un problème.",
+    "p2": "Dans le cas du TOC de type O pur, ce n&#39;est pas la pensée en elle-même qui pose problème, mais l&#39;importance qu&#39;on lui accorde.",
+    "button": "Je suis prêt(e) 💪"
+  },
+  "quiz": {
+    "questionCount": "Question {{current}} de {{total}}",
+    "falseHint": "👈 Faux",
+    "trueHint": "Vrai 👉",
+    "correct": "✅ Correct !",
+    "incorrect": "❌ Pas tout à fait !",
+    "continue": "Continuer →"
+  },
+  "results": {
+    "amazing": "Incroyable!",
+    "niceTry": "Bien essayé !",
+    "keepLearning": "Continuez d&#39;apprendre !",
+    "scoreMsg": "Vous avez correctement trouvé {{score}} parmi {{total}}.",
+    "heartsMsg": "Cœurs restants : ",
+    "remember": "N&#39;oubliez pas : les pensées ne sont que des pensées. Elles ne définissent pas qui vous êtes. 💜",
+    "tryAgain": "Réessayez 🔄"
+  },
+  "questions": [
+    {
+      "q": "Avoir des pensées violentes fait de vous une personne dangereuse.",
+      "correctExplain": "Les pensées ne sont pas des faits. Tout le monde a des pensées intrusives — elles ne vous définissent pas.",
+      "wrongExplain": "En réalité, avoir une pensée effrayante ne fait pas de vous une personne dangereuse. Les pensées intrusives sont normales."
+    },
+    {
+      "q": "Presque tout le monde fait l&#39;expérience, à un moment ou un autre, de pensées intrusives.",
+      "correctExplain": "Des études montrent que plus de 90 % des gens sont sujets aux pensées intrusives. Vous n&#39;êtes pas seul !",
+      "wrongExplain": "Les pensées intrusives sont en réalité très courantes — des études montrent que presque tout le monde en a."
+    },
+    {
+      "q": "Plus on essaie de réprimer une pensée, plus elle revient.",
+      "correctExplain": "C&#39;est ce qu&#39;on appelle « l&#39;effet ours blanc ». La répression rend les pensées plus tenaces.",
+      "wrongExplain": "C&#39;est tout à fait vrai ! Tenter de repousser des pensées ne fait que les rendre plus fortes."
+    },
+    {
+      "q": "Si une pensée semble réelle, c&#39;est qu&#39;elle est forcément vraie.",
+      "correctExplain": "Les sentiments ne sont pas des faits. Les TOC donnent aux pensées un sentiment d&#39;urgence et de réalité, alors qu&#39;il ne s&#39;agit que de pensées.",
+      "wrongExplain": "Ce n&#39;est pas parce qu&#39;une pensée semble réelle qu&#39;elle est vraie. Les TOC sont trompeurs de ce point de vue-là."
+    },
+    {
+      "q": "Accepter une idée revient à y adhérer.",
+      "correctExplain": "Accepter, c&#39;est laisser une pensée exister sans la combattre, et non l&#39;approuver.",
+      "wrongExplain": "Accepter ne signifie pas être d&#39;accord. On peut avoir une pensée sans y croire ni agir en conséquence."
+    }
+  ]
+}

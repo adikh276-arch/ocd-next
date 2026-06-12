@@ -1,0 +1,44 @@
+{
+  "welcome": {
+    "title": "Gawaing Salamin",
+    "quote": "\"Mas mahalaga ang paraan ng pagsasalita mo sa iyong sarili kaysa sa inaakala mo. Ito ang sandali para maging mabait sa taong higit na nangangailangan nito — ikaw.\"",
+    "subtitle": "Maghanap ng tahimik na sandali. Para lang ito sa iyo.",
+    "button": "Handa Na Ako →",
+    "back": "Bumalik"
+  },
+  "mirror": {
+    "title": "Basahin ang mga Ito sa Iyong Sarili",
+    "description": "Ito ang mga bagay na nais marinig ng iyong pinakamabait at pinakamalusog na sarili. Basahin ang bawat isa nang dahan-dahan — nang malakas kung kaya mo. Huwag mag-atubiling.",
+    "back": "Bumalik",
+    "prev": "Nakaraan",
+    "next": "Susunod",
+    "read_again": "Basahin mo ulit kung kailangan. Walang pagmamadali.",
+    "complete": "Kumpletuhin ang ✓",
+    "completion_msg": "Nagpakita ka para sa iyong sarili ngayon.\nIyon lang ang lahat. 💙",
+    "affirmations": [
+      "Hindi ako ang aking mga balisang kaisipan.\n\nAng aking mga iniisip ay hindi katotohanan.",
+      "Ginagawa ko ang lahat ng aking makakaya gamit ang kung anong meron ako ngayon.",
+      "Ayos lang na hindi mo makuha ang lahat ng sagot.\nBahagi ng buhay ang kawalan ng katiyakan.",
+      "Hindi ko kaaway ang katawan ko.\nNagsusumikap itong pangalagaan ako.",
+      "Karapat-dapat din ako sa kabaitang ibibigay ko sa taong mahal ko.",
+      "Lilipas din ang pag-aalalang ito. Palagi itong nangyayari.\nNalampasan ko ang bawat mahirap na sandali sa ngayon.",
+      "Higit pa ako sa aking pagkabalisa sa kalusugan.\nMas marami pa akong dapat gawin kaysa rito."
+    ]
+  },
+  "notfound": {
+    "title": "404",
+    "subtitle": "Naku! Hindi natagpuan ang pahina",
+    "return": "Bumalik sa Bahay"
+  },
+  "common": {
+    "language": "Wika"
+  },
+  "more": "Higit pa",
+  "previous_slide": "Nakaraang slide",
+  "next_slide": "Susunod na slide",
+  "close": "Isara",
+  "previous": "Nakaraan",
+  "next": "Susunod",
+  "more_pages": "Higit pang mga pahina",
+  "toggle_sidebar": "I-toggle ang Sidebar"
+}

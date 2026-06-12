@@ -1,0 +1,22 @@
+{
+  "404": "404",
+  "title": "Pengecekan Rasa Syukur",
+  "subtitle": "Sebutkan 3 hal yang kamu syukuri",
+  "input_placeholder": "Saya bersyukur atas...",
+  "submit_button": "Ungkapan Terima Kasih",
+  "logged_title": "Ucapan terima kasih telah tercatat!",
+  "logged_subtitle": "Momen-momen kecil, kebahagiaan besar.",
+  "log_another": "Masuk Lainnya",
+  "history_title": "Catatan Rasa Syukur Saya",
+  "gratitude_history": "Sejarah Syukur",
+  "oops_page_not_found": "Ups! Halaman tidak ditemukan",
+  "return_to_home": "Kembali ke Rumah",
+  "more": "Selengkapnya",
+  "previous_slide": "Slide sebelumnya",
+  "next_slide": "Slide berikutnya",
+  "close": "Tutup",
+  "previous": "sebelumnya",
+  "next": "Selanjutnya",
+  "more_pages": "Halaman lainnya",
+  "toggle_sidebar": "Beralih Bilah Sisi"
+}

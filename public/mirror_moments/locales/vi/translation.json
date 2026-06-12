@@ -1,0 +1,44 @@
+{
+  "welcome": {
+    "title": "Công việc phản chiếu",
+    "quote": "\"Cách bạn tự nói chuyện với bản thân quan trọng hơn bạn tưởng. Đây là lúc để đối xử tử tế với người cần điều đó nhất - chính là bạn.\"",
+    "subtitle": "Hãy tìm một khoảnh khắc tĩnh lặng. Chỉ dành riêng cho bạn.",
+    "button": "Tôi đã sẵn sàng →",
+    "back": "Quay lại"
+  },
+  "mirror": {
+    "title": "Hãy tự đọc những điều này nhé.",
+    "description": "Đây là những điều mà phần nhân cách tốt đẹp nhất, khỏe mạnh nhất trong bạn muốn bạn nghe. Hãy đọc chậm rãi từng điều một — đọc to nếu có thể. Cứ từ từ mà đọc.",
+    "back": "Quay lại",
+    "prev": "Trước",
+    "next": "Kế tiếp",
+    "read_again": "Nếu cần, hãy đọc lại. Không cần vội.",
+    "complete": "Hoàn thành ✓",
+    "completion_msg": "Hôm nay bạn đã dành thời gian cho chính mình.\n\nThế là đủ rồi. 💙",
+    "affirmations": [
+      "Tôi không phải là những suy nghĩ lo lắng của mình.\n\nSuy nghĩ của tôi không phải là sự thật.",
+      "Tôi đang cố gắng hết sức mình\nvới những gì mình đang có hiện tại.",
+      "Không sao cả nếu bạn không có tất cả các câu trả lời.\n\nSự không chắc chắn là một phần của cuộc sống.",
+      "Cơ thể tôi không phải là kẻ thù của tôi.\n\nNó đang làm việc chăm chỉ để chăm sóc tôi.",
+      "Tôi xứng đáng nhận được sự tử tế tương tự như cách tôi dành cho người mình yêu thương.",
+      "Nỗi lo này rồi sẽ qua. Nó luôn luôn như vậy.\nTôi đã vượt qua mọi khó khăn cho đến nay.",
+      "Tôi không chỉ là chứng lo âu về sức khỏe.\n\nTôi còn nhiều điều hơn thế nữa."
+    ]
+  },
+  "notfound": {
+    "title": "404",
+    "subtitle": "Ôi! Không tìm thấy trang!",
+    "return": "Trở về Trang chủ"
+  },
+  "common": {
+    "language": "Ngôn ngữ"
+  },
+  "more": "Xem thêm",
+  "previous_slide": "Trang trình bày trước",
+  "next_slide": "Trang trình bày tiếp theo",
+  "close": "Đóng",
+  "previous": "Trước",
+  "next": "Kế tiếp",
+  "more_pages": "Các trang khác",
+  "toggle_sidebar": "Chuyển đổi thanh bên"
+}

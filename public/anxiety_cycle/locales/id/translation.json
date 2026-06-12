@@ -1,0 +1,65 @@
+{
+  "404": "404",
+  "welcome": {
+    "title": "Memahami Kecemasan Kesehatan",
+    "description": "Pernahkah Anda bertanya-tanya mengapa kekhawatiran tentang kesehatan tidak pernah hilang — tidak peduli seberapa sering Anda memeriksanya? Inilah alasannya.",
+    "read_time": "Waktu baca 2 menit",
+    "button": "Tunjukkan padaku →"
+  },
+  "cycle": {
+    "title": "Inilah yang Terjadi di Otak Anda",
+    "description_1": "Kecemasan terkait kesehatan tidak hanya muncul dan menghilang. Ia berputar dalam sebuah lingkaran — dan setiap kali Anda memeriksanya, Anda memperkuat lingkaran tersebut.",
+    "description_2": "Setiap pengulangan mengajarkan otak Anda bahwa kekhawatiran itu layak diperiksa. Jadi, kekhawatiran itu terus kembali — setiap kali dengan intensitas yang sedikit lebih tinggi.",
+    "highlight": "💡 Memeriksa memberikan kelegaan — tetapi tidak pernah kebebasan.",
+    "button": "Saya Mengenali Ini →",
+    "restart": "↩ Dan ini dimulai lagi..."
+  },
+  "nodes": {
+    "trigger": {
+      "label": "Pemicu",
+      "desc": "Sakit kepala. Sebuah artikel. Sebuah pikiran."
+    },
+    "anxiety": {
+      "label": "Lonjakan Kecemasan",
+      "desc": "Bagaimana jika ada sesuatu yang salah dengan saya?"
+    },
+    "check": {
+      "label": "Anda Periksa",
+      "desc": "Google. Dokter. Tanyakan pada seseorang."
+    },
+    "relief": {
+      "label": "Bantuan Singkat",
+      "desc": "Oke… aku mungkin baik-baik saja."
+    },
+    "doubt": {
+      "label": "Keraguan Kembali",
+      "desc": "Tapi bagaimana jika mereka salah?"
+    }
+  },
+  "break_cycle": {
+    "title": "Inilah Cara Melawan Balik",
+    "description": "Setiap tahapan siklus memiliki cara untuk menghentikannya. Ketuk masing-masing untuk melihat apa yang dapat Anda lakukan:",
+    "tips": [
+      "Perhatikan tanpa bereaksi. Katakan pada diri sendiri — 'Itu pemicu, bukan fakta.' Kemudian tarik napas perlahan sebelum melakukan apa pun.",
+      "Sebutkan perasaan itu dengan lantang — 'Saat ini saya merasa cemas.' Menyebutkannya akan mengurangi kekuatannya. Anda tidak perlu memperbaikinya — cukup akui saja.",
+      "Ini adalah tahap terpenting yang perlu diinterupsi. Tunda pengecekan hanya selama 5 menit. Kemudian 10 menit. Setiap penundaan akan melemahkan kebiasaan tersebut.",
+      "Ingatkan diri Anda — rasa lega ini tidak akan bertahan lama. Rasa lega sejati datang dari mentoleransi ketidakpastian, bukan dari menghindarinya.",
+      "Jangan terpancing oleh keraguan itu. Katakan saja — 'Keraguan itu muncul lagi.' Lalu biarkan keraguan itu berlalu seperti awan tanpa mengikutinya."
+    ],
+    "all_tapped": "Sekarang kamu tahu persis di mana siklus itu berada — dan bagaimana cara menghentikannya. Pengetahuan itu sangat ampuh. 💙",
+    "button": "Selesai ✓"
+  },
+  "language_switcher": {
+    "label": "Bahasa"
+  },
+  "oops_page_not_found": "Ups! Halaman tidak ditemukan",
+  "return_to_home": "Kembali ke Rumah",
+  "more": "Selengkapnya",
+  "previous_slide": "Slide sebelumnya",
+  "next_slide": "Slide berikutnya",
+  "close": "Tutup",
+  "previous": "sebelumnya",
+  "next": "Selanjutnya",
+  "more_pages": "Halaman lainnya",
+  "toggle_sidebar": "Beralih Bilah Sisi"
+}

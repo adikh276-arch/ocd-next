@@ -1,0 +1,56 @@
+{
+  "auth": {
+    "loading": "Dein Tracker wird geladen..."
+  },
+  "index": {
+    "title": "Zwangsstörungsprotokolle",
+    "subtitle": "Aufnehmen & Spuren",
+    "journal": "Zeitschrift",
+    "history": "Geschichte",
+    "analytics": "Analysen"
+  },
+  "log": {
+    "context": "Kontext",
+    "home": "Heim",
+    "work": "Arbeiten",
+    "social": "Soziale Medien",
+    "other": "Andere",
+    "custom_placeholder": "Wo genau? (z. B. Garten, Turnhalle)",
+    "observation": "Beobachtung",
+    "urge_placeholder": "Halten Sie den Gedanken oder Impuls fest, sobald er auftaucht...",
+    "previous_notes": "Vorherige Notizen in {{location}}",
+    "decision": "Entscheidung",
+    "acted_label": "Dem Drang folgen",
+    "waited_label": "Warten",
+    "resisted_label": "Bemerkt, ohne zu handeln",
+    "complete_session": "Sitzung abschließen",
+    "success_title": "Moment protokolliert",
+    "success_desc": "Ihre Eingabe wurde sicher gespeichert.",
+    "error_title": "Speichern fehlgeschlagen",
+    "error_desc": "Beim Speichern Ihres Eintrags in der Datenbank ist ein Problem aufgetreten."
+  },
+  "history": {
+    "title": "Zeitleiste",
+    "subtitle": "Reflexionen & Wachstum",
+    "journal_date": "Journaldatum",
+    "no_entries": "Noch keine Einträge",
+    "start_today": "Beginnen Sie noch heute mit Ihrem ersten Logbuch."
+  },
+  "insights": {
+    "title": "Erkenntnisse zur Reaktion",
+    "subtitle": "Ihre Wachstumsanalyse",
+    "back": "Zurück zum Tagebuch",
+    "this_week": "Diese Woche",
+    "last_week": "Letzte Woche",
+    "two_weeks_ago": "Vor 2 Wochen",
+    "waiting_data": "Warten auf Daten",
+    "log_entries": "Führen Sie während dieses Zeitraums Protokolle, um hier Ihre Fortschrittsmuster zu erkennen.",
+    "info": "Für die Anzeige der Zusammenfassung ist mindestens ein Eintrag erforderlich, für die Musteranalyse hingegen mindestens vier Einträge.",
+    "activity": "Aktivität",
+    "entry_flows": "Eintrittsströme",
+    "pattern_discovery": "Mustererkennung",
+    "pattern_resisted": "Du hast Impulse häufiger bemerkt, ohne ihnen nachzugeben, als du ihnen nachgegeben hast. Das zeugt von Beobachtungsgabe.",
+    "pattern_acted": "Du hast in dieser Zeit häufiger deinen Impulsen nachgegeben. Das ist einfach eine Phase auf dem Weg – dein Bewusstsein dafür ist der erste Schritt zur Veränderung.",
+    "pattern_balanced": "Ihre Antworten waren in diesem Zeitraum ausgeglichen. Sie finden Ihren Mittelweg."
+  }
+}

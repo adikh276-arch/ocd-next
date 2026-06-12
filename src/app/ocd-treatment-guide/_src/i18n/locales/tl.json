@@ -1,0 +1,61 @@
+{
+  "title": "Paggamot sa OCD: Ang Kailangan Mong Malaman",
+  "hero": {
+    "p1": "Ang pagiging nasuri na may Obsessive-Compulsive Disorder ay maaaring makaramdam ng labis na pagkabalisa. Ngunit mahalagang malaman na ang OCD ay lubos na magagamot.",
+    "p2": "Sa pamamagitan ng tamang suporta at pangangalagang nakabatay sa ebidensya, maraming tao ang nakakabawi ng kontrol at namumuhay nang makabuluhan."
+  },
+  "is_treatable": {
+    "title": "Talaga bang Magamot ang OCD?",
+    "p1": "Oo — at mayroong matibay na pananaliksik upang suportahan iyon.",
+    "p2": "Halos kalahati ng mga indibidwal ay tumutugon nang maayos sa mga karaniwang first-line na paggamot. Kahit na ang unang pagsubok ay hindi gumana nang perpekto, humigit-kumulang 70% ng mga tao ang nakakakita ng makabuluhang pagbuti kapag nanatili silang nakatuon sa paggamot at inaayos ang mga estratehiya kung kinakailangan.",
+    "quote": "Ang paggaling ay hindi laging nangyayari sa isang iglap, ngunit ang pag-unlad ay talagang posible."
+  },
+  "treatments": {
+    "title": "Anong mga Paggamot ang Pinakamahusay na Epektibo?",
+    "specialized": {
+      "title": "Espesyalisadong Terapiya",
+      "subtitle": "CBT na Nakabatay sa ERP",
+      "p1": "Ang OCD ay may kasamang dalawang pangunahing sangkap:",
+      "obsessions": "mapanghimasok, nakababahalang mga kaisipan o pagnanasa.",
+      "compulsions": "mga paulit-ulit na pag-uugali na ginagawa upang mabawasan ang pagkabalisa.",
+      "p2": "Ang pinakaepektibong therapy para sa OCD ay isang partikular na anyo ng Cognitive Behavioral Therapy na tinatawag na Exposure and Response Prevention (ERP).",
+      "p3": "Sa halip na iwasan ang mga nagti-trigger ng pagkabalisa, tinutulungan ng ERP ang mga indibidwal na:",
+      "steps": [
+        null,
+        "harapin ang mga kinatatakutang kaisipan o sitwasyon",
+        "Labanan ang pagsasagawa ng karaniwang mapilit na tugon",
+        "Alamin na natural na nababawasan ang pagkabalisa nang walang mga ritwal"
+      ],
+      "quote": "Sa paglipas ng panahon, sinasanay muli nito ang tugon ng utak sa takot.",
+      "p4": "Karaniwang isinasagawa ang therapy linggu-linggo sa loob ng ilang buwan. Sa panahong ito, nagsasagawa rin ng mga ehersisyo ang mga kliyente sa pagitan ng mga sesyon. Bagama&#39;t maaaring pansamantalang tumindi ang pagkabalisa habang nakakaranas ng mga sintomas, ang discomfort na ito ay bahagi ng proseso ng paggaling.",
+      "p5": "Iminumungkahi ng mga pag-aaral na ang karamihan sa mga taong lubos na nakikibahagi sa ERP ay nakakaranas ng makabuluhang pagbawas ng mga sintomas."
+    }
+  },
+  "get_started": {
+    "title": "Paano Ka Magsisimula?",
+    "p1": "Ang unang hakbang ay ang pakikipag-ugnayan sa isang propesyonal sa pangangalagang pangkalusugan — maaaring ito ay isang pangunahing tagapagbigay ng pangangalagang pangkalusugan, psychiatrist, o isang therapist na sinanay sa OCD.",
+    "p2": "Ang epektibong pangangalaga ay dapat kabilang ang:",
+    "care_items": [
+      "Malinaw na edukasyon tungkol sa OCD",
+      "Pagtalakay sa mga opsyon sa paggamot",
+      "Paggawa ng desisyon nang sama-sama",
+      "Pagsasaalang-alang sa iyong mga kagustuhan at layunin"
+    ],
+    "goals_p": "Kadalasang kasama sa mga layunin ng paggamot ang:",
+    "goal_items": [
+      "Pagbabawas ng tindi ng sintomas",
+      "Pagpapabuti ng pang-araw-araw na paggana",
+      "Pagtaas ng kalidad ng buhay",
+      "Pagbuo ng mga kagamitan sa pagharap sa mga nakababahalang sitwasyon"
+    ]
+  },
+  "final_word": {
+    "title": "Isang Pangwakas na Salita",
+    "p1": "Maaaring maging matindi ang OCD, ngunit maaari itong pamahalaan. Maraming tao — kabilang ang mga clinician, mananaliksik, at mga indibidwal na may karanasan — ang naglaan ng kanilang trabaho sa pagpapabuti ng mga resulta para sa mga apektado.",
+    "quote": "Sa tamang kombinasyon ng paggamot, pasensya, at suporta, posible ang makabuluhang paggaling."
+  },
+  "common": {
+    "obsessions_label": "Mga obsesyon",
+    "compulsions_label": "Mga Kompulsyon"
+  }
+}

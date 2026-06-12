@@ -1,0 +1,61 @@
+{
+  "title": "Tratamiento del TOC: lo que necesita saber",
+  "hero": {
+    "p1": "Recibir un diagnóstico de trastorno obsesivo-compulsivo puede ser abrumador. Pero es importante saber que el TOC es altamente tratable.",
+    "p2": "Con el apoyo adecuado y una atención basada en evidencia, muchas personas pueden recuperar el control y vivir una vida plena."
+  },
+  "is_treatable": {
+    "title": "¿Es realmente tratable el TOC?",
+    "p1": "Sí, y hay investigaciones sólidas que lo respaldan.",
+    "p2": "Aproximadamente la mitad de las personas responden muy bien a los tratamientos estándar de primera línea. Incluso si el primer intento no funciona a la perfección, alrededor del 70 % de las personas experimentan una mejora significativa cuando se mantienen fieles al tratamiento y ajustan las estrategias según sea necesario.",
+    "quote": "La recuperación no siempre ocurre de la noche a la mañana, pero el progreso es absolutamente posible."
+  },
+  "treatments": {
+    "title": "¿Qué tratamientos funcionan mejor?",
+    "specialized": {
+      "title": "Terapia especializada",
+      "subtitle": "CBT basado en ERP",
+      "p1": "El TOC implica dos componentes principales:",
+      "obsessions": "pensamientos o impulsos intrusivos y angustiantes.",
+      "compulsions": "conductas repetitivas realizadas para reducir la ansiedad.",
+      "p2": "La terapia más eficaz para el TOC es una forma específica de terapia cognitivo conductual llamada Prevención de Exposición y Respuesta (ERP).",
+      "p3": "En lugar de evitar los desencadenantes de ansiedad, ERP ayuda a las personas a:",
+      "steps": [
+        null,
+        "Enfrentar pensamientos o situaciones temidas",
+        "Resista realizar la respuesta compulsiva habitual",
+        "Aprende que la ansiedad disminuye naturalmente sin rituales"
+      ],
+      "quote": "Con el tiempo, esto reentrena la respuesta del cerebro al miedo.",
+      "p4": "La terapia suele realizarse semanalmente durante varios meses. Durante este período, los clientes también practican ejercicios entre sesiones. Si bien la ansiedad puede aumentar temporalmente durante las exposiciones, esta incomodidad forma parte del proceso de curación.",
+      "p5": "Los estudios sugieren que la mayoría de las personas que practican ERP plenamente experimentan una reducción significativa de los síntomas."
+    }
+  },
+  "get_started": {
+    "title": "¿Cómo empezar?",
+    "p1": "El primer paso es contactar a un profesional de la salud: podría ser un médico de atención primaria, un psiquiatra o un terapeuta capacitado en TOC.",
+    "p2": "Una atención eficaz debe incluir:",
+    "care_items": [
+      "Educación clara sobre el TOC",
+      "Discusión sobre las opciones de tratamiento",
+      "Toma de decisiones compartida",
+      "Consideración de sus preferencias y objetivos"
+    ],
+    "goals_p": "Los objetivos del tratamiento a menudo incluyen:",
+    "goal_items": [
+      "Reducir la intensidad de los síntomas",
+      "Mejorar el funcionamiento diario",
+      "Aumentar la calidad de vida",
+      "Desarrollar herramientas de afrontamiento para situaciones estresantes"
+    ]
+  },
+  "final_word": {
+    "title": "Una última palabra",
+    "p1": "El TOC puede ser persistente, pero es manejable. Muchas personas, incluyendo médicos, investigadores y personas con experiencia propia, han dedicado su trabajo a mejorar los resultados de las personas afectadas.",
+    "quote": "Con la combinación adecuada de tratamiento, paciencia y apoyo, es posible una recuperación significativa."
+  },
+  "common": {
+    "obsessions_label": "Obsesiones",
+    "compulsions_label": "Compulsiones"
+  }
+}

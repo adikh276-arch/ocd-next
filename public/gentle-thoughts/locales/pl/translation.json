@@ -1,0 +1,32 @@
+{
+  "404": "404",
+  "header": "Wskazówki dotyczące OCD",
+  "subHeader": "Delikatne techniki uziemienia",
+  "tipBadge": "Wskazówka",
+  "swipeHint": "przesuń, aby kontynuować",
+  "prevTip": "Poprzednia wskazówka",
+  "nextTip": "Następna wskazówka",
+  "tips": [
+    "Zwróć uwagę na tę myśl i łagodnie ją nazwij: „To jest myśl OCD”.",
+    "Dopuść niepewność zamiast próbować rozwiązać problem natychmiast.",
+    "Pozwól, aby nieprzyjemne uczucia zagościły, nie osądzając siebie za ich występowanie.",
+    "Przypomnij sobie, że myśli to zdarzenia mentalne, a nie fakty czy intencje.",
+    "Skup się na tym, co robisz w danej chwili, a nie na scenariuszach „co by było, gdyby”.",
+    "Kiedy odczuwasz narastający niepokój, ćwicz powolne oddychanie — wdychaj powoli, a wydychaj jeszcze wolniej.",
+    "Utrzymuj stałą rutynę snu, aby wspierać regulację emocji.",
+    "Jedz regularne, zbilansowane posiłki, aby uniknąć skoków lęku spowodowanych niskim poziomem energii.",
+    "Ogranicz spożycie kofeiny, jeśli zauważysz, że zwiększa ona niepokój lub natrętne myśli.",
+    "Bądź dla siebie wyrozumiały — postępy w leczeniu OCD następują stopniowo, a nie perfekcyjnie."
+  ],
+  "not_found": "Nie znaleziono",
+  "oops_page_not_found": "Ups! Strona nie znaleziona",
+  "return_to_home": "Powrót do domu",
+  "more": "Więcej",
+  "previous_slide": "Poprzedni slajd",
+  "next_slide": "Następny slajd",
+  "close": "Zamknij",
+  "previous": "Poprzednie",
+  "next": "Następny",
+  "more_pages": "Więcej stron",
+  "toggle_sidebar": "Przełącznik boczny"
+}

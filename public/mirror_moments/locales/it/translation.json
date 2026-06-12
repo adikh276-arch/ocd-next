@@ -1,0 +1,44 @@
+{
+  "welcome": {
+    "title": "Lavoro a specchio",
+    "quote": "\"Il modo in cui parli a te stesso è più importante di quanto immagini. Questo è il momento di essere gentile con la persona che ne ha più bisogno: te stesso.\"",
+    "subtitle": "Trova un momento di tranquillità. È solo per te.",
+    "button": "Sono pronto →",
+    "back": "Torna indietro"
+  },
+  "mirror": {
+    "title": "Leggi questi testi per te stesso",
+    "description": "Queste sono le cose che la tua parte più gentile e sana desidera che tu senta. Leggile lentamente, ad alta voce se possibile. Prenditi il tuo tempo.",
+    "back": "Torna indietro",
+    "prev": "Precedente",
+    "next": "Prossimo",
+    "read_again": "Se necessario, rileggilo. Non c'è fretta.",
+    "complete": "Completato ✓",
+    "completion_msg": "Oggi ti sei preso cura di te stesso.\nQuesto è tutto. 💙",
+    "affirmations": [
+      "Io non sono i miei pensieri ansiosi.\nI miei pensieri non sono fatti.",
+      "Sto facendo del mio meglio con quello che ho a disposizione in questo momento.",
+      "Va bene non avere tutte le risposte.\nL'incertezza fa parte della vita.",
+      "Il mio corpo non è mio nemico.\nSta lavorando sodo per prendersi cura di me.",
+      "Merito la stessa gentilezza che darei a qualcuno che amo.",
+      "Questa preoccupazione passerà. Passa sempre.\nFinora ho superato ogni momento difficile.",
+      "Sono molto più della mia ansia per la salute.\nC'è molto di più in me di questo."
+    ]
+  },
+  "notfound": {
+    "title": "404",
+    "subtitle": "Ops! Pagina non trovata",
+    "return": "Torna alla home"
+  },
+  "common": {
+    "language": "Lingua"
+  },
+  "more": "Altro",
+  "previous_slide": "Diapositiva precedente",
+  "next_slide": "Slide successiva",
+  "close": "Chiudi",
+  "previous": "Precedente",
+  "next": "Prossimo",
+  "more_pages": "Altre pagine",
+  "toggle_sidebar": "Toggle Sidebar"
+}

@@ -1,0 +1,81 @@
+{
+  "404": "404",
+  "activity_name": "Gedanken neu formulieren",
+  "intro": {
+    "title": "Betrachten wir den Gedanken einmal aus einem anderen Blickwinkel.",
+    "p1": "Unser Geist produziert automatische Gedanken – insbesondere dann, wenn die Angst groß ist.",
+    "p2": "Manche wirken dringlich. Manche wirken überzeugend.",
+    "p3": "Aber Gedanken sind Interpretationen, keine Tatsachen.",
+    "p4": "Heute üben wir das sanfte Umformen eines solchen Objekts.",
+    "button": "Ich bin bereit, es zu versuchen."
+  },
+  "identify": {
+    "title": "Was war der Gedanke?",
+    "p1": "Schreiben Sie den Gedanken genau so auf, wie er Ihnen in den Sinn gekommen ist.",
+    "p2": "Keine Bearbeitung. Keine Korrektur.",
+    "placeholder": "z. B.: „Wenn ich einen Fehler mache, bricht alles zusammen.“",
+    "hint": "Beachten Sie den Tonfall des Gedankens.",
+    "button": "Ich sehe es ganz klar."
+  },
+  "examine": {
+    "title": "Lasst uns das Ganze etwas langsamer angehen.",
+    "question": "Was lässt diesen Gedanken wahr erscheinen? Ist es Folgendes:",
+    "hint": "Angst verstärkt oft die Annahme, dass Möglichkeiten Gewissheiten seien.",
+    "button": "Okay…"
+  },
+  "reframe": {
+    "title": "Welche Version ist ausgewogener?",
+    "p1": "Hier geht es nicht darum, so zu tun, als wäre alles in Ordnung.",
+    "p2": "Es geht darum, eine neue Perspektive einzubringen.",
+    "list_title": "Versuchen Sie, einen Gedanken zu formulieren, der Folgendes beinhaltet:",
+    "list_item1": "Realistischer",
+    "list_item2": "Weniger extrem",
+    "list_item3": "Auf Beweisen beruhend",
+    "placeholder": "Schreiben Sie eine ausgewogenere Version…",
+    "original_label": "Original:",
+    "balanced_label": "Ausgewogen:",
+    "example_original": "Wenn ich es denke, muss es wahr sein.",
+    "example_balanced": "Gedanken entstehen automatisch. Sie bestimmen nicht mein Handeln.",
+    "button": "Das fühlt sich bodenständiger an."
+  },
+  "integration": {
+    "title": "Beachten Sie die Veränderung.",
+    "p1": "Vergleiche den ursprünglichen Gedanken und den neu formulierten.",
+    "p2": "Ist der neue Gedanke:",
+    "list_item1": "Dringlichkeit verringern?",
+    "list_item2": "Platz schaffen?",
+    "list_item3": "Fühlen Sie sich etwas flexibler?",
+    "hint": "Schon kleine Veränderungen stärken die Widerstandsfähigkeit.",
+    "button": "Ich kann das üben."
+  },
+  "completion": {
+    "title": "Perspektive schafft Stärke.",
+    "subtitle": "Du hast geübt, anders zu reagieren.",
+    "p1": "Das ist Fortschritt.",
+    "try_again": "Versuchen Sie es erneut",
+    "show_saved": "Meine gespeicherten Einträge anzeigen"
+  },
+  "distortions": {
+    "prediction": "Eine Vorhersage",
+    "worst_case": "Ein Worst-Case-Szenario",
+    "assumption": "Eine Annahme",
+    "feeling": "Ein Gefühl, das als Tatsache getarnt ist"
+  },
+  "saved_entries": {
+    "title": "Meine gespeicherten Einträge",
+    "loading": "Ihre Protokolle werden geladen...",
+    "no_entries": "Noch keine Einträge gespeichert.",
+    "the_thought": "Der Gedanke",
+    "reframed": "Neu formuliert"
+  },
+  "oops_page_not_found": "Ups! Seite nicht gefunden",
+  "return_to_home": "Rückkehr in die Heimat",
+  "more": "Mehr",
+  "previous_slide": "Vorherige Folie",
+  "next_slide": "Nächste Folie",
+  "close": "Schließen",
+  "previous": "Früher",
+  "next": "Als Nächstes",
+  "more_pages": "Mehr Seiten",
+  "toggle_sidebar": "Seitenleiste umschalten"
+}

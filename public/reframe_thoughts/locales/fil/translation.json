@@ -1,0 +1,70 @@
+{
+  "activity_name": "Muling Pag-frame ng mga Kaisipan",
+  "intro": {
+    "title": "Tingnan natin ang kaisipan sa ibang paraan.",
+    "p1": "Awtomatikong nabubuo ng ating isipan ang mga kaisipan — lalo na kapag mataas ang pagkabalisa.",
+    "p2": "Ang ilan ay parang nagmamadali. Ang ilan ay parang nakakakumbinsi.",
+    "p3": "Ngunit ang mga kaisipan ay mga interpretasyon, hindi mga katotohanan.",
+    "p4": "Ngayon, magsasanay tayo ng dahan-dahang paghuhubog muli ng isa.",
+    "button": "Handa na akong subukan."
+  },
+  "identify": {
+    "title": "Ano ang naisip?",
+    "p1": "Isulat ang kaisipan nang eksakto kung paano ito lumitaw sa iyong isipan.",
+    "p2": "Walang editing. Walang pag-aayos.",
+    "placeholder": "hal., &quot;Kung magkamali ako, magugunaw ang lahat.&quot;",
+    "hint": "Pansinin ang tono ng iniisip.",
+    "button": "Nakikita ko ito nang malinaw."
+  },
+  "examine": {
+    "title": "Hinaan natin.",
+    "question": "Ano ang nagpaparamdam na totoo ang kaisipang ito? Ito ba ay:",
+    "hint": "Kadalasang pinalalawak ng pagkabalisa ang mga posibilidad tungo sa mga katiyakan.",
+    "button": "Sige…"
+  },
+  "reframe": {
+    "title": "Ano ang mas balanseng bersyon?",
+    "p1": "Hindi ito tungkol sa pagpapanggap na maayos ang lahat.",
+    "p2": "Tungkol ito sa pagdaragdag ng pananaw.",
+    "list_title": "Subukang magsulat ng isang kaisipan na ganito:",
+    "list_item1": "Mas makatotohanan",
+    "list_item2": "Hindi gaanong sukdulan",
+    "list_item3": "Nakabatay sa ebidensya",
+    "placeholder": "Sumulat ng mas balanseng bersyon...",
+    "original_label": "Orihinal:",
+    "balanced_label": "Balanse:",
+    "example_original": "Kung iniisip ko, dapat totoo &#39;yon.",
+    "example_balanced": "Awtomatikong nangyayari ang mga iniisip. Hindi nito tinutukoy ang aking mga kilos.",
+    "button": "Parang mas matatag ang dating niyan."
+  },
+  "integration": {
+    "title": "Pansinin ang pagbabago.",
+    "p1": "Paghambingin ang orihinal na kaisipan at ang binagong balangkas.",
+    "p2": "Ang bagong kaisipan ba ay:",
+    "list_item1": "Bawasan ang pagkaapurahan?",
+    "list_item2": "Lumikha ng espasyo?",
+    "list_item3": "Medyo mas flexible ba ang pakiramdam mo?",
+    "hint": "Kahit ang maliliit na pagbabago ay nagpapalakas ng katatagan.",
+    "button": "Kaya ko itong pagpraktisan."
+  },
+  "completion": {
+    "title": "Ang pananaw ay nagpapatibay ng lakas.",
+    "subtitle": "Nagsanay kang tumugon nang iba.",
+    "p1": "Iyan ang progreso.",
+    "try_again": "Subukan muli",
+    "show_saved": "Ipakita ang aking mga naka-save na entry"
+  },
+  "distortions": {
+    "prediction": "Isang hula",
+    "worst_case": "Isang pinakamasamang sitwasyon",
+    "assumption": "Isang palagay",
+    "feeling": "Isang damdaming itinago bilang isang katotohanan"
+  },
+  "saved_entries": {
+    "title": "Aking Mga Naka-save na Entry",
+    "loading": "Nilo-load ang iyong mga log...",
+    "no_entries": "Wala pang mga entry na na-save.",
+    "the_thought": "Ang Kaisipan",
+    "reframed": "Muling binalangkas"
+  }
+}

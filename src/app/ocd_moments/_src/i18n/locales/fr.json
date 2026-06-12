@@ -1,0 +1,56 @@
+{
+  "auth": {
+    "loading": "Chargement de votre tracker..."
+  },
+  "index": {
+    "title": "Journaux de TOC",
+    "subtitle": "Enregistrement et suivi",
+    "journal": "Journal",
+    "history": "Histoire",
+    "analytics": "Analytique"
+  },
+  "log": {
+    "context": "Contexte",
+    "home": "Maison",
+    "work": "Travail",
+    "social": "Sociale",
+    "other": "Autre",
+    "custom_placeholder": "Où exactement ? (par exemple, jardin, salle de sport)",
+    "observation": "Observation",
+    "urge_placeholder": "Saisissez la pensée ou l'envie telle qu'elle apparaît...",
+    "previous_notes": "Notes précédentes dans {{location}}",
+    "decision": "Décision",
+    "acted_label": "céder à l'envie",
+    "waited_label": "En attendant",
+    "resisted_label": "Remarqué sans agir",
+    "complete_session": "Session complète",
+    "success_title": "Moment enregistré",
+    "success_desc": "Votre saisie a été enregistrée en toute sécurité.",
+    "error_title": "Échec de la sauvegarde",
+    "error_desc": "Un problème est survenu lors de l'enregistrement de votre entrée dans la base de données."
+  },
+  "history": {
+    "title": "Chronologie",
+    "subtitle": "Réflexions et croissance",
+    "journal_date": "Date du journal",
+    "no_entries": "Aucune inscription pour le moment",
+    "start_today": "Commencez votre premier journal de bord dès aujourd'hui"
+  },
+  "insights": {
+    "title": "Analyse des réponses",
+    "subtitle": "Vos analyses de croissance",
+    "back": "Retour au journal",
+    "this_week": "Cette semaine",
+    "last_week": "La semaine dernière",
+    "two_weeks_ago": "Il y a 2 semaines",
+    "waiting_data": "En attente de données",
+    "log_entries": "Enregistrez vos données pendant cette période pour suivre votre progression ici.",
+    "info": "Pour afficher un résumé, il faut au moins une entrée, et pour l'analyse des tendances, quatre entrées sont nécessaires.",
+    "activity": "Activité",
+    "entry_flows": "Flux entrants",
+    "pattern_discovery": "Découverte de modèles",
+    "pattern_resisted": "Vous avez plus souvent remarqué vos pulsions sans y céder que vous n'y avez cédé. C'est la preuve d'une grande capacité d'observation.",
+    "pattern_acted": "Vous avez cédé plus souvent à vos impulsions durant cette période. Il s'agit simplement d'une phase du processus ; la prise de conscience est le premier pas vers le changement.",
+    "pattern_balanced": "Vos réponses étaient équilibrées cette période. Vous trouvez votre juste milieu."
+  }
+}

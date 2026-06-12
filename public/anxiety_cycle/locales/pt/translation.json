@@ -1,0 +1,65 @@
+{
+  "404": "404",
+  "welcome": {
+    "title": "Entendendo a Ansiedade Relacionada à Saúde",
+    "description": "Já se perguntou por que as preocupações com a saúde nunca desaparecem, não importa quantas vezes você verifique? Eis exatamente o motivo.",
+    "read_time": "Leitura de 2 minutos",
+    "button": "Mostrar-me →"
+  },
+  "cycle": {
+    "title": "Isto é o que está acontecendo no seu cérebro.",
+    "description_1": "A ansiedade relacionada à saúde não surge e desaparece por si só. Ela se repete em um ciclo — e cada vez que você a verifica, você fortalece esse ciclo.",
+    "description_2": "Cada repetição ensina ao seu cérebro que a preocupação valia a pena ser verificada. Então ela continua voltando — cada vez um pouco mais intensa.",
+    "highlight": "💡 Verificar traz alívio — mas nunca liberdade.",
+    "button": "Eu reconheço isso →",
+    "restart": "↩ E tudo recomeça..."
+  },
+  "nodes": {
+    "trigger": {
+      "label": "Acionar",
+      "desc": "Uma dor de cabeça. Um artigo. Um pensamento."
+    },
+    "anxiety": {
+      "label": "Picos de ansiedade",
+      "desc": "E se houver algo errado comigo?"
+    },
+    "check": {
+      "label": "Você verifica",
+      "desc": "Google. Médico. Pergunte a alguém."
+    },
+    "relief": {
+      "label": "Breve alívio",
+      "desc": "Ok... provavelmente estou bem."
+    },
+    "doubt": {
+      "label": "A dúvida retorna",
+      "desc": "Mas e se eles estiverem errados?"
+    }
+  },
+  "break_cycle": {
+    "title": "Eis como revidar",
+    "description": "Cada etapa do ciclo tem uma maneira de interrompê-la. Toque em cada uma para ver o que você pode fazer:",
+    "tips": [
+      "Observe sem reagir. Diga para si mesmo: \"Isso é um gatilho, não um fato\". Então, respire fundo uma vez antes de fazer qualquer coisa.",
+      "Dê um nome ao sentimento em voz alta — \"Estou me sentindo ansioso(a) agora\". Nomeá-lo reduz seu poder. Você não precisa resolvê-lo — apenas reconhecê-lo.",
+      "Esta é a etapa mais importante para interromper o hábito. Atrase a verificação em apenas 5 minutos. Depois, em 10. Cada atraso enfraquece o hábito.",
+      "Lembre-se: esse alívio não vai durar. O verdadeiro alívio vem de tolerar a incerteza, não de fugir dela.",
+      "Não se envolva com a dúvida. Diga: \"Lá está a dúvida de novo\". Então deixe-a passar como uma nuvem, sem segui-la."
+    ],
+    "all_tapped": "Agora você sabe exatamente onde o ciclo se instala — e como interrompê-lo. Esse conhecimento é poderoso. 💙",
+    "button": "Concluído ✓"
+  },
+  "language_switcher": {
+    "label": "Linguagem"
+  },
+  "oops_page_not_found": "Ops! Página não encontrada",
+  "return_to_home": "Retorno ao Lar",
+  "more": "Mais",
+  "previous_slide": "Slide anterior",
+  "next_slide": "Próximo slide",
+  "close": "Fechar",
+  "previous": "Anterior",
+  "next": "Próximo",
+  "more_pages": "Mais páginas",
+  "toggle_sidebar": "Alternar a barra lateral"
+}

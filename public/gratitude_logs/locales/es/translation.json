@@ -1,0 +1,22 @@
+{
+  "404": "404",
+  "title": "Registro de gratitud",
+  "subtitle": "Nombra 3 cosas por las que estés agradecido",
+  "input_placeholder": "Estoy agradecido por...",
+  "submit_button": "Registro de gratitud",
+  "logged_title": "¡Agradecimiento registrado!",
+  "logged_subtitle": "Pequeños momentos, gran alegría.",
+  "log_another": "Registrar otro",
+  "history_title": "Mis diarios de gratitud",
+  "gratitude_history": "Historia de la gratitud",
+  "oops_page_not_found": "¡Ups! Página no encontrada",
+  "return_to_home": "Regreso a casa",
+  "more": "Más",
+  "previous_slide": "Diapositiva anterior",
+  "next_slide": "Siguiente diapositiva",
+  "close": "Cierre",
+  "previous": "Anterior",
+  "next": "Siguiente",
+  "more_pages": "Más páginas",
+  "toggle_sidebar": "Alternar barra lateral"
+}

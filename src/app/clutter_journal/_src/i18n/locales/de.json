@@ -1,0 +1,54 @@
+{
+  "welcome": {
+    "title": "Tagebuch für Unordnung und Emotionen",
+    "subtitle": "„Jeder Gegenstand, den du behältst, bewahrt etwas für dich.“",
+    "description": "Hier geht es nicht darum, Platz zu schaffen. Es geht darum zu verstehen, was deine Dinge beinhalten. 🌸",
+    "instruction": "Denk an einen Gegenstand, den du schon länger festhältst. Was dir als erstes in den Sinn kommt, ist der richtige. ✨",
+    "placeholder": "z.B. der alte Schal meiner Mutter, eine kaputte Uhr",
+    "myJournal": "📖 Mein Tagebuch →",
+    "nextBtn": "Dies ist mein Objekt →"
+  },
+  "exploration": {
+    "title": "Lass uns das gemeinsam erkunden. 🔍",
+    "subtitle": "Beantworte die Fragen, die sich für dich richtig anfühlen. Du kannst auch einzelne Fragen überspringen.",
+    "prompt1": "Wann ist dieser Gegenstand in Ihr Leben getreten? Was geschah damals?",
+    "prompt2": "Was glauben Sie, würde passieren, wenn dieser Gegenstand morgen verschwunden wäre?",
+    "prompt3": "Erinnert Sie dieser Gegenstand an eine Person, eine Zeit oder eine Version von sich selbst?",
+    "prompt4": "Wovor schützt dich der Besitz dieses Gegenstands?",
+    "placeholder": "Schreib einfach drauflos – das ist nur für dich. 💭",
+    "back": "← zurück",
+    "next": "weiter →",
+    "nextBtn": "Ich habe genug nachgedacht →"
+  },
+  "insight": {
+    "title": "Was ist dir aufgefallen? 💡",
+    "description1": "Manchmal bergen Gegenstände mehr als nur Dinge. Sie bergen Gefühle, für die wir noch keinen anderen Platz gefunden haben.",
+    "description2": "Was bedeutet Ihnen dieser Gegenstand wirklich?",
+    "option1": "Die Angst vor dem Vergessen",
+    "option2": "Die Angst, nicht genug zu haben",
+    "option3": "Eine Erinnerung, die ich noch nicht verlieren möchte.",
+    "option4": "Ein Teil meiner Identität",
+    "option5": "Schuld oder Verantwortung",
+    "option6": "Liebe für jemanden",
+    "option7": "Etwas, das ich noch nicht benennen kann",
+    "footer": "Es nur zu benennen bedeutet nicht, dass man auch entsprechend handeln muss. Die Erkenntnis selbst ist die eigentliche Arbeit. 🌸",
+    "nextBtn": "Ich sehe es jetzt →"
+  },
+  "closing": {
+    "title": "Du hast gerade etwas Mutiges getan.",
+    "subtitle": "Die meisten Menschen fragen sich nie, warum sie daran festhalten. Du hast es getan. Genau diese Art von Ehrlichkeit ist der Ausgangspunkt für echten Wandel.",
+    "todaysObject": "Heutiges Objekt",
+    "whatsHolding": "Was es enthält",
+    "footer": "Komm wieder, wann immer du bereit bist, eine andere Welt zu entdecken. 🌸",
+    "entriesCount_one": "🌿 {{count}} entry in your journal",
+    "entriesCount_other": "🌿 {{count}} entries in your journal",
+    "viewJournal": "📖 Meine bisherigen Einträge ansehen →",
+    "closeBtn": "Für heute geschlossen"
+  },
+  "journal": {
+    "title": "Mein Tagebuch 📖",
+    "subtitle": "Jeder Einlauf ist ein Akt des Mutes.",
+    "empty": "Dein Tagebuch wartet. Beginne noch heute mit deiner ersten Reflexion.",
+    "startBtn": "Heute eintragen →"
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "auth": {
+    "loading": "Takip cihazınız yükleniyor..."
+  },
+  "index": {
+    "title": "OKB Günlükleri",
+    "subtitle": "Kaydet ve Takip Et",
+    "journal": "Dergi",
+    "history": "Tarih",
+    "analytics": "Analitik"
+  },
+  "log": {
+    "context": "Bağlam",
+    "home": "Ev",
+    "work": "İş",
+    "social": "Sosyal",
+    "other": "Diğer",
+    "custom_placeholder": "Tam olarak nerede? (Örneğin: Bahçe, Spor Salonu)",
+    "observation": "Gözlem",
+    "urge_placeholder": "Aklınıza gelen düşünceyi veya dürtüyü anında yakalayın...",
+    "previous_notes": "Önceki notlar {{location}}'da",
+    "decision": "Karar",
+    "acted_label": "İçgüdüye göre hareket etmek",
+    "waited_label": "Beklemek",
+    "resisted_label": "Harekete geçmeden fark edildi.",
+    "complete_session": "Oturumu Tamamla",
+    "success_title": "Kaydedilen An",
+    "success_desc": "Girişiniz güvenli bir şekilde kaydedildi.",
+    "error_title": "Kaydetme başarısız oldu",
+    "error_desc": "Veritabanına kaydınızı kaydederken bir sorun oluştu."
+  },
+  "history": {
+    "title": "Zaman çizelgesi",
+    "subtitle": "Yansımalar ve Gelişim",
+    "journal_date": "Dergi Tarihi",
+    "no_entries": "Henüz hiçbir giriş yok.",
+    "start_today": "Bugün ilk kaydınızı oluşturmaya başlayın."
+  },
+  "insights": {
+    "title": "Yanıt Analizleri",
+    "subtitle": "Büyüme Analitiğiniz",
+    "back": "Dergiye geri dön",
+    "this_week": "Bu hafta",
+    "last_week": "Geçen hafta",
+    "two_weeks_ago": "2 Hafta Önce",
+    "waiting_data": "Veriler bekleniyor",
+    "log_entries": "Bu dönem boyunca kayıtlarınızı tutarak ilerleme durumunuzu buradan inceleyebilirsiniz.",
+    "info": "Özet verilerinin görüntülenmesi için en az 1, desen analizi için ise 4 giriş gereklidir.",
+    "activity": "Aktivite",
+    "entry_flows": "Giriş Akışları",
+    "pattern_discovery": "Desen Keşfi",
+    "pattern_resisted": "Dürtüleri fark ettiniz ancak harekete geçme olasılığınız, onlara göre hareket etme olasılığınızdan daha yüksekti. Bu, gözlem gücünün bir kanıtıdır.",
+    "pattern_acted": "Bu dönemde dürtülerinize daha sık göre hareket ettiniz. Bu sadece yolculuğun bir aşamasıdır; değişimin ilk adımı farkındalığınızdır.",
+    "pattern_balanced": "Bu dönemdeki yanıtlarınız dengeliydi. Orta yolu buluyorsunuz."
+  }
+}

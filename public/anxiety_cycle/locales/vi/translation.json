@@ -1,0 +1,65 @@
+{
+  "404": "404",
+  "welcome": {
+    "title": "Hiểu về chứng lo âu về sức khỏe",
+    "description": "Bạn đã bao giờ tự hỏi tại sao những lo lắng về sức khỏe không bao giờ biến mất — cho dù bạn có kiểm tra bao nhiêu lần đi nữa? Đây chính là lý do.",
+    "read_time": "Đọc trong 2 phút",
+    "button": "Hiển thị cho tôi →"
+  },
+  "cycle": {
+    "title": "Đây là những gì đang xảy ra trong não bạn",
+    "description_1": "Nỗi lo lắng về sức khỏe không tự nhiên xuất hiện rồi biến mất. Nó diễn ra theo một vòng luẩn quẩn — và mỗi lần bạn kiểm tra, bạn lại làm cho vòng luẩn quẩn đó mạnh thêm.",
+    "description_2": "Mỗi vòng lặp đều dạy cho não bộ của bạn rằng nỗi lo lắng đó đáng để kiểm chứng. Vì vậy, nó cứ tiếp tục quay trở lại — mỗi lần lại mạnh mẽ hơn một chút.",
+    "highlight": "💡 Việc kiểm tra giúp giảm bớt lo lắng — nhưng không bao giờ mang lại tự do.",
+    "button": "Tôi nhận ra điều này →",
+    "restart": "↩ Và nó lại bắt đầu..."
+  },
+  "nodes": {
+    "trigger": {
+      "label": "Cò súng",
+      "desc": "Một cơn đau đầu. Một bài báo. Một suy nghĩ."
+    },
+    "anxiety": {
+      "label": "Lo lắng tăng cao",
+      "desc": "Nếu tôi có vấn đề gì thì sao?"
+    },
+    "check": {
+      "label": "Bạn kiểm tra",
+      "desc": "Google. Bác sĩ. Hỏi ai đó xem."
+    },
+    "relief": {
+      "label": "Giảm nhẹ tạm thời",
+      "desc": "Được rồi… Chắc là tôi không sao."
+    },
+    "doubt": {
+      "label": "Sự nghi ngờ quay trở lại",
+      "desc": "Nhưng nếu họ sai thì sao?"
+    }
+  },
+  "break_cycle": {
+    "title": "Đây là cách để chống trả",
+    "description": "Mỗi giai đoạn của chu kỳ đều có cách để gián đoạn nó. Chạm vào từng giai đoạn để xem bạn có thể làm gì:",
+    "tips": [
+      "Hãy nhận biết nó mà không phản ứng. Tự nhủ với bản thân: \"Đó là một tín hiệu kích thích, không phải là một sự thật.\" Sau đó hít một hơi thật chậm trước khi làm bất cứ điều gì.",
+      "Hãy nói to cảm xúc đó lên — \"Tôi đang cảm thấy lo lắng.\" Việc gọi tên cảm xúc sẽ làm giảm sức mạnh của nó. Bạn không cần phải giải quyết nó — chỉ cần thừa nhận nó là được.",
+      "Đây là giai đoạn quan trọng nhất cần can thiệp. Hãy trì hoãn việc kiểm tra chỉ 5 phút. Sau đó là 10 phút. Mỗi lần trì hoãn sẽ làm suy yếu thói quen.",
+      "Hãy tự nhắc nhở bản thân rằng, sự nhẹ nhõm này sẽ không kéo dài. Sự nhẹ nhõm thực sự đến từ việc chấp nhận sự không chắc chắn, chứ không phải trốn tránh nó.",
+      "Đừng để tâm đến sự nghi ngờ. Hãy nói — 'Lại là sự nghi ngờ đó.' Rồi để nó trôi qua như một đám mây mà không cần đuổi theo."
+    ],
+    "all_tapped": "Giờ bạn đã biết chính xác chu kỳ đó diễn ra ở đâu — và làm thế nào để phá vỡ nó. Kiến thức đó rất mạnh mẽ. 💙",
+    "button": "Hoàn thành ✓"
+  },
+  "language_switcher": {
+    "label": "Ngôn ngữ"
+  },
+  "oops_page_not_found": "Rất tiếc! Không tìm thấy trang",
+  "return_to_home": "Trở về nhà",
+  "more": "Xem thêm",
+  "previous_slide": "Trang trình bày trước",
+  "next_slide": "Trang trình bày tiếp theo",
+  "close": "Đóng",
+  "previous": "Trước",
+  "next": "Kế tiếp",
+  "more_pages": "Các trang khác",
+  "toggle_sidebar": "Chuyển đổi thanh bên"
+}

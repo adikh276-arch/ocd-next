@@ -1,0 +1,65 @@
+{
+  "404": "404",
+  "welcome": {
+    "title": "Understanding Health Anxiety",
+    "description": "Ever wondered why health worries never go away — no matter how much you check? Here's exactly why.",
+    "read_time": "2 minute read",
+    "button": "Show Me →"
+  },
+  "cycle": {
+    "title": "This is What's Happening in Your Brain",
+    "description_1": "Health anxiety doesn't just appear and leave. It runs in a loop — and every time you check, you make that loop stronger.",
+    "description_2": "Each loop teaches your brain that the worry was worth checking. So it keeps coming back — each time a little louder.",
+    "highlight": "💡 Checking gives relief — but never freedom.",
+    "button": "I Recognise This →",
+    "restart": "↩ And it starts again..."
+  },
+  "nodes": {
+    "trigger": {
+      "label": "Trigger",
+      "desc": "A headache. An article. A thought."
+    },
+    "anxiety": {
+      "label": "Anxiety Spikes",
+      "desc": "What if something is wrong with me?"
+    },
+    "check": {
+      "label": "You Check",
+      "desc": "Google. Doctor. Ask someone."
+    },
+    "relief": {
+      "label": "Brief Relief",
+      "desc": "Okay… I'm probably fine."
+    },
+    "doubt": {
+      "label": "Doubt Returns",
+      "desc": "But what if they're wrong?"
+    }
+  },
+  "break_cycle": {
+    "title": "Here's How to Fight Back",
+    "description": "Every stage of the cycle has a way to interrupt it. Tap each one to see what you can do:",
+    "tips": [
+      "Notice it without reacting. Say to yourself — 'That's a trigger, not a fact.' Then take one slow breath before doing anything.",
+      "Name the feeling out loud — 'I'm feeling anxious right now.' Naming it reduces its power. You don't need to fix it — just acknowledge it.",
+      "This is the most important stage to interrupt. Delay the check by just 5 minutes. Then 10. Each delay weakens the habit.",
+      "Remind yourself — this relief won't last. Real relief comes from tolerating uncertainty, not escaping it.",
+      "Don't engage with the doubt. Say — 'There's that doubt again.' Then let it pass like a cloud without following it."
+    ],
+    "all_tapped": "You now know exactly where the cycle lives — and how to interrupt it. That knowledge is powerful. 💙",
+    "button": "Complete ✓"
+  },
+  "language_switcher": {
+    "label": "Language"
+  },
+  "oops_page_not_found": "Oops! Page not found",
+  "return_to_home": "Return to Home",
+  "more": "More",
+  "previous_slide": "Previous slide",
+  "next_slide": "Next slide",
+  "close": "Close",
+  "previous": "Previous",
+  "next": "Next",
+  "more_pages": "More pages",
+  "toggle_sidebar": "Toggle Sidebar"
+}

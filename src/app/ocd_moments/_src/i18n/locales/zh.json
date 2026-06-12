@@ -1,0 +1,56 @@
+{
+  "auth": {
+    "loading": "正在加载您的追踪器……"
+  },
+  "index": {
+    "title": "强迫症日志",
+    "subtitle": "录制和跟踪",
+    "journal": "杂志",
+    "history": "历史",
+    "analytics": "分析"
+  },
+  "log": {
+    "context": "语境",
+    "home": "家",
+    "work": "工作",
+    "social": "社会的",
+    "other": "其他",
+    "custom_placeholder": "具体地点？（例如：花园、健身房）",
+    "observation": "观察",
+    "urge_placeholder": "捕捉当下出现的想法或冲动……",
+    "previous_notes": "之前的笔记在{{location}}",
+    "decision": "决定",
+    "acted_label": "顺从冲动",
+    "waited_label": "等待",
+    "resisted_label": "未采取行动即被察觉",
+    "complete_session": "完整会话",
+    "success_title": "记录时刻",
+    "success_desc": "您的输入已安全保存。",
+    "error_title": "保存失败",
+    "error_desc": "保存您的条目到数据库时出现问题。"
+  },
+  "history": {
+    "title": "时间线",
+    "subtitle": "反思与成长",
+    "journal_date": "日记账日期",
+    "no_entries": "暂无条目",
+    "start_today": "今天就开始记录你的第一篇日志吧！"
+  },
+  "insights": {
+    "title": "响应洞察",
+    "subtitle": "您的增长分析",
+    "back": "返回日记",
+    "this_week": "本星期",
+    "last_week": "上星期",
+    "two_weeks_ago": "两周前",
+    "waiting_data": "等待数据",
+    "log_entries": "在此期间记录日志，以便在此处查看您的进度模式。",
+    "info": "洞察报告至少需要 1 条记录才能显示摘要，至少需要 4 条记录才能进行模式分析。",
+    "activity": "活动",
+    "entry_flows": "入口流量",
+    "pattern_discovery": "模式发现",
+    "pattern_resisted": "你注意到自己有冲动却不付诸行动的次数，比付诸行动的次数要多得多。这证明了你拥有强大的观察力。",
+    "pattern_acted": "这段时间你更容易受冲动驱使。这只是人生旅程中的一个阶段——你的觉察是改变的第一步。",
+    "pattern_balanced": "这段时间你的回答比较均衡，你正在找到自己的平衡点。"
+  }
+}

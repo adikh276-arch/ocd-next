@@ -1,0 +1,59 @@
+{
+  "welcome": {
+    "badge": "SAF OKB",
+    "title": "Düşünce mi, gerçek mi?",
+    "description": "Yanlış için sola kaydırın / Doğru için sağa kaydırın!",
+    "details": "5 soru · doğru veya yanlış",
+    "button": "Haydi gidelim! 🚀"
+  },
+  "before": {
+    "title": "Başlamadan önce",
+    "p1": "Beynimiz her gün türlü türlü düşünce üretir; hatta korkutucu veya garip düşünceler bile. Bu, sizinle ilgili bir sorun olduğu anlamına gelmez.",
+    "p2": "Saf Obsesif Kompulsif Bozuklukta, sorun düşüncenin kendisi değil, ona ne kadar önem verdiğimizdir.",
+    "button": "Hazırım 💪"
+  },
+  "quiz": {
+    "questionCount": "Soru {{current}} / {{total}}",
+    "falseHint": "👈 Yanlış",
+    "trueHint": "Doğru 👉",
+    "correct": "✅ Doğru!",
+    "incorrect": "❌ Tam olarak değil!",
+    "continue": "Devam →"
+  },
+  "results": {
+    "amazing": "İnanılmaz!",
+    "niceTry": "Güzel deneme!",
+    "keepLearning": "Öğrenmeye devam edin!",
+    "scoreMsg": "{{total}}&#39;den {{score}}&#39;ı doğru bildiniz.",
+    "heartsMsg": "Kalan kalpler: ",
+    "remember": "Unutmayın: düşünceler sadece düşüncelerdir. Kim olduğunuzu tanımlamazlar. 💜",
+    "tryAgain": "Tekrar Dene 🔄"
+  },
+  "questions": [
+    {
+      "q": "Şiddet içeren düşüncelere sahip olmak, tehlikeli bir insan olduğunuz anlamına gelir.",
+      "correctExplain": "Düşünceler gerçekler değildir. Herkesin aklına istenmeyen düşünceler gelir; ancak bu düşünceler sizi tanımlamaz.",
+      "wrongExplain": "Aslında, korkutucu bir düşünceye sahip olmak sizi tehlikeli yapmaz. Rahatsız edici düşünceler normaldir."
+    },
+    {
+      "q": "İstemsiz düşünceler neredeyse herkesin hayatının bir döneminde yaşadığı bir durumdur.",
+      "correctExplain": "Araştırmalar, insanların %90&#39;ından fazlasının rahatsız edici düşünceler yaşadığını gösteriyor. Yalnız değilsiniz!",
+      "wrongExplain": "İstemsiz düşünceler aslında çok yaygındır; çalışmalar neredeyse herkesin bunlara sahip olduğunu gösteriyor."
+    },
+    {
+      "q": "Bir düşünceyi ne kadar bastırmaya çalışırsanız, o kadar geri gelir.",
+      "correctExplain": "Buna &#39;beyaz ayı etkisi&#39; denir. Bastırma, düşünceleri daha da kalıcı hale getirir.",
+      "wrongExplain": "Bu gerçekten doğru! Düşünceleri uzaklaştırmaya çalışmak, onların daha güçlü bir şekilde geri dönmesine neden olur."
+    },
+    {
+      "q": "Bir düşünce gerçek gibi geliyorsa, doğru olmalıdır.",
+      "correctExplain": "Duygular gerçekler değildir. Obsesif-kompulsif bozukluk (OKB), düşüncelerin acil ve gerçekmiş gibi hissettirmesine neden olur; ancak bunlar sadece düşüncelerdir.",
+      "wrongExplain": "Bir düşüncenin gerçek gibi gelmesi, onun doğru olduğu anlamına gelmez. Obsesif-kompulsif bozukluk bu açıdan oldukça karmaşık."
+    },
+    {
+      "q": "Bir düşünceyi kabul etmek, o düşünceyle hemfikir olmakla aynı şeydir.",
+      "correctExplain": "Kabul etmek, bir düşüncenin var olmasına izin vermek, onunla savaşmamak, onu onaylamamak anlamına gelir.",
+      "wrongExplain": "Kabul etmek, anlaşmaya varmak anlamına gelmez. Bir düşünceyi fark edebilirsiniz, ancak ona inanmak veya ona göre hareket etmek zorunda değilsiniz."
+    }
+  ]
+}

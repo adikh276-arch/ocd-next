@@ -1,0 +1,200 @@
+{
+  "404": "404",
+  "title": "¿Cómo te sientes?",
+  "subtitle": "Tómate un momento para conectar contigo mismo.",
+  "history": "Historia del estado de ánimo",
+  "log_another": "Registrar otro",
+  "log_mood": "Estado de ánimo del registro",
+  "logging": "Explotación florestal...",
+  "day_placeholder": "¿Qué día es hoy?",
+  "note_placeholder": "Añade una nota (opcional) ✏️",
+  "save_success": "¡Estado de ánimo registrado!",
+  "save_error": "No se logró salvar el estado de ánimo.",
+  "moods": {
+    "great": "Excelente",
+    "good": "Bien",
+    "okay": "Bueno",
+    "low": "Bajo",
+    "struggling": "Luchando"
+  },
+  "days": {
+    "Monday": "Lunes",
+    "Tuesday": "Martes",
+    "Wednesday": "Miércoles",
+    "Thursday": "Jueves",
+    "Friday": "Viernes",
+    "Saturday": "Sábado",
+    "Sunday": "Domingo"
+  },
+  "messages": {
+    "Monday": {
+      "1": {
+        "heading": "Sé especialmente amable hoy 🤍",
+        "body": "Es duro empezar el lunes. Recuerda que no tienes que cargar con todo. Sé amable contigo mismo y ten presente que con solo presentarte hoy es suficiente."
+      },
+      "2": {
+        "heading": "Cómo afrontar el lunes con tranquilidad ☁️",
+        "body": "Sentirse un poco decaído un lunes es totalmente comprensible. El comienzo de la semana puede ser difícil. Hoy, tómate las cosas con calma, paso a paso."
+      },
+      "3": {
+        "heading": "Encontrando tu ritmo de lunes 🌊",
+        "body": "Un lunes &quot;aceptable&quot; es todo un logro. Estás presente y comenzando la semana con tranquilidad. Date un respiro mientras encuentras tu ritmo hoy."
+      },
+      "4": {
+        "heading": "¡Lunes firme y fuerte! ☀️",
+        "body": "Empiezas la semana con buen pie. Es una base sólida. Mantén este impulso positivo mientras realizas tus tareas del lunes."
+      },
+      "5": {
+        "heading": "¡Energía imparable de lunes! 🚀",
+        "body": "Empezar la semana con una actitud positiva es un superpoder. Has creado un ambiente increíble que se extenderá durante toda la semana. ¡Aprovecha este impulso para alcanzar tus metas más ambiciosas hoy!"
+      }
+    },
+    "Tuesday": {
+      "1": {
+        "heading": "Te envío fuerza 🫂",
+        "body": "Sentirse mal un martes puede resultar solitario, pero no estás solo. Si lo necesitas, no dudes en contactar con alguien y prioriza tu bienestar por encima de todo hoy."
+      },
+      "2": {
+        "heading": "Ten paciencia contigo mismo hoy 🌿",
+        "body": "Si el martes te sientes un poco desanimado, recuerda que el progreso no siempre es lineal. Escucha lo que tu cuerpo y tu mente necesitan ahora mismo."
+      },
+      "3": {
+        "heading": "Tranquilidad del martes 🍃",
+        "body": "Un martes &quot;aceptable&quot; está perfectamente bien. Estás manteniendo un ritmo constante. Tómate un momento para apreciar los pequeños logros de hoy."
+      },
+      "4": {
+        "heading": "El martes pinta bien 🌤️",
+        "body": "Un buen estado de ánimo hoy es un regalo. Ya superaste el bajón del lunes y mantienes una actitud positiva. ¡Disfruta de esta energía constante!"
+      },
+      "5": {
+        "heading": "¡Martes de triunfo! ✨",
+        "body": "¡Hoy estás radiante! Mantener esa energía positiva el martes significa que estás ganando impulso. ¡Sigue brillando!"
+      }
+    },
+    "Wednesday": {
+      "1": {
+        "heading": "Hoy no estás solo 💜",
+        "body": "Es difícil lidiar con el estrés a mitad de semana. Permítete bajar el ritmo. El fin de semana llegará antes de que te des cuenta."
+      },
+      "2": {
+        "heading": "Suavidad a mitad de semana ☁️",
+        "body": "Si el miércoles te sientes decaído, intenta encontrar algo pequeño que te ilusione esta noche. Has trabajado mucho esta semana; es normal sentirse cansado."
+      },
+      "3": {
+        "heading": "Equilibrio a mitad de semana ⚖️",
+        "body": "Un miércoles tranquilo te da estabilidad. Estás en equilibrio y avanzando. Respira hondo: ya has recorrido la mitad del camino."
+      },
+      "4": {
+        "heading": "Felicidad de mitad de semana 🐫",
+        "body": "¡Llegaste al miércoles con muy buen ánimo! ¡El fin de semana ya está a la vista! Mantén esa actitud positiva al cruzar la mitad de la semana."
+      },
+      "5": {
+        "heading": "¡Clase magistral a mitad de semana! 🏅",
+        "body": "¡A mitad de semana y te sientes genial! ¡Lo estás haciendo de maravilla! Aprovecha este momento de máxima energía para hacer algo que te haga realmente feliz."
+      }
+    },
+    "Thursday": {
+      "1": {
+        "heading": "Un suave abrazo de jueves 🧸",
+        "body": "Si te cuesta concentrarte un jueves, es señal de que la semana ha sido larga. Sé tu mejor amigo hoy. Ya casi llegas al fin de semana."
+      },
+      "2": {
+        "heading": "Reflexión del jueves 🍂",
+        "body": "Si hoy te sientes desanimado, recuerda todo lo que has logrado esta semana. Has llegado muy lejos; es normal sentirse cansado."
+      },
+      "3": {
+        "heading": "¡Que empiece el jueves con energía! 🕰️",
+        "body": "Un jueves &quot;Bien hecho&quot; es señal de que el trabajo está bien hecho. Has trabajado duro toda la semana. Solo queda un poco más; mantén ese ritmo constante."
+      },
+      "4": {
+        "heading": "¡Ya casi llegamos, jueves! 🌅",
+        "body": "Un buen jueves te prepara para un fin de semana fantástico. ¡Ya casi llegas a la meta! Mantén esa sonrisa hasta el final de hoy."
+      },
+      "5": {
+        "heading": "¡Jueves emocionante! 🎡",
+        "body": "¿Te sientes genial ahora que se acerca el fin de semana? ¡Eso es lo mejor! Termina la semana con fuerza gracias a esta increíble inyección de energía."
+      }
+    },
+    "Friday": {
+      "1": {
+        "heading": "Energía sanadora del viernes ✨",
+        "body": "Es difícil sobrellevar el final de la semana. Siéntete orgulloso de haber llegado al viernes. Este fin de semana es para tu recuperación."
+      },
+      "2": {
+        "heading": "Lanzamiento del viernes 🌊",
+        "body": "Si el viernes te sientes decaído, permítete descansar esta noche. Has cargado con mucho esta semana. Es hora de soltar las cosas pesadas."
+      },
+      "3": {
+        "heading": "Viernes de relax 😌",
+        "body": "Un viernes tranquilo significa que lo has superado. La presión disminuye. Aprovecha esta noche para relajarte y olvidarte del estrés de la semana."
+      },
+      "4": {
+        "heading": "¡Viernes con buen ánimo! 🎊",
+        "body": "Un Viernes Santo es el puente perfecto hacia el fin de semana. Has superado la semana con éxito. Disfruta de la transición hacia tu tiempo libre."
+      },
+      "5": {
+        "heading": "¡Viernes fantástico! 🥳",
+        "body": "¡Terminar la semana con un ánimo estupendo! ¡Qué victoria! Te lo mereces. ¡Que empiecen las celebraciones del fin de semana con esta chispa!"
+      }
+    },
+    "Saturday": {
+      "1": {
+        "heading": "Sábado reconfortante 🕯️",
+        "body": "Los fines de semana pueden ser especialmente difíciles. Hoy, sé amable contigo mismo. No hay una forma correcta de sentir, ni siquiera un sábado."
+      },
+      "2": {
+        "heading": "Suavidad de sábado 💤",
+        "body": "Si el sábado te sientes con poca energía, no te sientas presionado a &quot;aprovechar el fin de semana&quot;. Si necesitas quedarte en casa y descansar, es una decisión perfectamente válida."
+      },
+      "3": {
+        "heading": "Sábado sencillo 🍵",
+        "body": "Un sábado tranquilo es un momento de calma. Sin prisas, sin presiones. Simplemente existir es suficiente hoy. Disfruta de la tranquilidad."
+      },
+      "4": {
+        "heading": "Sábado tranquilo 🏖️",
+        "body": "Sentirse bien en el día libre es una bendición. Ya sea que estés activo o descansando, disfruta cada momento de este fin de semana tan positivo."
+      },
+      "5": {
+        "heading": "¡Esplendor de sábado! 🌈",
+        "body": "Un sábado maravilloso es pura magia. Este es tu momento para brillar y disfrutar de la libertad del fin de semana. ¡Crea recuerdos inolvidables hoy!"
+      }
+    },
+    "Sunday": {
+      "1": {
+        "heading": "Autocuidado dominical 💖",
+        "body": "Es más común de lo que piensas tener dificultades un domingo. Consiéntete con mucho cariño hoy. Te lo mereces."
+      },
+      "2": {
+        "heading": "¡Adiós, angustia dominical! 🌙",
+        "body": "Si el domingo te sientes decaído, intenta concentrarte en el presente en lugar de pensar en el trabajo de mañana. Estás a salvo y cuentas con apoyo."
+      },
+      "3": {
+        "heading": "Relajación dominical 🍂",
+        "body": "Un domingo tranquilo es el momento perfecto para reflexionar y prepararse. Estás firme y listo para lo que venga. Mantén los pies en la tierra."
+      },
+      "4": {
+        "heading": "Ambiente tranquilo de domingo 🕊️",
+        "body": "Sentirse bien hoy crea un ambiente tranquilo para la semana que viene. Disfruta de los últimos momentos del fin de semana con gratitud."
+      },
+      "5": {
+        "heading": "¡Domingo soleado! 🌻",
+        "body": "Un domingo maravilloso es la mejor manera de recargar energías. Empiezas la semana que viene con el corazón lleno de vitalidad. ¡Disfruta de esta hermosa energía hoy!"
+      }
+    }
+  },
+  "access_required": "Acceso necesario",
+  "please_access_this_journal_thr": "Por favor, accede a esta revista a través del enlace oficial que te proporciona.",
+  "testing_locally": "¿Pruebas localmente?",
+  "append_a_token_to_your_url": "Añade un token a tu URL:",
+  "token_your_test_token": "?token=your_test_token",
+  "oops_page_not_found": "¡Ups! Página no encontrada",
+  "return_to_home": "Regreso a casa",
+  "more": "Más",
+  "previous_slide": "Diapositiva anterior",
+  "next_slide": "Siguiente diapositiva",
+  "close": "Cierre",
+  "previous": "Anterior",
+  "next": "Siguiente",
+  "more_pages": "Más páginas",
+  "toggle_sidebar": "Alternar barra lateral"
+}

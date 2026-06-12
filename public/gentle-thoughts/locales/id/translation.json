@@ -1,0 +1,32 @@
+{
+  "404": "404",
+  "header": "Tips untuk OCD",
+  "subHeader": "Teknik pembumian lembut",
+  "tipBadge": "Tip",
+  "swipeHint": "Geser untuk melanjutkan",
+  "prevTip": "Tips sebelumnya",
+  "nextTip": "Tips selanjutnya",
+  "tips": [
+    "Perhatikan pikiran tersebut dan beri label dengan lembut: &quot;Ini adalah pikiran OCD.&quot;",
+    "Terimalah ketidakpastian daripada mencoba menyelesaikannya segera.",
+    "Biarkan perasaan tidak nyaman itu ada tanpa menghakimi diri sendiri karena merasakannya.",
+    "Ingatkan diri Anda bahwa pikiran adalah peristiwa mental, bukan fakta atau niat.",
+    "Fokuslah pada apa yang Anda lakukan saat ini, bukan pada skenario &quot;bagaimana jika&quot;.",
+    "Latih pernapasan lambat saat kecemasan meningkat — tarik napas perlahan, hembuskan napas lebih perlahan lagi.",
+    "Pertahankan rutinitas tidur yang konsisten untuk mendukung pengaturan emosi.",
+    "Konsumsilah makanan yang teratur dan seimbang untuk menghindari lonjakan kecemasan akibat kekurangan energi.",
+    "Kurangi konsumsi kafein jika Anda menyadari bahwa kafein meningkatkan kegelisahan atau pikiran yang mengganggu.",
+    "Bersikap baiklah pada diri sendiri — kemajuan dalam pemulihan OCD terjadi selangkah demi selangkah, bukan sempurna."
+  ],
+  "not_found": "Tidak Ditemukan",
+  "oops_page_not_found": "Ups! Halaman tidak ditemukan",
+  "return_to_home": "Kembali ke Rumah",
+  "more": "Selengkapnya",
+  "previous_slide": "Slide sebelumnya",
+  "next_slide": "Slide berikutnya",
+  "close": "Tutup",
+  "previous": "sebelumnya",
+  "next": "Selanjutnya",
+  "more_pages": "Halaman lainnya",
+  "toggle_sidebar": "Beralih Bilah Sisi"
+}

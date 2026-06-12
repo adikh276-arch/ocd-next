@@ -1,0 +1,22 @@
+{
+  "404": "404",
+  "title": "تسجيل الامتنان",
+  "subtitle": "اذكر ثلاثة أشياء تشعر بالامتنان لها",
+  "input_placeholder": "أنا ممتن لـ...",
+  "submit_button": "سجل الامتنان",
+  "logged_title": "تم تسجيل الامتنان!",
+  "logged_subtitle": "لحظات صغيرة، فرحة كبيرة.",
+  "log_another": "سجل آخر",
+  "history_title": "سجلات امتناني",
+  "gratitude_history": "تاريخ الامتنان",
+  "oops_page_not_found": "أوه! الصفحة غير موجودة",
+  "return_to_home": "العودة إلى الوطن",
+  "more": "المزيد",
+  "previous_slide": "الشريحة السابقة",
+  "next_slide": "الشريحة التالية",
+  "close": "إغلاق",
+  "previous": "السابق",
+  "next": "التالي",
+  "more_pages": "صفحات إضافية",
+  "toggle_sidebar": "تبديل الشريط الجانبي"
+}

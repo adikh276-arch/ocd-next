@@ -1,0 +1,61 @@
+{
+  "title": "Điều trị rối loạn ám ảnh cưỡng chế (OCD): Những điều bạn cần biết",
+  "hero": {
+    "p1": "Việc được chẩn đoán mắc chứng rối loạn ám ảnh cưỡng chế (OCD) có thể khiến bạn cảm thấy choáng váng. Nhưng điều quan trọng cần biết là OCD hoàn toàn có thể điều trị được.",
+    "p2": "Với sự hỗ trợ đúng đắn và phương pháp điều trị dựa trên bằng chứng khoa học, nhiều người có thể lấy lại quyền kiểm soát cuộc sống và sống một cuộc sống trọn vẹn."
+  },
+  "is_treatable": {
+    "title": "Liệu chứng rối loạn ám ảnh cưỡng chế (OCD) có thực sự chữa khỏi được không?",
+    "p1": "Đúng vậy — và có nhiều nghiên cứu mạnh mẽ chứng minh điều đó.",
+    "p2": "Khoảng một nửa số người bệnh đáp ứng rất tốt với các phương pháp điều trị ban đầu tiêu chuẩn. Ngay cả khi lần điều trị đầu tiên không hoàn toàn hiệu quả, khoảng 70% người bệnh vẫn thấy sự cải thiện đáng kể khi họ kiên trì điều trị và điều chỉnh chiến lược khi cần thiết.",
+    "quote": "Quá trình hồi phục không phải lúc nào cũng diễn ra ngay lập tức, nhưng sự tiến triển là hoàn toàn có thể."
+  },
+  "treatments": {
+    "title": "Phương pháp điều trị nào hiệu quả nhất?",
+    "specialized": {
+      "title": "Liệu pháp chuyên biệt",
+      "subtitle": "Liệu pháp nhận thức hành vi dựa trên ERP",
+      "p1": "Rối loạn ám ảnh cưỡng chế (OCD) bao gồm hai thành phần chính:",
+      "obsessions": "Những suy nghĩ hoặc thôi thúc xâm chiếm, gây khó chịu.",
+      "compulsions": "Các hành vi lặp đi lặp lại được thực hiện để giảm bớt lo lắng.",
+      "p2": "Liệu pháp hiệu quả nhất cho chứng rối loạn ám ảnh cưỡng chế (OCD) là một hình thức trị liệu nhận thức hành vi cụ thể được gọi là liệu pháp tiếp xúc và ngăn ngừa phản ứng (ERP).",
+      "p3": "Thay vì né tránh các tác nhân gây lo lắng, liệu pháp phơi nhiễm và phản ứng ngăn chặn phơi nhiễm (ERP) giúp các cá nhân:",
+      "steps": [
+        null,
+        "đối mặt với những suy nghĩ hoặc tình huống đáng sợ",
+        "Hãy kiềm chế việc thực hiện phản ứng theo bản năng thường lệ.",
+        "Hãy hiểu rằng lo lắng sẽ tự nhiên giảm đi mà không cần đến các nghi thức."
+      ],
+      "quote": "Theo thời gian, điều này sẽ huấn luyện lại phản ứng sợ hãi của não bộ.",
+      "p4": "Liệu pháp thường được tiến hành hàng tuần trong vài tháng. Trong thời gian này, thân chủ cũng thực hành các bài tập giữa các buổi trị liệu. Mặc dù sự lo lắng có thể tạm thời tăng lên trong quá trình tiếp xúc, nhưng sự khó chịu này là một phần của quá trình chữa lành.",
+      "p5": "Các nghiên cứu cho thấy phần lớn những người tham gia đầy đủ vào liệu pháp ERP đều trải nghiệm sự giảm đáng kể các triệu chứng."
+    }
+  },
+  "get_started": {
+    "title": "Bạn bắt đầu như thế nào?",
+    "p1": "Bước đầu tiên là liên hệ với chuyên gia chăm sóc sức khỏe — đó có thể là bác sĩ chăm sóc sức khỏe ban đầu, bác sĩ tâm thần hoặc nhà trị liệu được đào tạo về rối loạn ám ảnh cưỡng chế (OCD).",
+    "p2": "Chăm sóc hiệu quả cần bao gồm:",
+    "care_items": [
+      "Cung cấp thông tin rõ ràng về chứng rối loạn ám ảnh cưỡng chế (OCD).",
+      "Thảo luận về các lựa chọn điều trị",
+      "Quyết định chung",
+      "Xem xét sở thích và mục tiêu của bạn"
+    ],
+    "goals_p": "Các mục tiêu điều trị thường bao gồm:",
+    "goal_items": [
+      "Giảm cường độ triệu chứng",
+      "Cải thiện chức năng sinh hoạt hàng ngày",
+      "Nâng cao chất lượng cuộc sống",
+      "Xây dựng các công cụ đối phó với những tình huống căng thẳng"
+    ]
+  },
+  "final_word": {
+    "title": "Lời cuối cùng",
+    "p1": "Rối loạn ám ảnh cưỡng chế (OCD) có thể dai dẳng, nhưng hoàn toàn có thể kiểm soát được. Nhiều người — bao gồm các bác sĩ lâm sàng, nhà nghiên cứu và những người có kinh nghiệm thực tế — đã cống hiến công sức của mình để cải thiện kết quả điều trị cho những người bị ảnh hưởng.",
+    "quote": "Với sự kết hợp đúng đắn giữa phương pháp điều trị, sự kiên nhẫn và sự hỗ trợ, việc phục hồi hiệu quả là hoàn toàn có thể."
+  },
+  "common": {
+    "obsessions_label": "Nỗi ám ảnh",
+    "compulsions_label": "Sự cưỡng chế"
+  }
+}

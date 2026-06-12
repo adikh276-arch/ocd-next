@@ -1,0 +1,81 @@
+{
+  "404": "404",
+  "activity_name": "重新构建思维",
+  "intro": {
+    "title": "让我们换个角度来看待这个问题。",
+    "p1": "我们的大脑会产生自动思维——尤其是在焦虑程度较高的时候。",
+    "p2": "有些感觉很紧迫，有些感觉很有说服力。",
+    "p3": "但思想是诠释，而非事实。",
+    "p4": "今天，我们将练习轻轻地重塑一个形状。",
+    "button": "我准备尝试。"
+  },
+  "identify": {
+    "title": "当时他在想什么？",
+    "p1": "把你脑海中浮现的想法原原本本写下来。",
+    "p2": "未经编辑。未经修改。",
+    "placeholder": "例如，“如果我犯了错误，一切都会崩溃。”",
+    "hint": "注意这种想法的语气。",
+    "button": "我看得很清楚。"
+  },
+  "examine": {
+    "title": "咱们慢点儿。",
+    "question": "是什么让这种想法感觉如此真实？是：",
+    "hint": "焦虑往往会将可能性放大成确定性。",
+    "button": "好的…"
+  },
+  "reframe": {
+    "title": "更平衡的版本是什么？",
+    "p1": "这不是假装一切都很好。",
+    "p2": "关键在于拓展视角。",
+    "list_title": "试着写下这样的想法：",
+    "list_item1": "更现实",
+    "list_item2": "不那么极端",
+    "list_item3": "有证据支持",
+    "placeholder": "请写一个更平衡的版本……",
+    "original_label": "原来的：",
+    "balanced_label": "均衡：",
+    "example_original": "如果我想到它，那它一定是真的。",
+    "example_balanced": "思想是自动产生的，但它们并不能决定我的行为。",
+    "button": "感觉更踏实一些。"
+  },
+  "integration": {
+    "title": "注意这种变化。",
+    "p1": "比较一下原意和修改后的想法。",
+    "p2": "这种新想法是否：",
+    "list_item1": "降低紧迫性？",
+    "list_item2": "腾出空间？",
+    "list_item3": "感觉身体柔韧性稍微好一些了吗？",
+    "hint": "即使是微小的改变也能增强韧性。",
+    "button": "我可以练习一下。"
+  },
+  "completion": {
+    "title": "开阔的视野能增强力量。",
+    "subtitle": "你练习了用不同的方式回应。",
+    "p1": "这是进步。",
+    "try_again": "再试一次",
+    "show_saved": "显示我保存的条目"
+  },
+  "distortions": {
+    "prediction": "预测",
+    "worst_case": "最糟糕的情况",
+    "assumption": "假设",
+    "feeling": "一种伪装成事实的感觉"
+  },
+  "saved_entries": {
+    "title": "我的已保存条目",
+    "loading": "正在加载日志...",
+    "no_entries": "尚未保存任何条目。",
+    "the_thought": "想法",
+    "reframed": "重新构建"
+  },
+  "oops_page_not_found": "哎呀！页面未找到",
+  "return_to_home": "归乡",
+  "more": "更多",
+  "previous_slide": "上一张幻灯片",
+  "next_slide": "下一张幻灯片",
+  "close": "结束",
+  "previous": "之前",
+  "next": "下一个",
+  "more_pages": "更多页面",
+  "toggle_sidebar": "切换侧边栏"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Behandlung von Zwangsstörungen: Was Sie wissen müssen",
+  "hero": {
+    "p1": "Die Diagnose einer Zwangsstörung kann überwältigend sein. Es ist jedoch wichtig zu wissen, dass Zwangsstörungen sehr gut behandelbar sind.",
+    "p2": "Mit der richtigen Unterstützung und evidenzbasierter Behandlung können viele Menschen wieder die Kontrolle über ihr Leben erlangen und ein erfülltes Leben führen."
+  },
+  "is_treatable": {
+    "title": "Ist Zwangsstörung tatsächlich behandelbar?",
+    "p1": "Ja – und es gibt fundierte Forschungsergebnisse, die das belegen.",
+    "p2": "Etwa die Hälfte der Betroffenen spricht sehr gut auf Standardtherapien der ersten Wahl an. Selbst wenn der erste Versuch nicht optimal verläuft, erfahren rund 70 % der Patienten eine deutliche Besserung, wenn sie die Therapie fortsetzen und die Strategien gegebenenfalls anpassen.",
+    "quote": "Die Genesung erfolgt nicht immer über Nacht, aber Fortschritte sind durchaus möglich."
+  },
+  "treatments": {
+    "title": "Welche Behandlungen sind am wirksamsten?",
+    "specialized": {
+      "title": "Spezialtherapie",
+      "subtitle": "ERP-basiertes CBT",
+      "p1": "Zwangsstörungen umfassen zwei Hauptkomponenten:",
+      "obsessions": "aufdringliche, quälende Gedanken oder Impulse.",
+      "compulsions": "Wiederholte Verhaltensweisen zur Reduzierung von Angstzuständen.",
+      "p2": "Die wirksamste Therapie bei Zwangsstörungen ist eine spezielle Form der kognitiven Verhaltenstherapie, die als Expositionstherapie mit Reaktionsverhinderung (ERP) bezeichnet wird.",
+      "p3": "Anstatt Angstauslöser zu vermeiden, hilft die Expositionstherapie mit Reaktionsverhinderung (ERP) Einzelpersonen dabei:",
+      "steps": [
+        null,
+        "sich gefürchteten Gedanken oder Situationen stellen",
+        "Widerstehen Sie dem Drang, die übliche Zwangsreaktion auszuführen.",
+        "Lerne, dass Angstzustände auf natürliche Weise ohne Rituale abnehmen."
+      ],
+      "quote": "Mit der Zeit wird dadurch die Angstreaktion des Gehirns umtrainiert.",
+      "p4": "Die Therapie findet in der Regel wöchentlich über mehrere Monate statt. Während dieser Zeit üben die Klienten auch zwischen den Sitzungen. Obwohl die Angst während der Konfrontationsübungen vorübergehend zunehmen kann, ist dieses Unbehagen Teil des Heilungsprozesses.",
+      "p5": "Studien legen nahe, dass die Mehrheit der Menschen, die sich voll und ganz auf die Expositionstherapie einlassen, eine deutliche Linderung der Symptome erfahren."
+    }
+  },
+  "get_started": {
+    "title": "Wie fängt man an?",
+    "p1": "Der erste Schritt besteht darin, sich an eine medizinische Fachkraft zu wenden – dies kann ein Hausarzt, ein Psychiater oder ein auf Zwangsstörungen spezialisierter Therapeut sein.",
+    "p2": "Eine wirksame Pflege sollte Folgendes umfassen:",
+    "care_items": [
+      "Klare Aufklärung über Zwangsstörungen",
+      "Diskussion der Behandlungsoptionen",
+      "Gemeinsame Entscheidungsfindung",
+      "Berücksichtigung Ihrer Vorlieben und Ziele"
+    ],
+    "goals_p": "Zu den Behandlungszielen gehören häufig:",
+    "goal_items": [
+      "Reduzierung der Symptomintensität",
+      "Verbesserung der Alltagsfunktionen",
+      "Steigerung der Lebensqualität",
+      "Strategien zur Bewältigung von Stresssituationen entwickeln"
+    ]
+  },
+  "final_word": {
+    "title": "Ein letztes Wort",
+    "p1": "Zwangsstörungen können hartnäckig sein, sind aber behandelbar. Viele Menschen – darunter Ärzte, Forscher und Betroffene – haben sich der Verbesserung der Behandlungsergebnisse für Betroffene verschrieben.",
+    "quote": "Mit der richtigen Kombination aus Behandlung, Geduld und Unterstützung ist eine sinnvolle Genesung möglich."
+  },
+  "common": {
+    "obsessions_label": "Obsessionen",
+    "compulsions_label": "Zwänge"
+  }
+}

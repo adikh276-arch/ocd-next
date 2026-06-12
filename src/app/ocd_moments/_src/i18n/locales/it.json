@@ -1,0 +1,56 @@
+{
+  "auth": {
+    "loading": "Caricamento del tracker in corso..."
+  },
+  "index": {
+    "title": "Registri OCD",
+    "subtitle": "Registra e traccia",
+    "journal": "Giornale",
+    "history": "Storia",
+    "analytics": "Analisi"
+  },
+  "log": {
+    "context": "Contesto",
+    "home": "Casa",
+    "work": "Lavoro",
+    "social": "Sociale",
+    "other": "Altro",
+    "custom_placeholder": "Dove esattamente? (ad esempio giardino, palestra)",
+    "observation": "Osservazione",
+    "urge_placeholder": "Cattura il pensiero o l'impulso così come si presenta...",
+    "previous_notes": "Note precedenti in {{location}}",
+    "decision": "Decisione",
+    "acted_label": "Agire d'impulso",
+    "waited_label": "In attesa",
+    "resisted_label": "Notato senza agire",
+    "complete_session": "Sessione completa",
+    "success_title": "Momento registrato",
+    "success_desc": "La tua iscrizione è stata salvata in modo sicuro.",
+    "error_title": "Impossibile salvare",
+    "error_desc": "Si è verificato un problema durante il salvataggio della voce nel database."
+  },
+  "history": {
+    "title": "Cronologia",
+    "subtitle": "Riflessioni e crescita",
+    "journal_date": "Data del giornale",
+    "no_entries": "Nessuna voce ancora",
+    "start_today": "Inizia oggi il tuo primo registro"
+  },
+  "insights": {
+    "title": "Approfondimenti sulla risposta",
+    "subtitle": "Analisi della tua crescita",
+    "back": "Torna al diario",
+    "this_week": "Questa settimana",
+    "last_week": "La settimana scorsa",
+    "two_weeks_ago": "2 settimane fa",
+    "waiting_data": "In attesa di dati",
+    "log_entries": "Registra le voci durante questo periodo per vedere qui i tuoi progressi.",
+    "info": "Per visualizzare un riepilogo, è necessaria almeno una voce per le informazioni approfondite e quattro voci per l'analisi dei pattern.",
+    "activity": "Attività",
+    "entry_flows": "Flussi di ingresso",
+    "pattern_discovery": "Scoperta di modelli",
+    "pattern_resisted": "Hai notato gli impulsi senza agire più spesso di quanto hai agito in risposta ad essi. Questa è la prova della tua capacità di osservazione.",
+    "pattern_acted": "In questo periodo hai agito più spesso seguendo i tuoi impulsi. Questa è solo una fase del percorso: la tua consapevolezza è il primo passo verso il cambiamento.",
+    "pattern_balanced": "Le vostre risposte sono state equilibrate in questo periodo. State trovando una via di mezzo."
+  }
+}

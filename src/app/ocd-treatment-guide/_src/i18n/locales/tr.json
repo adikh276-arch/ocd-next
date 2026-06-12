@@ -1,0 +1,61 @@
+{
+  "title": "Obsesif Kompulsif Bozukluk Tedavisi: Bilmeniz Gerekenler",
+  "hero": {
+    "p1": "Obsesif-kompulsif bozukluk tanısı almak bunaltıcı olabilir. Ancak OKB&#39;nin oldukça tedavi edilebilir bir durum olduğunu bilmek önemlidir.",
+    "p2": "Doğru destek ve kanıta dayalı bakım ile birçok insan kontrolü yeniden ele geçirebilir ve tatmin edici bir yaşam sürdürebilir."
+  },
+  "is_treatable": {
+    "title": "Obsesif Kompulsif Bozukluk Gerçekten Tedavi Edilebilir mi?",
+    "p1": "Evet, ve bunu destekleyen güçlü araştırmalar var.",
+    "p2": "Bireylerin yaklaşık yarısı standart ilk basamak tedavilere çok iyi yanıt veriyor. İlk deneme mükemmel sonuç vermese bile, tedaviye devam eden ve gerektiğinde stratejilerini ayarlayan kişilerin yaklaşık %70&#39;inde anlamlı bir iyileşme görülüyor.",
+    "quote": "İyileşme her zaman bir gecede gerçekleşmez, ancak ilerleme kesinlikle mümkündür."
+  },
+  "treatments": {
+    "title": "Hangi tedaviler en iyi sonucu verir?",
+    "specialized": {
+      "title": "Uzmanlaşmış Terapi",
+      "subtitle": "ERP Tabanlı Bilişsel Davranışçı Terapi",
+      "p1": "Obsesif kompulsif bozukluğun iki ana bileşeni vardır:",
+      "obsessions": "Rahatsız edici, can sıkıcı düşünceler veya dürtüler.",
+      "compulsions": "Kaygıyı azaltmak için yapılan tekrarlayan davranışlar.",
+      "p2": "Obsesif-kompulsif bozukluk (OKB) için en etkili terapi, Bilişsel Davranışçı Terapinin özel bir formu olan Maruz Kalma ve Tepki Önleme (ERP) yöntemidir.",
+      "p3": "Kaygı tetikleyicilerinden kaçınmak yerine, ERP bireylere şu konularda yardımcı olur:",
+      "steps": [
+        null,
+        "korkulan düşüncelerle veya durumlarla yüzleşmek",
+        "Alışılmış kompulsif tepkiyi göstermeye direnin.",
+        "Ritüellere gerek kalmadan kaygının doğal olarak azaldığını öğrenin."
+      ],
+      "quote": "Zamanla bu, beynin korku tepkisini yeniden şekillendirir.",
+      "p4": "Terapi genellikle birkaç ay boyunca haftalık olarak yapılır. Bu süre zarfında danışanlar seanslar arasında egzersizler de yaparlar. Maruz kalma seansları sırasında kaygı geçici olarak artabilir, ancak bu rahatsızlık iyileşme sürecinin bir parçasıdır.",
+      "p5": "Çalışmalar, ERP&#39;ye tam olarak katılan kişilerin çoğunda semptomlarda önemli bir azalma olduğunu göstermektedir."
+    }
+  },
+  "get_started": {
+    "title": "Nasıl Başlayabilirsiniz?",
+    "p1": "İlk adım bir sağlık uzmanına başvurmaktır; bu bir aile hekimi, psikiyatrist veya OKB konusunda eğitimli bir terapist olabilir.",
+    "p2": "Etkili bakım şunları içermelidir:",
+    "care_items": [
+      "Obsesif kompulsif bozukluk hakkında net eğitim",
+      "Tedavi seçeneklerinin tartışılması",
+      "Ortak karar alma",
+      "Tercihleriniz ve hedefleriniz dikkate alınmıştır."
+    ],
+    "goals_p": "Tedavi hedefleri genellikle şunları içerir:",
+    "goal_items": [
+      "Semptom yoğunluğunu azaltmak",
+      "Günlük işleyişin iyileştirilmesi",
+      "Yaşam kalitesini artırmak",
+      "Stresli durumlarla başa çıkma araçları geliştirmek"
+    ]
+  },
+  "final_word": {
+    "title": "Son Bir Söz",
+    "p1": "Obsesif kompulsif bozukluk (OKB) kalıcı olabilir, ancak yönetilebilir bir durumdur. Klinik uzmanlar, araştırmacılar ve bu durumu bizzat yaşamış kişiler de dahil olmak üzere birçok insan, etkilenenler için sonuçları iyileştirmeye yönelik çalışmalara kendini adamıştır.",
+    "quote": "Doğru tedavi, sabır ve destek kombinasyonuyla anlamlı bir iyileşme mümkündür."
+  },
+  "common": {
+    "obsessions_label": "Takıntılar",
+    "compulsions_label": "Zorlamalar"
+  }
+}

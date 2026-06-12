@@ -1,0 +1,22 @@
+{
+  "404": "404",
+  "title": "आभार अवलोकन",
+  "subtitle": "उन 3 चीजों के नाम बताइए जिनके लिए आप आभारी हैं।",
+  "input_placeholder": "मैं आभारी हूँ...",
+  "submit_button": "आभार व्यक्त करें",
+  "logged_title": "आभार व्यक्त किया गया!",
+  "logged_subtitle": "छोटे-छोटे पल, बड़ी खुशियाँ।",
+  "log_another": "एक और लॉग करें",
+  "history_title": "मेरी कृतज्ञता लॉग",
+  "gratitude_history": "कृतज्ञता इतिहास",
+  "oops_page_not_found": "उफ़! पेज नहीं मिला",
+  "return_to_home": "घर लौटें",
+  "more": "अधिक",
+  "previous_slide": "पिछली स्लाइड",
+  "next_slide": "अगली स्लाइड",
+  "close": "घुटनभरा",
+  "previous": "पिछला",
+  "next": "अगला",
+  "more_pages": "अधिक पृष्ठ",
+  "toggle_sidebar": "साइडबार टॉगल करें"
+}

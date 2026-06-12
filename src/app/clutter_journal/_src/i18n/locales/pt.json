@@ -1,0 +1,54 @@
+{
+  "welcome": {
+    "title": "Diário de Bagunça e Emoções",
+    "subtitle": "\"Cada objeto que você guarda é algo que você guarda.\"",
+    "description": "Não se trata de liberar espaço. Trata-se de entender o que seus pertences contêm. 🌸",
+    "instruction": "Pense em um objeto que você tem guardado. O que vier à mente primeiro é o certo. ✨",
+    "placeholder": "Por exemplo, o velho cachecol da minha mãe, um relógio quebrado.",
+    "myJournal": "📖 Meu Diário →",
+    "nextBtn": "Este é o meu objeto →"
+  },
+  "exploration": {
+    "title": "Vamos explorar isso juntos. 🔍",
+    "subtitle": "Responda o que lhe parecer certo. Pode pular qualquer uma.",
+    "prompt1": "Quando esse objeto entrou na sua vida? O que estava acontecendo naquele momento?",
+    "prompt2": "O que você imagina que aconteceria se esse objeto desaparecesse amanhã?",
+    "prompt3": "Este objeto lhe faz lembrar de alguma pessoa, de uma época ou de uma versão de você mesmo?",
+    "prompt4": "Do que você se protege ao guardar esse objeto?",
+    "placeholder": "Escreva livremente — isto é só para você. 💭",
+    "back": "← voltar",
+    "next": "próximo →",
+    "nextBtn": "Já refleti o suficiente →"
+  },
+  "insight": {
+    "title": "O que você notou? 💡",
+    "description1": "Às vezes, os objetos contêm mais do que coisas. Eles guardam sentimentos para os quais ainda não encontramos outro lugar.",
+    "description2": "O que esse objeto realmente representa para você?",
+    "option1": "O medo de esquecer",
+    "option2": "O medo de não ter o suficiente",
+    "option3": "Uma lembrança que não estou pronto para perder.",
+    "option4": "Uma parte da minha identidade",
+    "option5": "Culpa ou responsabilidade",
+    "option6": "Amor por alguém",
+    "option7": "Algo que ainda não consigo nomear.",
+    "footer": "Dar um nome a algo não significa que você precise agir de acordo. A própria conscientização já é o trabalho. 🌸",
+    "nextBtn": "Agora eu vejo →"
+  },
+  "closing": {
+    "title": "Você acabou de fazer algo corajoso.",
+    "subtitle": "A maioria das pessoas nunca se pergunta por que se apegam a algo. Você se perguntou. É com esse tipo de honestidade que a verdadeira mudança começa.",
+    "todaysObject": "Objeto de hoje",
+    "whatsHolding": "O que está contido nele",
+    "footer": "Volte sempre que estiver pronto para explorar outro. 🌸",
+    "entriesCount_one": "🌿 {{count}} entry in your journal",
+    "entriesCount_other": "🌿 {{count}} entries in your journal",
+    "viewJournal": "📖 Veja minhas publicações anteriores →",
+    "closeBtn": "Fechado por hoje"
+  },
+  "journal": {
+    "title": "Meu diário 📖",
+    "subtitle": "Cada participação é um momento de coragem.",
+    "empty": "Seu diário está esperando. Comece sua primeira reflexão hoje mesmo.",
+    "startBtn": "Comece a sua entrada de hoje →"
+  }
+}

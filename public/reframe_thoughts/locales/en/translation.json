@@ -1,0 +1,81 @@
+{
+  "404": "404",
+  "activity_name": "Reframe Thoughts",
+  "intro": {
+    "title": "Let's look at the thought differently.",
+    "p1": "Our minds generate automatic thoughts — especially when anxiety is high.",
+    "p2": "Some feel urgent. Some feel convincing.",
+    "p3": "But thoughts are interpretations, not facts.",
+    "p4": "Today, we'll practice gently reshaping one.",
+    "button": "I'm ready to try."
+  },
+  "identify": {
+    "title": "What was the thought?",
+    "p1": "Write the thought exactly as it appeared in your mind.",
+    "p2": "No editing. No fixing.",
+    "placeholder": "e.g., \"If I make a mistake, everything will fall apart.\"",
+    "hint": "Notice the tone of the thought.",
+    "button": "I see it clearly."
+  },
+  "examine": {
+    "title": "Let's slow it down.",
+    "question": "What makes this thought feel true? Is it:",
+    "hint": "Anxiety often amplifies possibilities into certainties.",
+    "button": "Okay…"
+  },
+  "reframe": {
+    "title": "What is a more balanced version?",
+    "p1": "This is not about pretending everything is fine.",
+    "p2": "It's about adding perspective.",
+    "list_title": "Try writing a thought that is:",
+    "list_item1": "More realistic",
+    "list_item2": "Less extreme",
+    "list_item3": "Grounded in evidence",
+    "placeholder": "Write a more balanced version…",
+    "original_label": "Original:",
+    "balanced_label": "Balanced:",
+    "example_original": "If I think it, it must be true.",
+    "example_balanced": "Thoughts happen automatically. They don't define my actions.",
+    "button": "That feels more grounded."
+  },
+  "integration": {
+    "title": "Notice the shift.",
+    "p1": "Compare the original thought and the reframed one.",
+    "p2": "Does the new thought:",
+    "list_item1": "Reduce urgency?",
+    "list_item2": "Create space?",
+    "list_item3": "Feel slightly more flexible?",
+    "hint": "Even small shifts build resilience.",
+    "button": "I can practice this."
+  },
+  "completion": {
+    "title": "Perspective builds strength.",
+    "subtitle": "You practiced responding differently.",
+    "p1": "That's progress.",
+    "try_again": "Try again",
+    "show_saved": "Show my saved entries"
+  },
+  "distortions": {
+    "prediction": "A prediction",
+    "worst_case": "A worst-case scenario",
+    "assumption": "An assumption",
+    "feeling": "A feeling disguised as a fact"
+  },
+  "saved_entries": {
+    "title": "My Saved Entries",
+    "loading": "Loading your logs...",
+    "no_entries": "No entries saved yet.",
+    "the_thought": "The Thought",
+    "reframed": "Reframed"
+  },
+  "oops_page_not_found": "Oops! Page not found",
+  "return_to_home": "Return to Home",
+  "more": "More",
+  "previous_slide": "Previous slide",
+  "next_slide": "Next slide",
+  "close": "Close",
+  "previous": "Previous",
+  "next": "Next",
+  "more_pages": "More pages",
+  "toggle_sidebar": "Toggle Sidebar"
+}

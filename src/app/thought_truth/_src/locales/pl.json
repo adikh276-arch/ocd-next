@@ -1,0 +1,59 @@
+{
+  "welcome": {
+    "badge": "CZYSTE OCD",
+    "title": "Myśl czy prawda?",
+    "description": "Przesuń w lewo, aby sprawdzić fałsz / Przesuń w prawo, aby sprawdzić prawdę!",
+    "details": "5 pytań · prawda czy fałsz",
+    "button": "No to lecimy! 🚀"
+  },
+  "before": {
+    "title": "Zanim zaczniemy",
+    "p1": "Nasz mózg codziennie generuje najróżniejsze myśli – nawet te przerażające i dziwne. To nie znaczy, że coś z tobą nie tak.",
+    "p2": "W przypadku OCD Pure O sama myśl nie stanowi problemu. Problemem jest to, jak dużą wagę jej nadajemy.",
+    "button": "Jestem gotowy 💪"
+  },
+  "quiz": {
+    "questionCount": "Pytanie {{current}} z {{total}}",
+    "falseHint": "👈 Fałsz",
+    "trueHint": "Prawda 👉",
+    "correct": "✅ Zgadza się!",
+    "incorrect": "❌ Nie do końca!",
+    "continue": "Kontynuuj →"
+  },
+  "results": {
+    "amazing": "Niesamowity!",
+    "niceTry": "Ładna próba!",
+    "keepLearning": "Ucz się dalej!",
+    "scoreMsg": "Udało Ci się poprawnie obliczyć {{score}} z {{total}}",
+    "heartsMsg": "Pozostałe serca: ",
+    "remember": "Pamiętaj: myśli to tylko myśli. Nie definiują tego, kim jesteś. 💜",
+    "tryAgain": "Spróbuj ponownie 🔄"
+  },
+  "questions": [
+    {
+      "q": "Jeśli masz gwałtowne myśli, oznacza to, że jesteś niebezpieczną osobą.",
+      "correctExplain": "Myśli nie są faktami. Każdy ma natrętne myśli – one cię nie definiują.",
+      "wrongExplain": "Tak naprawdę, sama myśl o czymś przerażającym nie czyni cię niebezpiecznym. Natrętne myśli są normalne."
+    },
+    {
+      "q": "Natrętne myśli pojawiają się u niemal każdego człowieka w pewnym momencie życia.",
+      "correctExplain": "Badania pokazują, że ponad 90% ludzi doświadcza natrętnych myśli. Nie jesteś sam!",
+      "wrongExplain": "Natrętne myśli są w rzeczywistości bardzo powszechne — badania pokazują, że miewa je niemal każdy."
+    },
+    {
+      "q": "Im bardziej starasz się stłumić myśl, tym częściej ona powraca.",
+      "correctExplain": "Zjawisko to nazywa się „efektem białego niedźwiedzia”. Tłumienie myśli sprawia, że stają się one bardziej przylepne.",
+      "wrongExplain": "To prawda! Próba odepchnięcia myśli sprawia, że wracają silniejsze."
+    },
+    {
+      "q": "Jeśli myśl wydaje się realna, to musi być prawdziwa.",
+      "correctExplain": "Uczucia nie są faktami. OCD sprawia, że myśli wydają się pilne i realne — ale to tylko myśli.",
+      "wrongExplain": "To, że myśl wydaje się realna, nie oznacza, że jest prawdziwa. Pod tym względem OCD jest podstępne."
+    },
+    {
+      "q": "Akceptacja myśli jest tym samym, co zgoda na nią.",
+      "correctExplain": "Akceptacja oznacza pozwolenie myślom istnieć, nie sprzeciwiając się im, a nie je popierając.",
+      "wrongExplain": "Akceptacja ≠ zgoda. Możesz zauważyć myśl, nie wierząc w nią ani nie działając pod jej wpływem."
+    }
+  ]
+}

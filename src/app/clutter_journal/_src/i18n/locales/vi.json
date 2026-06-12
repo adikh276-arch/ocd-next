@@ -1,0 +1,54 @@
+{
+  "welcome": {
+    "title": "Nhật ký về sự bừa bộn và cảm xúc",
+    "subtitle": "\"Mỗi vật bạn giữ lại đều đang giữ lại điều gì đó cho bạn.\"",
+    "description": "Đây không phải là việc dọn dẹp không gian. Đây là việc hiểu được những gì đồ đạc của bạn đang chứa đựng. 🌸",
+    "instruction": "Hãy nghĩ về một món đồ mà bạn vẫn luôn giữ bên mình. Món đồ nào hiện lên trong đầu bạn đầu tiên chính là món đồ đúng. ✨",
+    "placeholder": "Ví dụ: chiếc khăn quàng cổ cũ của mẹ tôi, một chiếc đồng hồ bị hỏng.",
+    "myJournal": "📖 Nhật ký của tôi →",
+    "nextBtn": "Đây là vật thể của tôi →"
+  },
+  "exploration": {
+    "title": "Chúng ta hãy cùng nhau khám phá điều này. 🔍",
+    "subtitle": "Hãy trả lời câu hỏi nào bạn cảm thấy phù hợp nhất. Bạn có thể bỏ qua bất kỳ câu hỏi nào.",
+    "prompt1": "Vật thể này xuất hiện trong cuộc sống của bạn khi nào? Chuyện gì đang xảy ra vào thời điểm đó?",
+    "prompt2": "Bạn nghĩ điều gì sẽ xảy ra nếu vật thể này biến mất vào ngày mai?",
+    "prompt3": "Vật thể này có gợi nhớ cho bạn về một người, một thời điểm, hay một phiên bản nào đó của chính bạn không?",
+    "prompt4": "Việc giữ vật này giúp bạn bảo vệ khỏi điều gì?",
+    "placeholder": "Hãy thoải mái viết — điều này chỉ dành riêng cho bạn. 💭",
+    "back": "← trở lại",
+    "next": "tiếp theo →",
+    "nextBtn": "Tôi đã suy ngẫm đủ rồi →"
+  },
+  "insight": {
+    "title": "Bạn đã nhận thấy điều gì? 💡",
+    "description1": "Đôi khi, đồ vật chứa đựng nhiều hơn cả nội dung vật chất. Chúng chứa đựng những cảm xúc mà chúng ta chưa tìm được nơi nào khác để diễn tả.",
+    "description2": "Vật thể này thực sự đang chứa đựng điều gì dành cho bạn?",
+    "option1": "Nỗi sợ quên lãng",
+    "option2": "Nỗi sợ không có đủ",
+    "option3": "Một kỷ niệm mà tôi chưa sẵn sàng để mất.",
+    "option4": "Một phần bản sắc của tôi",
+    "option5": "Tội lỗi hay trách nhiệm",
+    "option6": "Tình yêu dành cho ai đó",
+    "option7": "Một điều gì đó mà tôi chưa thể đặt tên được.",
+    "footer": "Việc gọi tên nó không có nghĩa là bạn phải hành động theo nó. Chính nhận thức mới là việc cần làm. 🌸",
+    "nextBtn": "Giờ thì tôi đã hiểu rồi →"
+  },
+  "closing": {
+    "title": "Bạn vừa làm một việc dũng cảm.",
+    "subtitle": "Hầu hết mọi người không bao giờ tự hỏi tại sao họ lại níu giữ. Nhưng bạn đã làm vậy. Sự thành thật đó chính là nơi khởi nguồn của sự thay đổi thực sự.",
+    "todaysObject": "Đối tượng của ngày hôm nay",
+    "whatsHolding": "Nó đang chứa gì?",
+    "footer": "Hãy quay lại bất cứ khi nào bạn sẵn sàng khám phá một điều khác nhé. 🌸",
+    "entriesCount_one": "🌿 {{count}} entry in your journal",
+    "entriesCount_other": "🌿 {{count}} entries in your journal",
+    "viewJournal": "📖 Xem các bài đăng trước đây của tôi →",
+    "closeBtn": "Đóng cửa hôm nay"
+  },
+  "journal": {
+    "title": "Nhật ký của tôi 📖",
+    "subtitle": "Mỗi bài viết đều là một khoảnh khắc của lòng dũng cảm.",
+    "empty": "Nhật ký của bạn đang chờ bạn. Hãy bắt đầu viết những suy ngẫm đầu tiên ngay hôm nay.",
+    "startBtn": "Bắt đầu bài viết hôm nay →"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "welcome": {
+    "title": "Gawaing Salamin",
+    "quote": "&quot;Mas mahalaga ang paraan ng pagsasalita mo sa iyong sarili kaysa sa inaakala mo. Ito ang sandali para maging mabait sa taong higit na nangangailangan nito — ikaw.&quot;",
+    "subtitle": "Maghanap ng tahimik na sandali. Para lang ito sa iyo.",
+    "button": "Handa Na Ako →",
+    "back": "Bumalik"
+  },
+  "mirror": {
+    "title": "Basahin ang mga Ito sa Iyong Sarili",
+    "description": "Ito ang mga bagay na nais marinig ng iyong pinakamabait at pinakamalusog na sarili. Basahin ang bawat isa nang dahan-dahan — nang malakas kung kaya mo. Huwag mag-atubiling.",
+    "back": "Bumalik",
+    "prev": "Nakaraan",
+    "next": "Susunod",
+    "read_again": "Basahin mo ulit kung kailangan. Walang pagmamadali.",
+    "complete": "Kumpletuhin ang ✓",
+    "completion_msg": "Nagpakita ka para sa iyong sarili ngayon. Iyon lang ang lahat. 💙",
+    "affirmations": "Hindi ako ang aking mga balisa. Ang aking mga iniisip ay hindi katotohanan."
+  },
+  "notfound": {
+    "title": "Ginagawa ko ang lahat ng aking makakaya gamit ang kung anong meron ako ngayon.",
+    "subtitle": "Ayos lang na hindi mo makuha ang lahat ng sagot. Bahagi ng buhay ang kawalan ng katiyakan.",
+    "return": "Hindi ko kaaway ang katawan ko. Nagsusumikap itong pangalagaan ako."
+  },
+  "common": {
+    "language": "Karapat-dapat ako sa parehong kabaitan na ibibigay ko sa isang taong mahal ko."
+  }
+}

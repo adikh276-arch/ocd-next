@@ -1,0 +1,65 @@
+{
+  "404": "404",
+  "welcome": {
+    "title": "Sağlık Kaygısını Anlamak",
+    "description": "Sağlıkla ilgili endişelerinizin, ne kadar kontrol ederseniz edin, neden asla geçmediğini hiç merak ettiniz mi? İşte bunun tam nedeni.",
+    "read_time": "2 dakikalık okuma süresi",
+    "button": "Bana Göster →"
+  },
+  "cycle": {
+    "title": "Beyninizde Olanlar İşte Bunlar",
+    "description_1": "Sağlık kaygısı öylece ortaya çıkıp kaybolmaz. Bir döngü halinde ilerler ve her kontrol ettiğinizde bu döngüyü daha da güçlendirirsiniz.",
+    "description_2": "Her döngü, beyninize endişenin kontrol edilmeye değer olduğunu öğretir. Bu yüzden endişe sürekli geri gelir - her seferinde biraz daha yüksek sesle.",
+    "highlight": "💡 Kontrol etmek rahatlama sağlar, ama asla özgürlük getirmez.",
+    "button": "Bunu tanıyorum →",
+    "restart": "↩ Ve yeniden başlıyor..."
+  },
+  "nodes": {
+    "trigger": {
+      "label": "Tetiklemek",
+      "desc": "Baş ağrısı. Bir makale. Bir düşünce."
+    },
+    "anxiety": {
+      "label": "Kaygı Artışları",
+      "desc": "Ya bende bir sorun varsa?"
+    },
+    "check": {
+      "label": "Kontrol Edin",
+      "desc": "Google. Doktor. Birine sor."
+    },
+    "relief": {
+      "label": "Kısa Süreli Rahatlama",
+      "desc": "Tamam… Sanırım iyiyim."
+    },
+    "doubt": {
+      "label": "Şüphe Geri Dönüyor",
+      "desc": "Peki ya yanılıyorlarsa?"
+    }
+  },
+  "break_cycle": {
+    "title": "İşte Nasıl Karşı Koyabilirsiniz",
+    "description": "Döngünün her aşamasının onu kesmenin bir yolu vardır. Neler yapabileceğinizi görmek için her birine dokunun:",
+    "tips": [
+      "Tepki vermeden fark edin. Kendi kendinize, 'Bu bir tetikleyici, bir gerçek değil' deyin. Ardından, herhangi bir şey yapmadan önce yavaşça bir nefes alın.",
+      "Duyguyu yüksek sesle dile getirin: 'Şu anda endişeli hissediyorum.' Adını koymak, onun etkisini azaltır. Onu düzeltmenize gerek yok, sadece kabul edin.",
+      "Bu, müdahale edilmesi gereken en önemli aşama. Kontrolü sadece 5 dakika erteleyin. Sonra 10 dakika. Her erteleme alışkanlığı zayıflatır.",
+      "Kendinize hatırlatın: Bu rahatlama uzun sürmeyecek. Gerçek rahatlama, belirsizlikten kaçmaktan değil, ona tahammül etmekten gelir.",
+      "Şüpheyle yüzleşmeyin. 'İşte yine o şüphe!' deyin. Sonra da peşinden gitmeden bir bulut gibi geçip gitmesine izin verin."
+    ],
+    "all_tapped": "Döngünün tam olarak nerede olduğunu ve nasıl kırılacağını artık biliyorsunuz. Bu bilgi çok güçlü. 💙",
+    "button": "Tamamlandı ✓"
+  },
+  "language_switcher": {
+    "label": "Dil"
+  },
+  "oops_page_not_found": "Hop! Sayfa bulunmadı",
+  "return_to_home": "Eve Dönüş",
+  "more": "Daha fazlası",
+  "previous_slide": "Önceki slayt",
+  "next_slide": "Sonraki slayt",
+  "close": "Kapat",
+  "previous": "Önceki",
+  "next": "Sıradaki",
+  "more_pages": "Daha fazla sayfa",
+  "toggle_sidebar": "Yan Çubuğu Aç"
+}

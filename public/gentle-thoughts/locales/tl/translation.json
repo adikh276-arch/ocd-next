@@ -1,0 +1,21 @@
+{
+  "404": "404",
+  "header": "Mga Tip sa OCD",
+  "subHeader": "Mga banayad na pamamaraan ng grounding",
+  "tipBadge": "Tip",
+  "swipeHint": "mag-swipe para magpatuloy",
+  "prevTip": "Nakaraang tip",
+  "nextTip": "Susunod na tip",
+  "tips": "Pansinin ang kaisipan at lagyan ito ng label nang malumanay: &quot;Ito ay isang kaisipang OCD.&quot;",
+  "not_found": "Hindi Natagpuan",
+  "oops_page_not_found": "Oops! Hindi natagpuan ang pahina",
+  "return_to_home": "Bumalik sa Tahanan",
+  "more": "Higit pa",
+  "previous_slide": "Nakaraang slide",
+  "next_slide": "Susunod na slide",
+  "close": "Isara",
+  "previous": "Nakaraan",
+  "next": "Susunod",
+  "more_pages": "Higit pang mga pahina",
+  "toggle_sidebar": "I-toggle ang Sidebar"
+}

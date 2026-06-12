@@ -1,0 +1,32 @@
+{
+  "404": "404",
+  "header": "Tipps gegen Zwangsstörungen",
+  "subHeader": "Sanfte Erdungstechniken",
+  "tipBadge": "Tipp",
+  "swipeHint": "Zum Fortfahren wischen",
+  "prevTip": "Vorheriger Tipp",
+  "nextTip": "Nächster Tipp",
+  "tips": [
+    "Nimm den Gedanken wahr und bezeichne ihn freundlich: „Das ist ein Zwangsgedanke.“",
+    "Lassen Sie die Unsicherheit zu, anstatt sofort eine Lösung anstreben zu wollen.",
+    "Lassen Sie unangenehme Gefühle zu, ohne sich dafür zu verurteilen, dass Sie sie haben.",
+    "Erinnere dich daran, dass Gedanken mentale Vorgänge sind, keine Tatsachen oder Absichten.",
+    "Konzentriere dich auf das, was du im gegenwärtigen Moment tust, nicht auf „Was wäre wenn“-Szenarien.",
+    "Üben Sie langsames Atmen, wenn die Angst aufkommt – atmen Sie langsam ein, atmen Sie noch langsamer aus.",
+    "Sorgen Sie für einen regelmäßigen Schlafrhythmus, um die emotionale Regulation zu unterstützen.",
+    "Um Angstzustände aufgrund von Energiemangel zu vermeiden, sollten Sie regelmäßig und ausgewogen essen.",
+    "Reduzieren Sie den Koffeinkonsum, wenn Sie feststellen, dass er Ihre Unruhe oder aufdringliche Gedanken verstärkt.",
+    "Sei gut zu dir selbst – Fortschritte bei der Genesung von Zwangsstörungen erfolgen Schritt für Schritt, nicht perfekt."
+  ],
+  "not_found": "Nicht gefunden",
+  "oops_page_not_found": "Ups! Seite nicht gefunden",
+  "return_to_home": "Rückkehr in die Heimat",
+  "more": "Mehr",
+  "previous_slide": "Vorherige Folie",
+  "next_slide": "Nächste Folie",
+  "close": "Schließen",
+  "previous": "Früher",
+  "next": "Als Nächstes",
+  "more_pages": "Mehr Seiten",
+  "toggle_sidebar": "Seitenleiste umschalten"
+}

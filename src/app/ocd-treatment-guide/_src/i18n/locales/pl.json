@@ -1,0 +1,61 @@
+{
+  "title": "Leczenie OCD: co musisz wiedzieć",
+  "hero": {
+    "p1": "Diagnoza zaburzenia obsesyjno-kompulsyjnego może być przytłaczająca. Ważne jest jednak, aby wiedzieć, że OCD jest w pełni uleczalne.",
+    "p2": "Dzięki odpowiedniemu wsparciu i opiece opartej na dowodach naukowych wiele osób jest w stanie odzyskać kontrolę i żyć pełnią życia."
+  },
+  "is_treatable": {
+    "title": "Czy OCD jest rzeczywiście uleczalne?",
+    "p1": "Tak — i istnieją solidne badania, które to potwierdzają.",
+    "p2": "Około połowa pacjentów bardzo dobrze reaguje na standardowe leczenie pierwszego rzutu. Nawet jeśli pierwsza próba nie przyniesie idealnego efektu, około 70% pacjentów dostrzega znaczącą poprawę, gdy pozostaje zaangażowanych w leczenie i dostosowuje strategie w razie potrzeby.",
+    "quote": "Powrót do zdrowia nie zawsze następuje z dnia na dzień, ale postęp jest jak najbardziej możliwy."
+  },
+  "treatments": {
+    "title": "Jakie metody leczenia są najskuteczniejsze?",
+    "specialized": {
+      "title": "Terapia specjalistyczna",
+      "subtitle": "CBT oparte na ERP",
+      "p1": "OCD składa się z dwóch głównych komponentów:",
+      "obsessions": "natrętne, niepokojące myśli lub impulsy.",
+      "compulsions": "powtarzające się zachowania mające na celu redukcję lęku.",
+      "p2": "Najbardziej skuteczną metodą leczenia OCD jest specyficzna forma terapii poznawczo-behawioralnej zwana metodą ekspozycji i zapobiegania reakcjom (ERP).",
+      "p3": "Zamiast unikać czynników wywołujących niepokój, ERP pomaga osobom:",
+      "steps": [
+        null,
+        "stawić czoła myślom lub sytuacjom wywołującym strach",
+        "Oprzyj się wykonywaniu typowej kompulsywnej reakcji",
+        "Dowiedz się, że lęk naturalnie zmniejsza się bez rytuałów"
+      ],
+      "quote": "Z czasem mózg uczy się na nowo reagować na strach.",
+      "p4": "Terapia zazwyczaj odbywa się co tydzień przez kilka miesięcy. W tym okresie klienci ćwiczą również ćwiczenia między sesjami. Chociaż lęk może tymczasowo nasilać się podczas ekspozycji, ten dyskomfort jest częścią procesu zdrowienia.",
+      "p5": "Badania wskazują, że u większości osób, które aktywnie stosują terapię ERP, obserwuje się znaczną redukcję objawów."
+    }
+  },
+  "get_started": {
+    "title": "Jak zacząć?",
+    "p1": "Pierwszym krokiem jest skontaktowanie się z pracownikiem służby zdrowia — może to być lekarz pierwszego kontaktu, psychiatra lub terapeuta przeszkolony w zakresie leczenia OCD.",
+    "p2": "Skuteczna opieka powinna obejmować:",
+    "care_items": [
+      "Przejrzysta edukacja na temat OCD",
+      "Dyskusja na temat opcji leczenia",
+      "Wspólne podejmowanie decyzji",
+      "Uwzględnienie Twoich preferencji i celów"
+    ],
+    "goals_p": "Cele leczenia często obejmują:",
+    "goal_items": [
+      "Zmniejszanie intensywności objawów",
+      "Poprawa codziennego funkcjonowania",
+      "Zwiększanie jakości życia",
+      "Budowanie narzędzi radzenia sobie w sytuacjach stresowych"
+    ]
+  },
+  "final_word": {
+    "title": "Ostatnie słowo",
+    "p1": "OCD może być uporczywe, ale można sobie z nim poradzić. Wiele osób – w tym klinicyści, naukowcy i osoby z doświadczeniem życiowym – poświęciło swoją pracę poprawie wyników leczenia osób dotkniętych tą chorobą.",
+    "quote": "Przy odpowiednim połączeniu leczenia, cierpliwości i wsparcia możliwy jest pełny powrót do zdrowia."
+  },
+  "common": {
+    "obsessions_label": "Obsesje",
+    "compulsions_label": "Kompulsje"
+  }
+}

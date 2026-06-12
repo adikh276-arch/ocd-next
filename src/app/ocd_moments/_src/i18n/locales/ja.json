@@ -1,0 +1,56 @@
+{
+  "auth": {
+    "loading": "トラッカーを読み込んでいます..."
+  },
+  "index": {
+    "title": "OCDログ",
+    "subtitle": "記録と追跡",
+    "journal": "ジャーナル",
+    "history": "歴史",
+    "analytics": "分析"
+  },
+  "log": {
+    "context": "コンテクスト",
+    "home": "家",
+    "work": "仕事",
+    "social": "社交",
+    "other": "他の",
+    "custom_placeholder": "具体的にどこですか？（例：庭、ジム）",
+    "observation": "観察",
+    "urge_placeholder": "思考や衝動が現れた瞬間を捉えます...",
+    "previous_notes": "{{location}} の以前のメモ",
+    "decision": "決断",
+    "acted_label": "衝動に従って行動する",
+    "waited_label": "待っている",
+    "resisted_label": "行動せずに気づかれる",
+    "complete_session": "セッションを完了する",
+    "success_title": "記録された瞬間",
+    "success_desc": "入力内容は安全に保存されました。",
+    "error_title": "保存に失敗しました",
+    "error_desc": "エントリをデータベースに保存する際に問題が発生しました。"
+  },
+  "history": {
+    "title": "タイムライン",
+    "subtitle": "反省と成長",
+    "journal_date": "ジャーナル日付",
+    "no_entries": "まだエントリーはありません",
+    "start_today": "今日から最初のログを始めましょう"
+  },
+  "insights": {
+    "title": "レスポンスインサイト",
+    "subtitle": "成長分析",
+    "back": "ジャーナルに戻る",
+    "this_week": "今週",
+    "last_week": "先週",
+    "two_weeks_ago": "2週間前",
+    "waiting_data": "データを待っています",
+    "log_entries": "この期間中のログエントリを記録して、ここで進捗パターンを確認してください。",
+    "info": "Insights では、概要を表示するには少なくとも 1 つのエントリが必要であり、パターン分析には 4 つのエントリが必要です。",
+    "activity": "活動",
+    "entry_flows": "エントリーフロー",
+    "pattern_discovery": "パターン発見",
+    "pattern_resisted": "実際に行動に移すよりも、行動に移さずに衝動に気づくことのほうが多かったですね。それは観察力の強さの証です。",
+    "pattern_acted": "この時期、衝動に駆られて行動することが多くなりました。これは単なる旅の途中の段階に過ぎません。変化への第一歩は、あなたの気づきです。",
+    "pattern_balanced": "今期のあなたの反応は均衡が取れていました。あなたは自分の妥協点を見つけつつあるようです。"
+  }
+}

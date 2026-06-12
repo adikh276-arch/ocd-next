@@ -1,0 +1,54 @@
+{
+  "welcome": {
+    "title": "Diario di disordine ed emozioni",
+    "subtitle": "\"Ogni oggetto che conservi custodisce qualcosa per te.\"",
+    "description": "Non si tratta di liberare spazio. Si tratta di capire cosa contengono i tuoi oggetti. 🌸",
+    "instruction": "Pensa a un oggetto che hai conservato a lungo. Qualunque cosa ti venga in mente per prima è quella giusta. ✨",
+    "placeholder": "ad esempio la vecchia sciarpa di mia madre, un orologio rotto",
+    "myJournal": "📖 Il mio diario →",
+    "nextBtn": "Questo è il mio oggetto →"
+  },
+  "exploration": {
+    "title": "Esploriamolo insieme. 🔍",
+    "subtitle": "Rispondi a ciò che ti sembra giusto. Puoi saltare qualche domanda.",
+    "prompt1": "Quando è entrato questo oggetto nella tua vita? Cosa stava succedendo in quel periodo?",
+    "prompt2": "Cosa pensi che accadrebbe se questo oggetto sparisse domani?",
+    "prompt3": "Questo oggetto ti ricorda una persona, un periodo o una versione di te stesso?",
+    "prompt4": "Da cosa ti protegge il possesso di questo oggetto?",
+    "placeholder": "Scrivi liberamente: questo è solo per te. 💭",
+    "back": "← indietro",
+    "next": "successivo →",
+    "nextBtn": "Ho riflettuto abbastanza →"
+  },
+  "insight": {
+    "title": "Cosa hai notato? 💡",
+    "description1": "A volte gli oggetti racchiudono più di semplici cose. Racchiudono sentimenti per i quali non abbiamo ancora trovato un altro posto.",
+    "description2": "Che cosa rappresenta realmente per te questo oggetto?",
+    "option1": "La paura di dimenticare",
+    "option2": "La paura di non averne abbastanza",
+    "option3": "Un ricordo che non sono pronto a perdere",
+    "option4": "Una parte della mia identità",
+    "option5": "Colpa o responsabilità",
+    "option6": "Amore per qualcuno",
+    "option7": "Qualcosa che non riesco ancora a nominare",
+    "footer": "Dare un nome a qualcosa non significa dover agire di conseguenza. La consapevolezza stessa è un'azione. 🌸",
+    "nextBtn": "Ora lo vedo →"
+  },
+  "closing": {
+    "title": "Hai appena fatto qualcosa di coraggioso.",
+    "subtitle": "La maggior parte delle persone non si chiede mai perché si aggrappa a certe cose. Tu l'hai fatto. È da questo tipo di onestà che inizia il vero cambiamento.",
+    "todaysObject": "Oggetto di oggi",
+    "whatsHolding": "Cosa contiene",
+    "footer": "Torna quando sei pronto per esplorare un altro luogo. 🌸",
+    "entriesCount_one": "🌿 {{count}} entry in your journal",
+    "entriesCount_other": "🌿 {{count}} entries in your journal",
+    "viewJournal": "📖 Visualizza i miei post precedenti →",
+    "closeBtn": "Per oggi è tutto."
+  },
+  "journal": {
+    "title": "Il mio diario 📖",
+    "subtitle": "Ogni ingresso è un momento di coraggio.",
+    "empty": "Il tuo diario ti aspetta. Inizia oggi la tua prima riflessione.",
+    "startBtn": "Inizia la partecipazione di oggi →"
+  }
+}

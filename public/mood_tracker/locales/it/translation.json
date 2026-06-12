@@ -1,0 +1,200 @@
+{
+  "404": "404",
+  "title": "Come ti senti?",
+  "subtitle": "Prenditi un momento per riflettere su te stesso.",
+  "history": "Storia dell&#39;umore",
+  "log_another": "Accedi a un altro",
+  "log_mood": "Log Mood",
+  "logging": "Registrazione in corso...",
+  "day_placeholder": "Che giorno è oggi?",
+  "note_placeholder": "Aggiungi una nota (facoltativa) ✏️",
+  "save_success": "Umore registrato!",
+  "save_error": "Non è riuscito a salvare l&#39;umore.",
+  "moods": {
+    "great": "Grande",
+    "good": "Bene",
+    "okay": "Va bene",
+    "low": "Basso",
+    "struggling": "Lottando"
+  },
+  "days": {
+    "Monday": "Lunedi",
+    "Tuesday": "Martedì",
+    "Wednesday": "Mercoledì",
+    "Thursday": "Giovedì",
+    "Friday": "Venerdì",
+    "Saturday": "Sabato",
+    "Sunday": "Domenica"
+  },
+  "messages": {
+    "Monday": {
+      "1": {
+        "heading": "Sii particolarmente gentile oggi 🤍",
+        "body": "Affrontare un lunedì difficile è dura. Ricorda che non devi farti carico di tutto. Sii gentile con te stesso e sappi che il semplice fatto di esserci oggi è già sufficiente."
+      },
+      "2": {
+        "heading": "Affrontiamo il lunedì con delicatezza ☁️",
+        "body": "Sentirsi un po&#39; giù di morale il lunedì è assolutamente comprensibile. L&#39;inizio della settimana può essere pesante. Oggi affronta le cose un passo alla volta."
+      },
+      "3": {
+        "heading": "Trova il tuo ritmo del lunedì 🌊",
+        "body": "Un lunedì &quot;ok&quot; è una vittoria. Ti stai presentando e stai iniziando la settimana con calma. Sii indulgente con te stesso mentre trovi il tuo ritmo oggi."
+      },
+      "4": {
+        "heading": "Lunedì sereno e pieno di energia! ☀️",
+        "body": "Hai iniziato la settimana con il piede giusto. È un&#39;ottima base. Mantieni questo slancio positivo mentre affronti i tuoi impegni del lunedì."
+      },
+      "5": {
+        "heading": "Energia inarrestabile per il lunedì! 🚀",
+        "body": "Iniziare la settimana con un umore &quot;fantastico&quot; è un vero e proprio superpotere. Avrai creato un&#39;atmosfera incredibile che si propagherà per tutta la settimana. Sfrutta questo slancio per affrontare i tuoi obiettivi più ambiziosi oggi stesso!"
+      }
+    },
+    "Tuesday": {
+      "1": {
+        "heading": "Ti mando tanta forza 🫂",
+        "body": "Affrontare una giornata difficile di martedì può far sentire soli, ma non sei solo. Se ne hai bisogno, chiedi aiuto e, oggi, dai la priorità alla tua serenità."
+      },
+      "2": {
+        "heading": "Sii paziente con te stesso oggi 🌿",
+        "body": "Se martedì ti senti un po&#39; giù di morale, ricorda che il progresso non è sempre lineare. Ascolta ciò di cui il tuo corpo e la tua mente hanno bisogno in questo momento."
+      },
+      "3": {
+        "heading": "Tranquillità del martedì 🍃",
+        "body": "Un martedì &quot;nella norma&quot; va benissimo. Stai mantenendo un ritmo costante. Prenditi un momento per apprezzare le piccole vittorie di oggi."
+      },
+      "4": {
+        "heading": "Martedì si preannuncia radioso 🌤️",
+        "body": "Oggi essere di buon umore è un dono. Hai superato la fase più difficile del lunedì e mantieni un atteggiamento positivo. Goditi questa energia positiva!"
+      },
+      "5": {
+        "heading": "Martedì trionfale! ✨",
+        "body": "Oggi sei al settimo cielo! Portare questa energia positiva anche martedì significa che stai acquisendo un vero slancio. Continua a brillare!"
+      }
+    },
+    "Wednesday": {
+      "1": {
+        "heading": "Oggi non sei solo 💜",
+        "body": "Affrontare le difficoltà a metà settimana è difficile. Concediti il permesso di rallentare. Il fine settimana arriverà prima che tu te ne accorga."
+      },
+      "2": {
+        "heading": "Dolcezza di metà settimana ☁️",
+        "body": "Se il mercoledì ti senti giù di morale, prova a trovare una piccola cosa a cui guardare con entusiasmo questa sera. Hai lavorato sodo questa settimana; è normale sentirsi stanchi."
+      },
+      "3": {
+        "heading": "Equilibrio di metà settimana ⚖️",
+        "body": "Un mercoledì &quot;ok&quot; è un&#39;ancora stabile. Sei in equilibrio e stai andando avanti. Fai un respiro profondo: sei a metà strada."
+      },
+      "4": {
+        "heading": "Felicità di mercoledì 🐫",
+        "body": "Sei arrivato a mercoledì con un atteggiamento positivo. Il fine settimana è alle porte! Mantieni questo spirito positivo mentre superi la metà della settimana."
+      },
+      "5": {
+        "heading": "Masterclass infrasettimanale! 🏅",
+        "body": "Siamo a metà settimana e ti senti alla grande! Stai andando alla grande. Sfrutta questo momento di euforia infrasettimanale per fare qualcosa che ti renda veramente felice."
+      }
+    },
+    "Thursday": {
+      "1": {
+        "heading": "Un dolce abbraccio del giovedì 🧸",
+        "body": "Affrontare una giornata difficile di giovedì è segno che la settimana è stata lunga. Sii il tuo migliore amico oggi. Sei quasi arrivato al traguardo del weekend."
+      },
+      "2": {
+        "heading": "Riflessione del giovedì 🍂",
+        "body": "Se oggi ti senti giù di morale, ripensa a tutto ciò che hai già realizzato questa settimana. Hai fatto tanta strada; è normale sentirsi stanchi."
+      },
+      "3": {
+        "heading": "Proseguiamo con calma fino a giovedì 🕰️",
+        "body": "Un giovedì &quot;ok&quot; significa che il lavoro è stato ben fatto. Hai lavorato sodo tutta la settimana. Manca solo un piccolo sforzo: mantieni questo ritmo costante."
+      },
+      "4": {
+        "heading": "Ci siamo quasi, giovedì! 🌅",
+        "body": "Un giovedì &quot;positivo&quot; ti prepara per un weekend fantastico. Senti già il traguardo! Continua a sorridere fino alla fine della giornata."
+      },
+      "5": {
+        "heading": "Giovedì da brividi! 🎡",
+        "body": "Ti senti alla grande con il weekend così vicino? È fantastico! Concludi la settimana in bellezza con questa incredibile carica di energia."
+      }
+    },
+    "Friday": {
+      "1": {
+        "heading": "Energia curativa del venerdì ✨",
+        "body": "Affrontare le difficoltà di fine settimana è davvero impegnativo. Sii orgoglioso di te stesso per essere arrivato a venerdì. Questo fine settimana è dedicato al tuo recupero."
+      },
+      "2": {
+        "heading": "Uscita di venerdì 🌊",
+        "body": "Se il venerdì ti senti giù di morale, concediti un po&#39; di riposo stasera. Hai portato molte cose sul petto questa settimana. È ora di lasciarle andare."
+      },
+      "3": {
+        "heading": "Venerdì di relax 😌",
+        "body": "Un &quot;Okay Friday&quot; significa che ce l&#39;hai fatta. La pressione si sta allentando. Approfitta di questa serata per rilassarti e liberarti dallo stress della settimana."
+      },
+      "4": {
+        "heading": "Venerdì all&#39;insegna del benessere! 🎊",
+        "body": "Il Venerdì Santo è il ponte perfetto verso il fine settimana. Hai affrontato la settimana con successo. Goditi il passaggio al tuo nuovo fine settimana."
+      },
+      "5": {
+        "heading": "Venerdì fantastico! 🥳",
+        "body": "Chiudere la settimana con il piede giusto: che vittoria! Te la sei meritata. Che i festeggiamenti del fine settimana inizino con questa scintilla!"
+      }
+    },
+    "Saturday": {
+      "1": {
+        "heading": "Un sabato rilassante 🕯️",
+        "body": "Affrontare le difficoltà durante il fine settimana può sembrare ancora più difficile. Sii gentile con il tuo cuore oggi. Non esiste un modo giusto o sbagliato di sentirsi, nemmeno di sabato."
+      },
+      "2": {
+        "heading": "Dolcezza del sabato 💤",
+        "body": "Se il sabato ti senti giù di morale, non sentirti obbligato a &quot;fare le cose del fine settimana&quot;. Se hai bisogno di rimanere a casa e riposare, è una scelta perfettamente valida."
+      },
+      "3": {
+        "heading": "Sabato semplice 🍵",
+        "body": "Un sabato &quot;ok&quot; è un momento di pace. Nessuna fretta, nessuna pressione. Oggi basta semplicemente esistere. Goditi i momenti di tranquillità."
+      },
+      "4": {
+        "heading": "Sabato sereno 🏖️",
+        "body": "Sentirsi bene nel giorno libero è una vera benedizione. Che siate attivi o rilassati, godetevi ogni istante di questa positiva atmosfera del fine settimana."
+      },
+      "5": {
+        "heading": "Splendore del sabato! 🌈",
+        "body": "Un sabato &quot;fantastico&quot; è pura magia. È il momento di brillare e godersi la libertà del fine settimana. Crea ricordi indimenticabili oggi stesso!"
+      }
+    },
+    "Sunday": {
+      "1": {
+        "heading": "La domenica dedicata alla cura di sé 💖",
+        "body": "Sentirsi giù di morale la domenica è più comune di quanto si pensi. Concediti un trattamento speciale oggi. Te lo meriti."
+      },
+      "2": {
+        "heading": "Spaventi della domenica, via 🌙",
+        "body": "Se la domenica ti senti giù di morale, prova a concentrarti sul momento presente piuttosto che sul lavoro di domani. Ora sei al sicuro e hai tutto il supporto necessario."
+      },
+      "3": {
+        "heading": "Sistemazione domenicale 🍂",
+        "body": "Una domenica &quot;ok&quot; è il momento perfetto per riflettere e prepararsi. Sei sereno e pronto ad affrontare qualsiasi cosa ti riservi il futuro. Mantieni i piedi per terra."
+      },
+      "4": {
+        "heading": "Atmosfera domenicale rilassante 🕊️",
+        "body": "Sentirsi bene oggi crea un&#39;atmosfera serena per la settimana a venire. Godetevi gli ultimi giorni di weekend con un cuore grato."
+      },
+      "5": {
+        "heading": "Domenica di sole! 🌻",
+        "body": "Una domenica &quot;fantastica&quot; è il modo migliore per ricaricarsi. Ti prepara ad affrontare la prossima settimana con il cuore colmo di gioia. Assapora questa splendida energia oggi!"
+      }
+    }
+  },
+  "access_required": "Accesso Richiesto",
+  "please_access_this_journal_thr": "Si prega di accedere a questa rivista tramite il link ufficiale fornito.",
+  "testing_locally": "Test locali?",
+  "append_a_token_to_your_url": "Aggiungi un token al tuo URL:",
+  "token_your_test_token": "?token=your_test_token",
+  "oops_page_not_found": "Ops! Pagina non trovata",
+  "return_to_home": "Ritorno a casa",
+  "more": "Altro",
+  "previous_slide": "Diapositiva precedente",
+  "next_slide": "Slide successiva",
+  "close": "Chiudi",
+  "previous": "Precedente",
+  "next": "Prossimo",
+  "more_pages": "Altre pagine",
+  "toggle_sidebar": "Toggle Sidebar"
+}

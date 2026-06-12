@@ -1,0 +1,56 @@
+{
+  "auth": {
+    "loading": "Cargando tu rastreador..."
+  },
+  "index": {
+    "title": "Registros de TOC",
+    "subtitle": "Grabar y rastrear",
+    "journal": "Diario",
+    "history": "Historia",
+    "analytics": "Analítica"
+  },
+  "log": {
+    "context": "Contexto",
+    "home": "Hogar",
+    "work": "Trabajar",
+    "social": "Social",
+    "other": "Otro",
+    "custom_placeholder": "¿Dónde exactamente? (p. ej. jardín, gimnasio)",
+    "observation": "Observación",
+    "urge_placeholder": "Captura el pensamiento o impulso tal como aparece...",
+    "previous_notes": "Notas anteriores en {{location}}",
+    "decision": "Decisión",
+    "acted_label": "Actuar según el impulso",
+    "waited_label": "Espera",
+    "resisted_label": "Notado sin actuar",
+    "complete_session": "Sesión completa",
+    "success_title": "Momento registrado",
+    "success_desc": "Su entrada ha sido guardada de forma segura.",
+    "error_title": "No se pudo guardar",
+    "error_desc": "Hubo un problema al guardar su entrada en la base de datos."
+  },
+  "history": {
+    "title": "Cronología",
+    "subtitle": "Reflexiones y crecimiento",
+    "journal_date": "Fecha del diario",
+    "no_entries": "No hay entradas todavía",
+    "start_today": "Empieza tu primer registro hoy"
+  },
+  "insights": {
+    "title": "Perspectivas de respuesta",
+    "subtitle": "Tu análisis de crecimiento",
+    "back": "Volver al diario",
+    "this_week": "Esta semana",
+    "last_week": "La semana pasada",
+    "two_weeks_ago": "Hace 2 semanas",
+    "waiting_data": "Esperando datos",
+    "log_entries": "Registre las entradas durante este período para ver sus patrones de progreso aquí.",
+    "info": "Los conocimientos requieren al menos 1 entrada para mostrar el resumen y 4 entradas para el análisis de patrones.",
+    "activity": "Actividad",
+    "entry_flows": "Flujos de entrada",
+    "pattern_discovery": "Descubrimiento de patrones",
+    "pattern_resisted": "Observaste impulsos sin actuar con más frecuencia de la que los tomaste en cuenta. Eso demuestra la fortaleza de la observación.",
+    "pattern_acted": "Durante este período, actuaste con más frecuencia según tus impulsos. Esta es simplemente una fase del proceso: tu consciencia es el primer paso para cambiar.",
+    "pattern_balanced": "Tus respuestas fueron equilibradas este período. Estás encontrando tu punto medio."
+  }
+}

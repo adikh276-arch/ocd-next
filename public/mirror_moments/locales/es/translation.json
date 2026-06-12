@@ -1,0 +1,44 @@
+{
+  "welcome": {
+    "title": "Trabajo de espejos",
+    "quote": "\"La forma en que te hablas a ti mismo importa más de lo que crees. Este es un momento para ser amable con la persona que más lo necesita: tú mismo.\"",
+    "subtitle": "Busca un momento de tranquilidad. Esto es solo para ti.",
+    "button": "Estoy listo →",
+    "back": "Volver"
+  },
+  "mirror": {
+    "title": "Léelo tú mismo",
+    "description": "Estas son las cosas que tu yo más bondadoso y saludable quiere que escuches. Léelas despacio, en voz alta si puedes. Tómate tu tiempo.",
+    "back": "Volver",
+    "prev": "Anterior",
+    "next": "Próximo",
+    "read_again": "Léelo de nuevo si lo necesitas. No hay prisa.",
+    "complete": "Completo ✓",
+    "completion_msg": "Hoy te has dedicado tiempo a ti misma.\n\nEso lo es todo. 💙",
+    "affirmations": [
+      "No soy mis pensamientos ansiosos.\nMis pensamientos no son hechos.",
+      "Estoy haciendo lo mejor que puedo con lo que tengo ahora mismo.",
+      "Está bien no tener todas las respuestas.\n\nLa incertidumbre es parte de la vida.",
+      "Mi cuerpo no es mi enemigo.\n\nEstá trabajando duro para cuidarme.",
+      "Merezco la misma amabilidad que le brindaría a alguien a quien amo.",
+      "Esta preocupación pasará. Siempre pasa.\nHe superado todos los momentos difíciles hasta ahora.",
+      "Soy mucho más que mi ansiedad por la salud.\nHay mucho más en mí que esto."
+    ]
+  },
+  "notfound": {
+    "title": "404",
+    "subtitle": "¡Ups! Página no encontrada",
+    "return": "Regresar a la página principal"
+  },
+  "common": {
+    "language": "Idioma"
+  },
+  "more": "Más",
+  "previous_slide": "Diapositiva anterior",
+  "next_slide": "Siguiente diapositiva",
+  "close": "Cierre",
+  "previous": "Anterior",
+  "next": "Siguiente",
+  "more_pages": "Más páginas",
+  "toggle_sidebar": "Alternar barra lateral"
+}

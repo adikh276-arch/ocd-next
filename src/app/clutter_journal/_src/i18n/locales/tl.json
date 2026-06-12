@@ -1,0 +1,54 @@
+{
+  "welcome": {
+    "title": "Journal ng Kalat at Emosyon",
+    "subtitle": "\"Bawat bagay na iniingatan mo ay may iniingatan para sa iyo.\"",
+    "description": "Hindi ito tungkol sa pag-aalis ng espasyo. Ito ay tungkol sa pag-unawa kung ano ang laman ng iyong mga gamit. 🌸",
+    "instruction": "Mag-isip ng isang bagay na matagal mo nang hawak. Kung ano ang unang pumapasok sa isip mo, iyon ang tama. ✨",
+    "placeholder": "hal. ang lumang bandana ng aking ina, isang sirang relo",
+    "myJournal": "📖 Aking Talaarawan →",
+    "nextBtn": "Ito ang Aking Layunin →"
+  },
+  "exploration": {
+    "title": "Sabay-sabay nating tuklasin ito. 🔍",
+    "subtitle": "Sagutin kung alin ang sa tingin mo ay tama. Maaari mong laktawan ang alinman.",
+    "prompt1": "Kailan dumating ang bagay na ito sa buhay mo? Ano ang nangyayari noon?",
+    "prompt2": "Ano sa palagay mo ang mangyayari kung wala na ang bagay na ito bukas?",
+    "prompt3": "Ang bagay ba na ito ay nagpapaalala sa iyo ng isang tao, isang panahon, o isang bersyon ng iyong sarili?",
+    "prompt4": "Ano ang pinoprotektahan sa iyo ng pag-iingat ng bagay na ito?",
+    "placeholder": "Malayang sumulat — para lang ito sa iyo. 💭",
+    "back": "← pabalik",
+    "next": "susunod →",
+    "nextBtn": "Sapat Na Ang Pagninilay Ko →"
+  },
+  "insight": {
+    "title": "Ano ang napansin mo? 💡",
+    "description1": "Minsan, ang mga bagay ay may higit pang laman kaysa sa mga bagay-bagay. Mayroon silang mga damdaming hindi pa natin nahahanapan ng ibang lugar para dito.",
+    "description2": "Ano nga ba ang tunay na hawak ng bagay na ito para sa iyo?",
+    "option1": "Isang takot na makalimutan",
+    "option2": "Isang takot na hindi magkaroon ng sapat",
+    "option3": "Isang alaala na hindi pa ako handang mawala",
+    "option4": "Bahagi ng aking pagkakakilanlan",
+    "option5": "Pagkakasala o responsibilidad",
+    "option6": "Pag-ibig para sa isang tao",
+    "option7": "Isang bagay na hindi ko pa mapangalanan",
+    "footer": "Ang pagpapangalan nito ay hindi nangangahulugang kailangan mo itong gawin. Ang kamalayan mismo ang siyang trabaho. 🌸",
+    "nextBtn": "Nakikita Ko Na Ngayon →"
+  },
+  "closing": {
+    "title": "May ginawa ka lang na matapang.",
+    "subtitle": "Karamihan sa mga tao ay hindi nagtatanong kung bakit sila nananatili. Ikaw nga. Sa ganitong uri ng katapatan nagsisimula ang tunay na pagbabago.",
+    "todaysObject": "Bagay ngayon",
+    "whatsHolding": "Ano ang hawak nito",
+    "footer": "Bumalik ka kapag handa ka nang mag-explore ng iba. 🌸",
+    "entriesCount_one": "🌿 {{count}} entry in your journal",
+    "entriesCount_other": "🌿 {{count}} entries in your journal",
+    "viewJournal": "📖 Tingnan ang aking mga nakaraang entry →",
+    "closeBtn": "Sarado na para sa Ngayon"
+  },
+  "journal": {
+    "title": "Aking Dyornal 📖",
+    "subtitle": "Ang bawat entry ay isang sandali ng katapangan.",
+    "empty": "Naghihintay na ang iyong journal. Simulan ang iyong unang pagninilay ngayon.",
+    "startBtn": "Simulan ang Entry Ngayon →"
+  }
+}

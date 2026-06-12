@@ -1,0 +1,32 @@
+{
+  "404": "404",
+  "header": "Suggerimenti per il DOC",
+  "subHeader": "Tecniche di radicamento delicate",
+  "tipBadge": "Mancia",
+  "swipeHint": "scorri per continuare",
+  "prevTip": "Suggerimento precedente",
+  "nextTip": "Prossimo suggerimento",
+  "tips": [
+    "Nota il pensiero e scrivigli con delicatezza: &quot;Questo è un pensiero ossessivo-compulsivo&quot;.",
+    "Lascia che l&#39;incertezza prenda il sopravvento invece di cercare di risolverla immediatamente.",
+    "Lascia che i sentimenti spiacevoli esistano senza giudicarti per averli.",
+    "Ricordati che i pensieri sono eventi mentali, non fatti o intenzioni.",
+    "Concentrati su ciò che stai facendo nel momento presente, non su scenari ipotetici.",
+    "Quando l&#39;ansia aumenta, pratica una respirazione lenta: inspira lentamente, espira ancora più lentamente.",
+    "Mantenere una routine del sonno coerente per favorire la regolazione emotiva.",
+    "Consuma pasti regolari ed equilibrati per evitare picchi di ansia dovuti a scarsa energia.",
+    "Ridurre la caffeina se si nota che aumenta l&#39;irrequietezza o i pensieri intrusivi.",
+    "Sii gentile con te stesso: i progressi nella guarigione dal DOC avvengono passo dopo passo, non in modo perfetto."
+  ],
+  "not_found": "Non trovato",
+  "oops_page_not_found": "Ops! Pagina non trovata",
+  "return_to_home": "Ritorno a casa",
+  "more": "Altro",
+  "previous_slide": "Diapositiva precedente",
+  "next_slide": "Slide successiva",
+  "close": "Chiudi",
+  "previous": "Precedente",
+  "next": "Prossimo",
+  "more_pages": "Altre pagine",
+  "toggle_sidebar": "Toggle Sidebar"
+}

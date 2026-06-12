@@ -1,0 +1,22 @@
+{
+  "404": "404",
+  "title": "Spotkanie wdzięczności",
+  "subtitle": "Wymień 3 rzeczy, za które jesteś wdzięczny",
+  "input_placeholder": "Jestem wdzięczny za...",
+  "submit_button": "Dziennik wdzięczności",
+  "logged_title": "Wdzięczność wyrażona!",
+  "logged_subtitle": "Małe chwile, wielka radość.",
+  "log_another": "Zaloguj się ponownie",
+  "history_title": "Moje dzienniki wdzięczności",
+  "gratitude_history": "Historia wdzięczności",
+  "oops_page_not_found": "Ups! Strona nie znaleziona",
+  "return_to_home": "Powrót do domu",
+  "more": "Więcej",
+  "previous_slide": "Poprzedni slajd",
+  "next_slide": "Następny slajd",
+  "close": "Zamknij",
+  "previous": "Poprzednie",
+  "next": "Następny",
+  "more_pages": "Więcej stron",
+  "toggle_sidebar": "Przełącznik boczny"
+}

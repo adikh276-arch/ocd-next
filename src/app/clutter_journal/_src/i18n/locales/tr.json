@@ -1,0 +1,54 @@
+{
+  "welcome": {
+    "title": "Dağınıklık ve Duygu Günlüğü",
+    "subtitle": "\"Sahip olduğunuz her eşya, sizin için bir şeyler saklıyor demektir.\"",
+    "description": "Bu, yer açmakla ilgili değil. Bu, eşyalarınızın ne içerdiğini anlamakla ilgili. 🌸",
+    "instruction": "Elinizde tuttuğunuz bir eşyayı düşünün. Aklınıza ilk gelen şey doğru olandır. ✨",
+    "placeholder": "Örneğin, annemin eski atkısı, bozuk bir saat.",
+    "myJournal": "📖 Günlüğüm →",
+    "nextBtn": "Bu Benim Nesnem →"
+  },
+  "exploration": {
+    "title": "Bunu birlikte keşfedelim. 🔍",
+    "subtitle": "İçinizden gelen cevabı verin. İstediğinizi atlayabilirsiniz.",
+    "prompt1": "Bu nesne hayatınıza ne zaman girdi? O zamanlar neler oluyordu?",
+    "prompt2": "Yarın bu nesne ortadan kaybolursa ne olacağını hayal ediyorsunuz?",
+    "prompt3": "Bu nesne size bir kişiyi, bir dönemi veya kendinizin bir halini hatırlatıyor mu?",
+    "prompt4": "Bu nesneyi saklamak sizi neyden koruyor?",
+    "placeholder": "Özgürce yazın — bu sadece sizin için. 💭",
+    "back": "← geri",
+    "next": "sonraki →",
+    "nextBtn": "Yeterince Düşündüm →"
+  },
+  "insight": {
+    "title": "Ne fark ettiniz? 💡",
+    "description1": "Bazen nesneler sadece eşyadan daha fazlasını barındırır. Henüz başka bir yer bulamadığımız duyguları da içinde barındırırlar.",
+    "description2": "Bu nesne sizin için gerçekte ne ifade ediyor?",
+    "option1": "Unutma korkusu",
+    "option2": "Yeterli olmama korkusu",
+    "option3": "Kaybetmeye hazır olmadığım bir anı",
+    "option4": "Kimliğimin bir parçası",
+    "option5": "Suçluluk veya sorumluluk",
+    "option6": "Birine duyulan sevgi",
+    "option7": "Henüz adını koyamadığım bir şey",
+    "footer": "Adını koymak, mutlaka harekete geçmeniz gerektiği anlamına gelmez. Farkındalığın kendisi işin ta kendisidir. 🌸",
+    "nextBtn": "Şimdi Anlıyorum →"
+  },
+  "closing": {
+    "title": "Az önce cesurca bir şey yaptın.",
+    "subtitle": "Çoğu insan neden tutunduklarını asla sorgulamaz. Siz sorguladınız. İşte bu tür bir dürüstlük, gerçek değişimin başladığı yerdir.",
+    "todaysObject": "Bugünkü konu",
+    "whatsHolding": "İçinde ne tutuyor?",
+    "footer": "Başka yerleri keşfetmeye hazır olduğunuzda geri gelin. 🌸",
+    "entriesCount_one": "🌿 {{count}} entry in your journal",
+    "entriesCount_other": "🌿 {{count}} entries in your journal",
+    "viewJournal": "📖 Önceki yazılarımı görüntüle →",
+    "closeBtn": "Bugünlük kapalı"
+  },
+  "journal": {
+    "title": "Günlüğüm 📖",
+    "subtitle": "Her katılım bir cesaret anıdır.",
+    "empty": "Günlüğünüz sizi bekliyor. İlk düşüncelerinizi bugün yazmaya başlayın.",
+    "startBtn": "Bugünkü Girişi Başlat →"
+  }
+}

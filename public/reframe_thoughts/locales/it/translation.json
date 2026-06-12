@@ -1,0 +1,81 @@
+{
+  "404": "404",
+  "activity_name": "Riformulare i pensieri",
+  "intro": {
+    "title": "Analizziamo il concetto da un&#39;altra prospettiva.",
+    "p1": "La nostra mente genera pensieri automatici, soprattutto quando l&#39;ansia è elevata.",
+    "p2": "Alcuni sembrano urgenti. Altri sembrano convincenti.",
+    "p3": "Ma i pensieri sono interpretazioni, non fatti.",
+    "p4": "Oggi ci eserciteremo a rimodellarne delicatamente uno.",
+    "button": "Sono pronto a provare."
+  },
+  "identify": {
+    "title": "Qual era il pensiero?",
+    "p1": "Scrivi il pensiero esattamente come ti è apparso nella mente.",
+    "p2": "Nessuna modifica. Nessuna correzione.",
+    "placeholder": "Ad esempio, &quot;Se commetto un errore, tutto crollerà.&quot;",
+    "hint": "Presta attenzione al tono del pensiero.",
+    "button": "Lo vedo chiaramente."
+  },
+  "examine": {
+    "title": "Rallentiamo.",
+    "question": "Cosa fa sì che questo pensiero sembri vero? È:",
+    "hint": "L&#39;ansia spesso amplifica le possibilità trasformandole in certezze.",
+    "button": "Va bene…"
+  },
+  "reframe": {
+    "title": "Qual è una versione più equilibrata?",
+    "p1": "Non si tratta di fingere che vada tutto bene.",
+    "p2": "Si tratta di aggiungere prospettiva.",
+    "list_title": "Prova a scrivere un pensiero che sia:",
+    "list_item1": "Più realistico",
+    "list_item2": "Meno consumatore",
+    "list_item3": "Basato su prove",
+    "placeholder": "Scrivi una versione più equilibrata…",
+    "original_label": "Originale:",
+    "balanced_label": "Equilibrato:",
+    "example_original": "Se lo penso, dev&#39;essere vero.",
+    "example_balanced": "I pensieri nascono automaticamente. Non definiscono le mie azioni.",
+    "button": "Questo dà una sensazione di maggiore concretezza."
+  },
+  "integration": {
+    "title": "Notate il cambiamento.",
+    "p1": "Confronta il pensiero originale con quello riformulato.",
+    "p2": "Il nuovo pensiero:",
+    "list_item1": "Ridurre l&#39;urgenza?",
+    "list_item2": "Creare spazio?",
+    "list_item3": "Ti senti un po&#39; più flessibile?",
+    "hint": "Anche piccoli cambiamenti contribuiscono a rafforzare la resilienza.",
+    "button": "Posso esercitarmi in questo."
+  },
+  "completion": {
+    "title": "Avere una prospettiva diversa rafforza.",
+    "subtitle": "Ti sei esercitato a rispondere in modo diverso.",
+    "p1": "Questo è progresso.",
+    "try_again": "Riprova",
+    "show_saved": "Mostra le mie voci salvate"
+  },
+  "distortions": {
+    "prediction": "Una previsione",
+    "worst_case": "Uno scenario peggiore",
+    "assumption": "Un&#39;ipotesi",
+    "feeling": "Un sentimento mascherato da fatto"
+  },
+  "saved_entries": {
+    "title": "Le mie voci salvate",
+    "loading": "Caricamento dei log in corso...",
+    "no_entries": "Nessuna voce salvata al momento.",
+    "the_thought": "Il pensiero",
+    "reframed": "Riformulato"
+  },
+  "oops_page_not_found": "Ops! Pagina non trovata",
+  "return_to_home": "Ritorno a casa",
+  "more": "Altro",
+  "previous_slide": "Diapositiva precedente",
+  "next_slide": "Slide successiva",
+  "close": "Chiudi",
+  "previous": "Precedente",
+  "next": "Prossimo",
+  "more_pages": "Altre pagine",
+  "toggle_sidebar": "Toggle Sidebar"
+}

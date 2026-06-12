@@ -1,0 +1,81 @@
+{
+  "404": "404",
+  "activity_name": "Düşünceleri Yeniden Şekillendirin",
+  "intro": {
+    "title": "Gelin, konuya farklı bir açıdan bakalım.",
+    "p1": "Zihnimiz, özellikle kaygı düzeyi yüksek olduğunda, otomatik düşünceler üretir.",
+    "p2": "Kimileri acil bir durum hissediyor. Kimileri ise ikna edici olmaya çalışıyor.",
+    "p3": "Ancak düşünceler yorumdur, gerçek değildir.",
+    "p4": "Bugün, bunlardan birini nazikçe yeniden şekillendirmeyi uygulayacağız.",
+    "button": "Denemeye hazırım."
+  },
+  "identify": {
+    "title": "Düşünce neydi?",
+    "p1": "Aklınıza geldiği gibi, düşünceyi aynen yazın.",
+    "p2": "Düzenleme yok. Düzeltme yok.",
+    "placeholder": "Örneğin, &quot;Eğer bir hata yaparsam, her şey altüst olur.&quot;",
+    "hint": "Düşüncenin tonuna dikkat edin.",
+    "button": "Ben bunu gayet net görüyorum."
+  },
+  "examine": {
+    "title": "Biraz yavaşlayalım.",
+    "question": "Bu düşünceyi doğru kılan nedir? Acaba:",
+    "hint": "Kaygı çoğu zaman olasılıkları kesinliklere dönüştürür.",
+    "button": "Tamam aşkım…"
+  },
+  "reframe": {
+    "title": "Daha dengeli bir versiyon hangisi?",
+    "p1": "Bu, her şeyin yolunda olduğunu假pretend etmekle ilgili değil.",
+    "p2": "Burada önemli olan bakış açısı eklemek.",
+    "list_title": "Şöyle bir düşünce yazmayı deneyin:",
+    "list_item1": "Daha gerçekçi",
+    "list_item2": "Daha az aşırı",
+    "list_item3": "Kanıtlara dayalı",
+    "placeholder": "Daha dengeli bir versiyonunu yazın…",
+    "original_label": "Orijinal:",
+    "balanced_label": "Dengeli:",
+    "example_original": "Eğer ben böyle düşünüyorsam, doğru olmalı.",
+    "example_balanced": "Düşünceler otomatik olarak oluşur. Eylemlerimi belirlemezler.",
+    "button": "Bu daha gerçekçi geliyor."
+  },
+  "integration": {
+    "title": "Değişimi fark edin.",
+    "p1": "Orijinal düşünce ile yeniden formüle edilmiş düşünceyi karşılaştırın.",
+    "p2": "Yeni düşünce şu anlama geliyor:",
+    "list_item1": "Aciliyet duygusunu azaltmak mı?",
+    "list_item2": "Alan yaratmak mı?",
+    "list_item3": "Kendinizi biraz daha esnek hissediyor musunuz?",
+    "hint": "Küçük değişimler bile dayanıklılığı artırır.",
+    "button": "Bunu pratik edebilirim."
+  },
+  "completion": {
+    "title": "Bakış açısı güç kazandırır.",
+    "subtitle": "Farklı tepkiler vermeyi prova ettiniz.",
+    "p1": "Bu bir ilerleme.",
+    "try_again": "Tekrar deneyin",
+    "show_saved": "Kaydedilmiş girişlerimi göster"
+  },
+  "distortions": {
+    "prediction": "Bir tahmin",
+    "worst_case": "En kötü senaryo",
+    "assumption": "Bir varsayım",
+    "feeling": "Gerçek gibi görünen bir duygu"
+  },
+  "saved_entries": {
+    "title": "Kaydedilmiş Girişlerim",
+    "loading": "Kayıt dosyalarınız yükleniyor...",
+    "no_entries": "Henüz hiçbir kayıt kaydedilmedi.",
+    "the_thought": "Düşünce",
+    "reframed": "Yeniden çerçevelenmiş"
+  },
+  "oops_page_not_found": "Hop! Sayfa bulunmadı",
+  "return_to_home": "Eve Dönüş",
+  "more": "Daha fazlası",
+  "previous_slide": "Önceki slayt",
+  "next_slide": "Sonraki slayt",
+  "close": "Kapat",
+  "previous": "Önceki",
+  "next": "Sıradaki",
+  "more_pages": "Daha fazla sayfa",
+  "toggle_sidebar": "Yan Çubuğu Aç"
+}

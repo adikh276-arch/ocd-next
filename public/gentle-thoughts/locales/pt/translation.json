@@ -1,0 +1,32 @@
+{
+  "404": "404",
+  "header": "Dicas para TOC",
+  "subHeader": "Técnicas suaves de ancoragem",
+  "tipBadge": "Dica",
+  "swipeHint": "deslize para continuar",
+  "prevTip": "Dica anterior",
+  "nextTip": "Próxima dica",
+  "tips": [
+    "Observe o pensamento e rotule-o gentilmente: &quot;Este é um pensamento TOC&quot;.",
+    "Aceite a incerteza em vez de tentar resolvê-la imediatamente.",
+    "Permita que sentimentos desconfortáveis existam sem se julgar por tê-los.",
+    "Lembre-se de que pensamentos são eventos mentais, não fatos ou intenções.",
+    "Concentre-se no que você está fazendo no momento presente, não em cenários hipotéticos.",
+    "Pratique a respiração lenta quando a ansiedade aumentar — inspire lentamente e expire ainda mais lentamente.",
+    "Mantenha uma rotina de sono consistente para auxiliar na regulação emocional.",
+    "Faça refeições regulares e equilibradas para evitar picos de ansiedade causados pela falta de energia.",
+    "Reduza a cafeína se notar que ela aumenta a inquietação ou pensamentos intrusivos.",
+    "Seja gentil consigo mesmo — o progresso na recuperação do TOC acontece passo a passo, não de forma perfeita."
+  ],
+  "not_found": "Não Encontrado",
+  "oops_page_not_found": "Ops! Página não encontrada",
+  "return_to_home": "Retorno ao Lar",
+  "more": "Mais",
+  "previous_slide": "Slide anterior",
+  "next_slide": "Próximo slide",
+  "close": "Fechar",
+  "previous": "Anterior",
+  "next": "Próximo",
+  "more_pages": "Mais páginas",
+  "toggle_sidebar": "Alternar a barra lateral"
+}

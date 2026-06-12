@@ -1,0 +1,32 @@
+{
+  "404": "404",
+  "header": "Mẹo dành cho người mắc chứng rối loạn ám ảnh cưỡng chế (OCD)",
+  "subHeader": "Các kỹ thuật tiếp đất nhẹ nhàng",
+  "tipBadge": "Mẹo",
+  "swipeHint": "vuốt để tiếp tục",
+  "prevTip": "Mẹo trước đó",
+  "nextTip": "Mẹo tiếp theo",
+  "tips": [
+    "Hãy nhận biết suy nghĩ đó và nhẹ nhàng gọi tên nó: &quot;Đây là một suy nghĩ của người bị rối loạn ám ảnh cưỡng chế.&quot;",
+    "Hãy chấp nhận sự không chắc chắn thay vì cố gắng giải quyết nó ngay lập tức.",
+    "Hãy để những cảm xúc khó chịu tồn tại mà không cần phán xét bản thân vì có chúng.",
+    "Hãy tự nhắc nhở bản thân rằng suy nghĩ là những sự kiện trong tâm trí, chứ không phải là sự thật hay ý định.",
+    "Hãy tập trung vào những gì bạn đang làm ở hiện tại, đừng nghĩ đến những kịch bản &quot;nếu như&quot;.",
+    "Hãy tập hít thở chậm khi lo lắng dâng cao — hít vào chậm, thở ra còn chậm hơn nữa.",
+    "Hãy duy trì thói quen ngủ đều đặn để hỗ trợ điều chỉnh cảm xúc.",
+    "Hãy ăn uống đều đặn và cân bằng để tránh tình trạng lo lắng tăng cao do thiếu năng lượng.",
+    "Hãy giảm lượng caffeine nếu bạn nhận thấy nó làm tăng sự bồn chồn hoặc những suy nghĩ xâm chiếm tâm trí.",
+    "Hãy đối xử tử tế với bản thân — quá trình hồi phục sau OCD diễn ra từng bước một, chứ không hoàn hảo."
+  ],
+  "not_found": "Không tìm thấy",
+  "oops_page_not_found": "Rất tiếc! Không tìm thấy trang",
+  "return_to_home": "Trở về nhà",
+  "more": "Xem thêm",
+  "previous_slide": "Trang trình bày trước",
+  "next_slide": "Trang trình bày tiếp theo",
+  "close": "Đóng",
+  "previous": "Trước",
+  "next": "Kế tiếp",
+  "more_pages": "Các trang khác",
+  "toggle_sidebar": "Chuyển đổi thanh bên"
+}
