@@ -1,4 +1,4 @@
-import { neon } from '@neondatabase/serverless';
+import { getEntriesServer, saveEntryServer } from './tracker-storage-actions';
 
 export interface TrackerEntry {
   date: string;
@@ -12,9 +12,6 @@ export interface TrackerEntry {
 }
 
 const STORAGE_KEY = "confidence_tracker_entries";
-const DATABASE_URL = process.env.DATABASE_URL!;
-
-const sql = neon(DATABASE_URL);
 
 /**
  * Gets the current authenticated user ID from sessionStorage.
@@ -30,32 +27,13 @@ function getUserId(): string {
   return userId;
 }
 
-/**
- * Ensures the user exists in the Neon database before operating on their data.
- * This is the "User Initialization" upsert required by the handshake protocol.
- */
-async function ensureUserInitialized(userId: string): Promise<void> {
-  try {
-    await sql`
-      INSERT INTO public.ocd_users (id) 
-      VALUES (${userId}) 
-      ON CONFLICT (id) DO NOTHING
-    `;
-  } catch (error) {
-    console.error("Error initializing user in Neon:", error);
-  }
-}
+
 
 export async function getEntries(): Promise<TrackerEntry[]> {
   const userId = getUserId();
   try {
-    const rows = await sql`
-      SELECT date, confidence_score, decisiveness_score, avoided, avoidance_reason, custom_reason_text, context, created_at
-      FROM confidence_tracker_entries
-      WHERE user_id = ${userId}
-      ORDER BY date DESC
-    `;
-    return rows as unknown as TrackerEntry[];
+    const rows = await getEntriesServer(userId);
+    return rows;
   } catch (error) {
     console.error('Error fetching entries from Neon, falling back to local storage:', error);
     const raw = localStorage.getItem(`${STORAGE_KEY}_${userId}`);
@@ -65,26 +43,8 @@ export async function getEntries(): Promise<TrackerEntry[]> {
 
 export async function saveEntry(entry: TrackerEntry): Promise<void> {
   const userId = getUserId();
-  
-  // Ensure user exists before saving data (User Initialization)
-  await ensureUserInitialized(userId);
-
   try {
-    await sql`
-      INSERT INTO confidence_tracker_entries (
-        user_id, date, confidence_score, decisiveness_score, avoided, avoidance_reason, custom_reason_text, context, created_at
-      ) VALUES (
-        ${userId}, ${entry.date}, ${entry.confidence_score}, ${entry.decisiveness_score}, ${entry.avoided}, ${entry.avoidance_reason}, ${entry.custom_reason_text}, ${entry.context}, ${entry.created_at}
-      )
-      ON CONFLICT (user_id, date) DO UPDATE SET
-        confidence_score = EXCLUDED.confidence_score,
-        decisiveness_score = EXCLUDED.decisiveness_score,
-        avoided = EXCLUDED.avoided,
-        avoidance_reason = EXCLUDED.avoidance_reason,
-        custom_reason_text = EXCLUDED.custom_reason_text,
-        context = EXCLUDED.context,
-        created_at = EXCLUDED.created_at
-    `;
+    await saveEntryServer(userId, entry);
   } catch (error) {
     console.error('Error saving entry to Neon, direct saving to local storage:', error);
   } finally {
