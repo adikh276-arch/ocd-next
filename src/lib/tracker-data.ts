@@ -22,7 +22,7 @@ export async function getEntries(userId: string): Promise<PerformanceEntry[]> {
       WHERE user_id = ${userId} 
       ORDER BY date DESC
     `;
-    return result.map(row => ({
+    return result.map((row: any) => ({
       ...row,
       date: new Date(row.date).toISOString().slice(0, 10),
       priority_completed: Boolean(row.priority_completed),
@@ -103,7 +103,7 @@ export async function getLast7Days(userId: string): Promise<PerformanceEntry[]> 
       WHERE user_id = ${userId} AND date >= CURRENT_DATE - INTERVAL '7 days'
       ORDER BY date ASC
     `;
-    return result.map(row => ({
+    return result.map((row: any) => ({
       ...row,
       date: new Date(row.date).toISOString().slice(0, 10),
       priority_completed: Boolean(row.priority_completed)
@@ -121,7 +121,7 @@ export async function getLast14Days(userId: string): Promise<PerformanceEntry[]>
       WHERE user_id = ${userId} AND date >= CURRENT_DATE - INTERVAL '14 days'
       ORDER BY date ASC
     `;
-    return result.map(row => ({
+    return result.map((row: any) => ({
       ...row,
       date: new Date(row.date).toISOString().slice(0, 10),
       priority_completed: Boolean(row.priority_completed)
