@@ -51,7 +51,7 @@ export const StandardFinishCard = ({
         uid: uid
       };
       console.log("Triggering completion webhook:", payload);
-      fetch("https://api.mantracare.com", {
+      fetch("https://api.mantracare.com/webhook/pathway", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify(payload)
