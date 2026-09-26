@@ -4,6 +4,7 @@ import { StandardCompletionModal } from "@/components/StandardCompletionModal";
 import { useState } from "react";
 import { ArrowLeft } from "lucide-react";
 import { useTranslation } from "react-i18next";
+import { handleExit } from "@/lib/navigation";
 const Index = () => {
     const { t } = useTranslation("ocd_tips");
     const TIPS = [
@@ -35,13 +36,7 @@ const Index = () => {
       <div className="w-full flex flex-col gap-8 mb-10 z-10 relative">
         <div className="flex items-center justify-between">
           <button
-            onClick={() => {
-              if (window.parent !== window) {
-                 window.parent.postMessage({ action: 'exit' }, 'https://web.mantracare.com');
-              } else {
-                 window.location.href = 'https://web.mantracare.com';
-              }
-             }}
+            onClick={handleExit}
             className="p-2 rounded-full hover:bg-slate-100 transition-colors text-slate-500"
           >
             <ArrowLeft size={20} />
@@ -75,7 +70,7 @@ const Index = () => {
         emoji="💡"
         title={t("tips_to_remember")}
         description={t("small_wins_lead_to_big_changes_every_insight_you_gain_makes_")}
-        onDone={() => window.history.back()}
+        onDone={handleExit}
         onStartOver={() => {
           setShowCompletion(false);
           setRestartKey(prev => prev + 1);

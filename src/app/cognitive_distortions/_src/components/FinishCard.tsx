@@ -1,6 +1,7 @@
 import { StandardCompletionModal } from "@/components/StandardCompletionModal";
 import { useState } from "react";
 import { useTranslation } from "react-i18next";
+import { handleExit } from "@/lib/navigation";
 
 interface FinishCardProps {
     onStartOver: () => void;
@@ -46,7 +47,7 @@ const FinishCard: React.FC<FinishCardProps> = ({ onStartOver, onComplete, saving
                     description={t("awareness_is_the_first_step_toward_freedom_share_t")}
                     showHome={false}
                     onStartOver={onStartOver}
-                    onDone={() => window.history.back()}
+                    onDone={() => handleExit()}
                     />
             </div>
         );

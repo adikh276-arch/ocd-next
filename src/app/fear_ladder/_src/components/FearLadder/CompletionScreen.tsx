@@ -4,6 +4,7 @@ import { useEffect, useState } from "react";
 import { StandardFinishCard } from "@/components/StandardFinishCard";
 import { StandardCompletionModal } from "@/components/StandardCompletionModal";
 import { useTranslation } from "react-i18next";
+import { handleExit } from "@/lib/navigation";
 
 interface CompletionScreenProps {
   logs: DayLog[];
@@ -115,7 +116,7 @@ const CompletionScreen = ({ logs, steps, onStartNew, onReviewProgress }: Complet
         onStartOver={onStartNew}
         startOverText={t("start_a_new_journey")}
         showHome={false}
-        onDone={() => window.history.back()}
+        onDone={handleExit}
       />
     </div>
   );

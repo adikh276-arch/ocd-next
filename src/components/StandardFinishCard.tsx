@@ -3,6 +3,7 @@
 import React from "react";
 import { useTranslation } from "react-i18next";
 import { ShareActivity } from "@/components/ShareActivity";
+import { handleExit } from "@/lib/navigation";
 
 interface Props {
   title?: string;
@@ -102,11 +103,7 @@ export const StandardFinishCard = ({
               triggerWebhook();
               if (onDone) onDone();
               else {
-                if (window.parent !== window) {
-                  window.parent.postMessage({ action: 'exit' }, 'https://web.mantracare.com');
-                } else {
-                  window.location.href = 'https://web.mantracare.com';
-                }
+                handleExit();
               }
             }}
             className="w-full px-10 py-4 rounded-2xl bg-slate-100 text-slate-900 border border-slate-200 font-bold text-base shadow-sm hover:bg-slate-200 transition-all active:scale-[0.96] flex items-center justify-center gap-2"

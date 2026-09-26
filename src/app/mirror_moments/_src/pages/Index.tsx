@@ -4,6 +4,7 @@ import { StandardCompletionModal } from "@/components/StandardCompletionModal";
 import { motion, AnimatePresence } from "framer-motion";
 import { useTranslation } from "react-i18next";
 import { useSearchParams } from 'next/navigation';
+import { handleExit } from "@/lib/navigation";
 
 const emojiMap = ["🌿", "💙", "🌊", "✨", "🤍", "🌸", "💛"];
 
@@ -90,13 +91,7 @@ const Index = () => {
         <div className="flex items-center justify-between">
           <div className="flex items-center gap-4">
             <button
-              onClick={() => {
-                if (window.parent !== window) {
-                   window.parent.postMessage({ action: 'exit' }, 'https://web.mantracare.com');
-                } else {
-                   window.location.href = 'https://web.mantracare.com';
-                }
-               }}
+              onClick={handleExit}
               className="p-2 rounded-xl bg-white text-slate-500 hover:text-primary hover:shadow-md transition-all border border-slate-100"
             >
               <ArrowLeft size={20} />
@@ -271,7 +266,7 @@ const Index = () => {
         description={t("youve_looked_in_the_mirror_and_seen_your_true_wort", "You've looked in the mirror and seen your true worth. Carry these affirmations in your heart today.")}
         onStartOver={reset}
         startOverText={t("review_guide", "Review Guide")}
-        onDone={() => window.history.back()}
+        onDone={handleExit}
         showHome={false}
       />
     </div>

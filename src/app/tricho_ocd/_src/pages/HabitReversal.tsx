@@ -3,6 +3,7 @@ import { motion, AnimatePresence } from "framer-motion";
 import { Scissors, Brain, Hand, CheckCircle2, ChevronRight, ChevronLeft, RotateCcw } from "lucide-react";
 import { useTranslation } from "react-i18next";
 import { StandardCompletionModal } from "@/components/StandardCompletionModal";
+import { handleExit } from "@/lib/navigation";
 
 const HabitReversal = () => {
     const { t } = useTranslation("tricho_ocd");
@@ -45,7 +46,7 @@ const HabitReversal = () => {
     if (step > 0) {
       setStep(step - 1);
     } else {
-      window.history.back();
+      handleExit();
     }
   };
 
@@ -119,7 +120,7 @@ const HabitReversal = () => {
         emoji="💪"
         title={t("practice_makes_permanent")}
         description={t("hrt_completion_desc", "You've completed this introductory session. The key to habit reversal is consistent practice during real-world urges.")}
-        onDone={() => window.history.back()}
+        onDone={handleExit}
         onStartOver={() => setStep(0)}
         showHome={false}
       />

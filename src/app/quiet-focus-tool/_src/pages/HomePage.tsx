@@ -3,6 +3,7 @@ import { useNavigate } from "react-router-dom";
 import { Target, Pause, Tag, Sparkles, ArrowRight, ArrowLeft } from "lucide-react";
 import { motion } from "framer-motion";
 import { useTranslation } from "react-i18next";
+import { handleExit } from "@/lib/navigation";
 
 interface Activity {
   id: string;
@@ -83,13 +84,7 @@ const HomePage = () => {
 
       <div className="w-full max-w-lg z-10">
         <button 
-          onClick={() => {
-            if (window.parent !== window) {
-              window.parent.postMessage({ action: 'exit' }, 'https://web.mantracare.com');
-            } else {
-              window.location.href = 'https://web.mantracare.com';
-            }
-          }}
+          onClick={handleExit}
           className="absolute top-8 left-8 p-3 rounded-full bg-white/20 hover:bg-white/50 text-slate-500 transition-all border border-slate-100/50"
         >
           <ArrowLeft size={20} />

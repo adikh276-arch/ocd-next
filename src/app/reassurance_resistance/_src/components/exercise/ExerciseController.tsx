@@ -17,6 +17,7 @@ import Screen10Closing from "./Screen10Closing";
 import { useTranslation } from "react-i18next";
 import { useSearchParams } from "next/navigation";
 import { useEffect } from "react";
+import { handleExit } from "@/lib/navigation";
 
 type Screen = 'welcome' | 'whats-happening' | 'breathing' | 'name-it' | 'body-check' | 'the-wait' | 'during-wait' | 'reflection' | 'build-habit' | 'closing';
 
@@ -136,13 +137,7 @@ const ExerciseController: React.FC = () => {
       {/* Top Nav Bar */}
       <div className="w-full px-6 py-4 flex items-center justify-between z-10">
         <button
-          onClick={() => {
-            if (window.parent !== window) {
-                window.parent.postMessage({ action: 'exit' }, 'https://web.mantracare.com');
-            } else {
-                window.location.href = 'https://web.mantracare.com';
-            }
-            }}
+          onClick={handleExit}
           className="p-2 rounded-xl bg-white text-slate-500 hover:text-primary hover:shadow-md transition-all border border-slate-100"
         >
           <ArrowLeft size={20} />
@@ -275,7 +270,7 @@ const ExerciseController: React.FC = () => {
         description={t("youve_practiced_resisting_the_urge_for_reassurance")}
         onStartOver={resetExercise}
         startOverText={t("practice_again")}
-        onDone={() => window.history.back()}
+        onDone={handleExit}
         showHome={false}
       />
     </div>

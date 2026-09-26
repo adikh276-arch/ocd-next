@@ -9,6 +9,7 @@ import Screen2Notice from "./Screen2Notice";
 import Screen3Ride from "./Screen3Ride";
 import Screen4Reflect from "./Screen4Reflect";
 import { useTranslation } from "react-i18next";
+import { handleExit } from "@/lib/navigation";
 
 type Screen = "welcome" | "notice" | "ride" | "reflect";
 
@@ -77,13 +78,7 @@ const UrgeSurfingActivity = () => {
         <div className="flex items-center justify-between">
           <div className="flex items-center gap-4">
             <button 
-              onClick={() => {
-                if (window.parent !== window) {
-                   window.parent.postMessage({ action: 'exit' }, 'https://web.mantracare.com');
-                } else {
-                   window.location.href = 'https://web.mantracare.com';
-                }
-               }}
+              onClick={handleExit}
               className="p-2 rounded-full hover:bg-slate-100 transition-colors text-slate-500"
             >
               <ArrowLeft size={20} />
@@ -157,7 +152,7 @@ const UrgeSurfingActivity = () => {
         description={t("you_successfully_surfed_the_urge_every_wave_you_ri")}
         onStartOver={() => setScreen("notice")}
         startOverText={t("surf_again")}
-        onDone={() => window.history.back()}
+        onDone={handleExit}
       />
     </div>
   );

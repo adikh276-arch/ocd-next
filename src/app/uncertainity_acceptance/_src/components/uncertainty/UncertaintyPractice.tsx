@@ -7,6 +7,7 @@ import Screen1Intro from "./Screen1Intro";
 import Screen2NameDoubt from "./Screen2NameDoubt";
 import Screen3Acceptance from "./Screen3Acceptance";
 import { useTranslation } from "react-i18next";
+import { handleExit } from "@/lib/navigation";
 
 type Screen = "intro" | "name" | "acceptance";
 
@@ -48,14 +49,6 @@ const UncertaintyPractice = () => {
       toast.error("Failed to save progress.");
     } finally {
       setSaving(false);
-    }
-  };
-
-  const handleExit = () => {
-    if (window.parent !== window) {
-      window.parent.postMessage({ action: 'exit' }, 'https://web.mantracare.com');
-    } else {
-      window.location.href = 'https://web.mantracare.com';
     }
   };
 
@@ -138,7 +131,7 @@ const UncertaintyPractice = () => {
           sessionDataRef.current = {};
         }}
         startOverText={t("practice_again")}
-        onDone={() => window.history.back()}
+        onDone={handleExit}
       />
     </div>
   );

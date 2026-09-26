@@ -4,6 +4,7 @@ import { useNavigate } from "react-router-dom";
 import { motion } from "framer-motion";
 import { CheckCircle2, Home, ArrowRight, Heart } from "lucide-react";
 import { useTranslation } from "react-i18next";
+import { handleExit } from "@/lib/navigation";
 
 interface CompletionScreenProps {
   title?: string;
@@ -74,13 +75,7 @@ const CompletionScreen = ({
         title={title || 'Well done'}
         description={message || "You took time for yourself. That matters. Share your focus session to encourage others to take a moment of quiet."}
         onStartOver={handleReturn}
-        onDone={() => {
-          if (window.parent !== window) {
-            window.parent.postMessage({ action: 'exit' }, 'https://web.mantracare.com');
-          } else {
-            window.location.href = 'https://web.mantracare.com';
-          }
-        }}
+        onDone={handleExit}
         showHome={false}
       />
     </div>

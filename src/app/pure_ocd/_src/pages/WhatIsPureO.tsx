@@ -1,6 +1,7 @@
 import { StandardCompletionModal } from "@/components/StandardCompletionModal";
 import { useState } from "react";
 import { useTranslation } from "react-i18next";
+import { handleExit } from "@/lib/navigation";
 const Index = () => {
     const { t } = useTranslation("pure_ocd");
     const thoughtCards = [
@@ -81,7 +82,7 @@ const Index = () => {
         title={t("knowledge_is_power")}
         description={t("noticing_these_patterns_is_the_first_step_toward_f")}
         startOverText={t("read_guide_again")}
-        onDone={() => window.history.back()}
+        onDone={handleExit}
         onStartOver={() => window.location.reload()}
         showHome={false}
       />

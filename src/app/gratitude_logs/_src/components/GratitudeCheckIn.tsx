@@ -4,6 +4,7 @@ import { ArrowLeft, CheckCircle, Heart } from "lucide-react";
 import { ActivityHistoryDrawer } from "@/components/ActivityHistoryDrawer";
 import { StandardCompletionModal } from "@/components/StandardCompletionModal";
 import { useTranslation } from "react-i18next";
+import { handleExit } from "@/lib/navigation";
 
 const GratitudeHeart = ({ color }: { color: string }) => (
   <svg width="24" height="24" viewBox="0 0 24 24" fill={color} xmlns="http://www.w3.org/2000/svg" className="shrink-0">
@@ -64,13 +65,7 @@ const GratitudeCheckIn = () => {
       <div className="w-full flex flex-col gap-8 mb-10 z-10 relative">
         <div className="flex items-center justify-between">
           <button
-            onClick={() => {
-              if (window.parent !== window) {
-                 window.parent.postMessage({ action: 'exit' }, 'https://web.mantracare.com');
-              } else {
-                 window.location.href = 'https://web.mantracare.com';
-              }
-             }}
+            onClick={handleExit}
             className="p-2 rounded-full hover:bg-slate-100 transition-colors text-slate-500"
           >
             <ArrowLeft size={20} />
@@ -158,7 +153,7 @@ const GratitudeCheckIn = () => {
         description={t("each_moment_of_gratitude_is_a_seed_of_joy_youre_cu")}
         onStartOver={handleReset}
         startOverText={t("log_another")}
-        onDone={() => window.history.back()}
+        onDone={handleExit}
         showHome={false}
       />
     </div>

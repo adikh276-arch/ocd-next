@@ -5,6 +5,7 @@ import { Brain, Sparkles, Heart, ChevronRight, RotateCcw, Info, AlertCircle, Che
 import { toast } from "sonner";
 import { ActivityHistoryDrawer } from "@/components/ActivityHistoryDrawer";
 import { useTranslation } from "react-i18next";
+import { handleExit } from "@/lib/navigation";
 
 type Screen = "welcome" | "before" | "quiz" | "results";
 
@@ -100,14 +101,6 @@ const ThoughtOrTruth = () => {
     setScore(0);
     setFeedback(null);
     setScreen("welcome");
-  };
-
-  const handleExit = () => {
-    if (window.parent !== window) {
-      window.parent.postMessage({ action: 'exit' }, 'https://web.mantracare.com');
-    } else {
-      window.location.href = 'https://web.mantracare.com';
-    }
   };
 
   const goBack = useCallback(() => {
@@ -364,7 +357,7 @@ const ThoughtOrTruth = () => {
         onStartOver={restart}
         startOverText={t("try_again")}
         showHome={false}
-        onDone={() => window.history.back()}
+        onDone={handleExit}
       />
     </div>
   );

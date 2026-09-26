@@ -1,9 +1,10 @@
 "use client";
 
-import { useState } from "react";
+import { useState, useEffect } from "react";
 import Link from "next/link";
 import { useRouter } from "next/navigation";
 import { motion } from "framer-motion";
+import { forceExit } from "@/lib/navigation";
 import { 
   ChevronLeft, 
   MessageCircle, 
@@ -55,8 +56,19 @@ interface TopicCard {
 }
 
 export function OCDSelfCare() {
-    const { t } = useTranslation("ocd-self-care");
+  const { t } = useTranslation("ocd-self-care");
   const router = useRouter();
+
+  useEffect(() => {
+    if (typeof window !== "undefined") {
+      try {
+        sessionStorage.setItem("opened_from_hub", "true");
+        sessionStorage.setItem("hub_return_url", window.location.pathname + window.location.search);
+      } catch (e) {
+        // ignore
+      }
+    }
+  }, []);
 
   const topicCards: TopicCard[] = [
     { id: "ocd-tips", icon: Lightbulb, label: t("ocd_tips"), bgColor: "#FFF4E5", iconColor: "#FFB347", url: "/ocd_tips" },
@@ -109,13 +121,7 @@ export function OCDSelfCare() {
             className="mb-10 flex items-center gap-6"
           >
             <button
-              onClick={() => {
-                if (window.parent !== window) {
-                  window.parent.postMessage({ action: 'exit' }, 'https://web.mantracare.com');
-                } else {
-                  window.location.href = 'https://web.mantracare.com';
-                }
-              }}
+              onClick={forceExit}
               className="w-10 h-10 flex items-center justify-center rounded-full text-slate-500 hover:bg-slate-100 hover:text-slate-800 transition-colors"
             >
               <ChevronLeft size={24} strokeWidth={2} />

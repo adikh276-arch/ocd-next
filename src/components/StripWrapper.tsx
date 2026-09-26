@@ -3,6 +3,7 @@
 import { usePathname } from "next/navigation";
 import { ArrowLeft } from "lucide-react";
 import Link from "next/link";
+import { handleExit } from "@/lib/navigation";
 
 export function StripWrapper({ children }: { children: React.ReactNode }) {
   const pathname = usePathname();
@@ -20,13 +21,7 @@ export function StripWrapper({ children }: { children: React.ReactNode }) {
     <div className="min-h-[100dvh] w-full bg-slate-50/50 flex flex-col items-center relative">
       {/* Universal Floating Back Button */}
       <button 
-        onClick={() => {
-          if (window.parent !== window) {
-            window.parent.postMessage({ action: 'exit' }, 'https://web.mantracare.com');
-          } else {
-            window.location.href = 'https://web.mantracare.com';
-          }
-        }}
+        onClick={() => handleExit()}
         className="fixed top-4 left-4 md:top-6 md:left-6 z-50 flex items-center justify-center w-10 h-10 rounded-full bg-white/90 backdrop-blur-sm border border-border shadow-sm text-muted-foreground hover:text-foreground hover:bg-slate-50 hover:shadow-md transition-all active:scale-95"
         aria-label="Exit Activity"
       >

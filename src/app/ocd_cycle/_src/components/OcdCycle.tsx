@@ -3,6 +3,7 @@ import { Brain, Zap, RefreshCw, Heart, ArrowLeft } from "lucide-react";
 import { StandardCompletionModal } from "@/components/StandardCompletionModal";
 import { ActivityHistoryDrawer } from "@/components/ActivityHistoryDrawer";
 import { useTranslation } from "react-i18next";
+import { handleExit } from "@/lib/navigation";
 
 type StageType = "obsession" | "anxiety" | "compulsion" | "relief" | "mantra";
 
@@ -169,13 +170,7 @@ const OcdCycle = () => {
         <div className="flex items-center justify-between">
           <div className="flex items-center gap-4">
             <button
-              onClick={() => {
-                if (window.parent !== window) {
-                   window.parent.postMessage({ action: 'exit' }, 'https://web.mantracare.com');
-                } else {
-                   window.location.href = 'https://web.mantracare.com';
-                }
-               }}
+              onClick={handleExit}
               className="p-2 rounded-full hover:bg-slate-100 transition-colors text-slate-500"
             >
               <ArrowLeft size={20} />
@@ -301,7 +296,7 @@ const OcdCycle = () => {
         onStartOver={() => setStep(0)}
         startOverText={t("restart_tour", "Restart Tour")}
         showHome={false}
-        onDone={() => window.history.back()}
+        onDone={handleExit}
       />
     </div>
   );

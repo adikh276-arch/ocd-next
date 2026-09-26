@@ -4,6 +4,7 @@ import { Play, Pause, RotateCcw, Heart, ArrowLeft } from "lucide-react";
 import { StandardCompletionModal } from "@/components/StandardCompletionModal";
 import { ActivityHistoryDrawer } from "@/components/ActivityHistoryDrawer";
 import { useTranslation } from "react-i18next";
+import { handleExit } from "@/lib/navigation";
 
 /* ─── Shared sub-components ──────────────────────────────────────────────────── */
 function GradientBadge({ children }: { children: React.ReactNode }) {
@@ -185,7 +186,7 @@ const HeartMeditation = () => {
       <div className="w-full max-w-md flex flex-col gap-4 mb-6 z-10">
         <div className="flex items-center justify-between">
           <button 
-            onClick={() => window.history.back()}
+            onClick={handleExit}
             className="p-2 rounded-full hover:bg-white/50 transition-colors text-muted-foreground"
           >
             <ArrowLeft size={20} />
@@ -373,7 +374,7 @@ const HeartMeditation = () => {
         onStartOver={reset}
         startOverText={t("practice_again", "Practice Again")}
         showHome={false}
-        onDone={() => window.history.back()}
+        onDone={() => handleExit()}
       />
     </div>
   );

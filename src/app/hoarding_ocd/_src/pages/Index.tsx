@@ -2,6 +2,7 @@ import { StandardCompletionModal } from "@/components/StandardCompletionModal";
 import { ArrowLeft } from "lucide-react";
 import { useState } from "react";
 import { useTranslation } from "react-i18next";
+import { handleExit } from "@/lib/navigation";
 const Index = () => {
     const { t } = useTranslation("hoarding_ocd");
     const keyPoints = [
@@ -21,13 +22,7 @@ const Index = () => {
         <div className="flex items-center justify-between">
           <div className="flex items-center gap-4">
             <button 
-              onClick={() => {
-                if (window.parent !== window) {
-                   window.parent.postMessage({ action: 'exit' }, 'https://web.mantracare.com');
-                } else {
-                   window.location.href = 'https://web.mantracare.com';
-                }
-               }}
+              onClick={handleExit}
               className="p-2 rounded-full hover:bg-slate-100 transition-colors text-slate-500"
             >
               <ArrowLeft size={20} />
@@ -101,7 +96,7 @@ const Index = () => {
         title={t("courage_in_letting_go")}
         description={t("reclaiming_your_space_takes_courage_youve_taken_th")}
         startOverText={t("read_guide_again")}
-        onDone={() => window.history.back()}
+        onDone={handleExit}
         onStartOver={() => window.location.reload()}
         showHome={false}
       />

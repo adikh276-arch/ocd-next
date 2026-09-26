@@ -5,6 +5,7 @@ import Insights from '../components/Insights';
 import { TrendingUp, PenLine, Clock, ArrowLeft } from 'lucide-react';
 import { motion, AnimatePresence } from 'framer-motion';
 import { useTranslation } from "react-i18next";
+import { handleExit } from "@/lib/navigation";
 
 type Tab = 'log' | 'history' | 'insights';
 
@@ -22,13 +23,7 @@ const Index = () => {
       <div className="w-full flex flex-col gap-8 mb-10 z-10">
         <div className="flex items-center">
           <button 
-            onClick={() => {
-              if (window.parent !== window) {
-                 window.parent.postMessage({ action: 'exit' }, 'https://web.mantracare.com');
-              } else {
-                 window.location.href = 'https://web.mantracare.com';
-              }
-             }}
+            onClick={handleExit}
             className="p-2 rounded-full hover:bg-slate-100 transition-colors text-slate-500"
           >
             <ArrowLeft size={20} />

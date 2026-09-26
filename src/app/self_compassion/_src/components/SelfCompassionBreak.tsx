@@ -4,6 +4,7 @@ import { StandardCompletionModal } from "@/components/StandardCompletionModal";
 import { Heart, User, MessageCircle, ChevronRight, Activity, Info, CheckCircle2, ArrowLeft, ChevronLeft } from "lucide-react";
 import { ActivityHistoryDrawer } from "@/components/ActivityHistoryDrawer";
 import { useTranslation } from "react-i18next";
+import { handleExit } from "@/lib/navigation";
 
 const BreathingHeart = () => {
     const { t } = useTranslation("self_compassion");
@@ -100,13 +101,7 @@ const SelfCompassionBreak = () => {
         <div className="flex items-center justify-between">
           <div className="flex items-center gap-4">
             <button
-              onClick={() => {
-                if (window.parent !== window) {
-                   window.parent.postMessage({ action: 'exit' }, 'https://web.mantracare.com');
-                } else {
-                   window.location.href = 'https://web.mantracare.com';
-                }
-               }}
+              onClick={handleExit}
               className="p-2 rounded-full hover:bg-slate-100 transition-colors text-slate-500"
             >
               <ArrowLeft size={20} />
@@ -360,7 +355,7 @@ const SelfCompassionBreak = () => {
                     description={t("every_step_of_self-kindness_rewires_your_brain_for")}
                     onStartOver={reset}
                     startOverText={t("review_guide")}
-                    onDone={() => window.history.back()}
+                    onDone={handleExit}
                     showHome={false}
                  />
               </motion.div>

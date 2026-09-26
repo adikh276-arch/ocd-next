@@ -1,6 +1,7 @@
 import { StandardCompletionModal } from "@/components/StandardCompletionModal";
 import { useState } from "react";
 import { useTranslation } from "react-i18next";
+import { handleExit } from "@/lib/navigation";
 const Index = () => {
     const { t } = useTranslation("tricho_ocd");
     const keyPoints = [
@@ -80,7 +81,7 @@ const Index = () => {
         title={t("awareness__compassion")}
         description={t("understanding_your_experience_is_the_first_step_to")}
         startOverText={t("read_guide_again")}
-        onDone={() => window.history.back()}
+        onDone={handleExit}
         onStartOver={() => window.location.reload()}
         showHome={false}
       />

@@ -93,8 +93,9 @@ const TABLE_MAP: Record<string, { table: string; columns: string[]; aliases?: Re
 };
 
 export async function POST(req: Request) {
+  let body: any;
   try {
-    const body = await req.json();
+    body = await req.json();
     console.log(`[API] POST /api/logs | activity: ${body.activity_slug} | user: ${body.user_id}`);
     const { activity_slug, payload, user_id } = body;
 

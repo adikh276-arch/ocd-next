@@ -8,6 +8,7 @@ import { StandardCompletionModal } from "@/components/StandardCompletionModal";
 import { ActivityHistoryDrawer } from "@/components/ActivityHistoryDrawer";
 import { motion, AnimatePresence } from "framer-motion";
 import { useTranslation } from "react-i18next";
+import { handleExit } from "@/lib/navigation";
 
 function ActivityButton({ children, onClick, disabled }: { children: React.ReactNode; onClick: () => void; disabled?: boolean }) {
     const { t } = useTranslation("reframe_thoughts");
@@ -98,13 +99,7 @@ const ReframeThoughts = () => {
         <div className="flex items-center justify-between">
           <div className="flex items-center gap-4">
             <button 
-              onClick={() => {
-                if (window.parent !== window) {
-                   window.parent.postMessage({ action: 'exit' }, 'https://web.mantracare.com');
-                } else {
-                   window.location.href = 'https://web.mantracare.com';
-                }
-               }}
+              onClick={handleExit}
               className="p-2 rounded-full hover:bg-slate-100 transition-colors text-slate-500"
             >
               <ArrowLeft size={20} />
@@ -304,7 +299,7 @@ const ReframeThoughts = () => {
         onStartOver={restart}
         startOverText={t("reframe_another")}
         showHome={false}
-        onDone={() => window.history.back()}
+        onDone={handleExit}
       />
     </div>
   );

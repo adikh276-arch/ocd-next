@@ -2,6 +2,7 @@ import { StandardCompletionModal } from "@/components/StandardCompletionModal";
 import { useState } from "react";
 import { CheckCircle2, Leaf } from "lucide-react";
 import { useTranslation } from "react-i18next";
+import { handleExit } from "@/lib/navigation";
 
 export interface Feeling {
   emoji: string;
@@ -116,7 +117,7 @@ const ClosingScreen = ({ feeling, roomLabel, onClose }: ClosingScreenProps) => {
         description={t("youve_created_a_safe_space_within_yourself_this_fe")}
         showHome={false}
         onStartOver={() => window.location.reload()}
-        onDone={() => window.history.back()}
+        onDone={handleExit}
       />
     </div>
   );

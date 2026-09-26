@@ -4,6 +4,7 @@ import { techniques } from "@/app/grounded_techniques/_src/data/techniques";
 import { ActivityHistoryDrawer } from "@/components/ActivityHistoryDrawer";
 import { motion } from "framer-motion";
 import { useTranslation } from "react-i18next";
+import { handleExit } from "@/lib/navigation";
 
 const ICON_MAP: Record<string, any> = {
   water: Droplets,
@@ -33,7 +34,7 @@ const Index = () => {
       <div className="w-full max-w-md mx-auto mb-6 relative z-10">
         <div className="flex items-center justify-between mb-4">
           <button
-            onClick={() => window.history.back()}
+            onClick={() => handleExit()}
             className="w-9 h-9 rounded-full bg-card/90 border border-border/50 flex flex-col items-center justify-center text-muted-foreground hover:text-foreground hover:bg-card hover:shadow-sm transition-all active:scale-95 shrink-0 backdrop-blur-sm"
             aria-label={t("go_back")}
           >

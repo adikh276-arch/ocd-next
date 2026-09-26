@@ -6,6 +6,7 @@ import TimerScreen from "@/app/brave_steps/_src/components/erp/TimerScreen";
 import WrapUpScreen from "@/app/brave_steps/_src/components/erp/WrapUpScreen";
 import { ArrowLeft, ChevronLeft } from "lucide-react";
 import { useTranslation } from "react-i18next";
+import { handleExit } from "@/lib/navigation";
 
 const Index = () => {
     const { t } = useTranslation("brave_steps");
@@ -36,14 +37,6 @@ const Index = () => {
     if (screen > 0) {
       if (screen === 3) setScreen(1);
       else setScreen(screen - 1);
-    }
-  };
-
-  const handleExit = () => {
-    if (window.parent !== window) {
-      window.parent.postMessage({ action: 'exit' }, 'https://web.mantracare.com');
-    } else {
-      window.location.href = 'https://web.mantracare.com';
     }
   };
 

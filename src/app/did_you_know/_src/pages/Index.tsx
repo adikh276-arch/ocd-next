@@ -4,6 +4,7 @@ import WelcomeScreen from "@/app/did_you_know/_src/components/DidYouKnow/Welcome
 import CardsScreen from "@/app/did_you_know/_src/components/DidYouKnow/CardsScreen";
 import { ArrowLeft, ChevronLeft } from "lucide-react";
 import { useTranslation } from "react-i18next";
+import { handleExit } from "@/lib/navigation";
 
 type Screen = "welcome" | "cards";
 
@@ -20,13 +21,7 @@ const Index = () => {
       {/* Global Exit-Logic Back Button */}
       <div className="w-full flex items-center justify-between mb-8 z-20 relative">
         <button 
-          onClick={() => {
-            if (window.parent !== window) {
-               window.parent.postMessage({ action: 'exit' }, 'https://web.mantracare.com');
-            } else {
-               window.location.href = 'https://web.mantracare.com';
-            }
-           }}
+          onClick={handleExit}
           className="p-2 rounded-full hover:bg-slate-100/50 transition-all text-slate-500 bg-white shadow-sm border border-slate-100"
           aria-label={t("exit")}
         >

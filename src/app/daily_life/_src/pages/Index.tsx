@@ -7,6 +7,7 @@ import ImpactSlider from "@/app/daily_life/_src/components/ImpactSlider";
 import WeeklyInsights from "@/app/daily_life/_src/components/WeeklyInsights";
 import { toast } from "sonner";
 import { useTranslation } from "react-i18next";
+import { handleExit } from "@/lib/navigation";
 type View = "daily" | "history" | "insights";
 
 const Index = () => {
@@ -95,13 +96,7 @@ const Index = () => {
       <div className="w-full flex flex-col gap-8 mb-10 z-10 relative">
         <div className="flex items-center">
           <button 
-            onClick={() => {
-              if (window.parent !== window) {
-                 window.parent.postMessage({ action: 'exit' }, 'https://web.mantracare.com');
-              } else {
-                 window.location.href = 'https://web.mantracare.com';
-              }
-             }}
+            onClick={handleExit}
             className="p-2 rounded-full hover:bg-slate-100 transition-colors text-slate-500"
           >
             <ArrowLeft size={20} />
@@ -243,6 +238,7 @@ const Index = () => {
         description={t("every_daily_check-in_builds_a_clearer_picture_of_y")}
         showHome={false}
         onStartOver={reset}
+        onDone={handleExit}
       />
     </div>
   );

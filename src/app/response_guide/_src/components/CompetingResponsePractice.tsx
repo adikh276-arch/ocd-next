@@ -5,6 +5,7 @@ import { StandardCompletionModal } from "@/components/StandardCompletionModal";
 import { ActivityHistoryDrawer } from "@/components/ActivityHistoryDrawer";
 import { Hand, Timer, ArrowLeft, Zap, Info, CheckCircle2, Waves, ChevronRight, ChevronLeft } from "lucide-react";
 import { useTranslation } from "react-i18next";
+import { handleExit } from "@/lib/navigation";
 
 const MOVES = [
   "clench_both_fists",
@@ -80,13 +81,7 @@ const CompetingResponsePractice = () => {
         <div className="flex items-center justify-between">
           <div className="flex items-center gap-4">
             <button 
-              onClick={() => {
-                if (window.parent !== window) {
-                   window.parent.postMessage({ action: 'exit' }, 'https://web.mantracare.com');
-                } else {
-                   window.location.href = 'https://web.mantracare.com';
-                }
-               }}
+              onClick={handleExit}
               className="p-2 rounded-full hover:bg-slate-100 transition-colors text-slate-500"
             >
               <ArrowLeft size={20} />
@@ -280,7 +275,7 @@ const CompetingResponsePractice = () => {
          onStartOver={reset}
          startOverText={t("practice_again")}
          showHome={false}
-         onDone={() => window.history.back()}
+         onDone={handleExit}
       />
     </div>
   );

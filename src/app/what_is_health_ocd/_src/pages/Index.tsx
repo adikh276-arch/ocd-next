@@ -4,6 +4,7 @@ import { ArrowLeft, Stethoscope, Search, MessageSquare, AlertTriangle, ShieldChe
 import { StandardCompletionModal } from "@/components/StandardCompletionModal";
 import { useTranslation } from "react-i18next";
 import { useSearchParams } from 'next/navigation';
+import { handleExit } from "@/lib/navigation";
 
 const Index = () => {
   const { t, i18n } = useTranslation(["what_is_health_ocd", "common"]);
@@ -59,13 +60,7 @@ const Index = () => {
         <div className="flex items-center justify-between">
           <div className="flex items-center gap-4">
             <button
-              onClick={() => {
-                if (window.parent !== window) {
-                   window.parent.postMessage({ action: 'exit' }, 'https://web.mantracare.com');
-                } else {
-                   window.location.href = 'https://web.mantracare.com';
-                }
-               }}
+              onClick={handleExit}
               className="p-2 rounded-xl bg-white text-slate-500 hover:text-primary hover:shadow-md transition-all border border-slate-100"
             >
               <ArrowLeft size={20} />
@@ -150,7 +145,7 @@ const Index = () => {
         title={t("knowledge_is_power", "Knowledge is Power")}
         description={t("youve_taken_the_first_step_by_educating_yourself_r", "You've taken the first step by educating yourself. Understanding how Health OCD works is the key to breaking the cycle.")}
         startOverText={t("read_guide_again", "Read Guide Again")}
-        onDone={() => window.history.back()}
+        onDone={handleExit}
         onStartOver={() => setShowCompletion(false)}
         showHome={false}
       />

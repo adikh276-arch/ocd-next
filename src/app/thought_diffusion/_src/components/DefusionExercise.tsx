@@ -9,6 +9,7 @@ import Screen3Tool from "./screens/Screen3Tool";
 import Screen4Practice from "./screens/Screen4Practice";
 import Screen5Reflection from "./screens/Screen5Reflection";
 import { useTranslation } from "react-i18next";
+import { handleExit } from "@/lib/navigation";
 
 const TOTAL_SCREENS = 5;
 
@@ -66,14 +67,6 @@ const DefusionExercise: React.FC = () => {
     setFeeling("");
     setShowCompletion(false);
   }, []);
-
-  const handleExit = () => {
-    if (window.parent !== window) {
-      window.parent.postMessage({ action: 'exit' }, 'https://web.mantracare.com');
-    } else {
-      window.location.href = 'https://web.mantracare.com';
-    }
-  };
 
   return (
     <div className="w-full max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-8 md:py-12 relative font-sans theme-thought-diffusion bg-transparent">
@@ -159,7 +152,7 @@ const DefusionExercise: React.FC = () => {
         description={t("youve_practiced_looking_at_intrusive_thoughts_with")}
         onStartOver={resetExercise}
         startOverText={t("practice_again")}
-        onDone={() => window.history.back()}
+        onDone={handleExit}
         showHome={false}
       />
     </div>

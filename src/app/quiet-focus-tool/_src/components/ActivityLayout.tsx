@@ -2,6 +2,7 @@ import { useNavigate } from "react-router-dom";
 import { ArrowLeft, ChevronLeft } from "lucide-react";
 import { motion } from "framer-motion";
 import { useTranslation } from "react-i18next";
+import { handleExit } from "@/lib/navigation";
 
 interface ActivityLayoutProps {
   children: React.ReactNode;
@@ -29,13 +30,7 @@ const ActivityLayout = ({
     <div className={`min-h-screen ${bgColorClass} relative flex flex-col font-sans text-slate-900 overflow-x-hidden scrollbar-hide`}>
       {/* Global Exit Button */}
       <button 
-        onClick={() => {
-          if (window.parent !== window) {
-            window.parent.postMessage({ action: 'exit' }, 'https://web.mantracare.com');
-          } else {
-            window.location.href = 'https://web.mantracare.com';
-          }
-        }}
+        onClick={handleExit}
         className="absolute top-6 left-6 md:top-8 md:left-8 z-50 p-3 rounded-full bg-white/50 hover:bg-white text-slate-500 hover:text-primary shadow-sm transition-all border border-slate-100/50"
       >
         <ArrowLeft size={20} />

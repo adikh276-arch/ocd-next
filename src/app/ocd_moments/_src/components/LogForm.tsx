@@ -5,6 +5,7 @@ import { toast } from 'sonner';
 import { motion, AnimatePresence } from 'framer-motion';
 import { StandardCompletionModal } from "@/components/StandardCompletionModal";
 import { useTranslation } from "react-i18next";
+import { handleExit } from "@/lib/navigation";
 
 /* ─── Shared sub-components ──────────────────────────────────────────────────── */
 function ActivityButton({ children, onClick, disabled, loading }: { children: React.ReactNode; onClick: () => void; disabled?: boolean; loading?: boolean }) {
@@ -260,7 +261,7 @@ export default function LogForm() {
         onStartOver={() => setShowCompletion(false)}
         startOverText={t("log_new_moment")}
         showHome={false}
-        onDone={() => window.history.back()}
+        onDone={handleExit}
       />
     </div>
   );

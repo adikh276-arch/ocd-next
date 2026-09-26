@@ -4,6 +4,7 @@ import CycleWheel, { NODES_META } from "./CycleWheel";
 import { ArrowLeft } from "lucide-react";
 
 import { useTranslation } from "react-i18next";
+import { handleExit } from "@/lib/navigation";
 const BreakCycleScreen = ({ onComplete, onBack, onReset }: { onComplete: () => void; onBack: () => void; onReset: () => void }) => {
     const { t } = useTranslation("anxiety_cycle");
     const TIPS = [
@@ -113,7 +114,7 @@ const BreakCycleScreen = ({ onComplete, onBack, onReset }: { onComplete: () => v
         description={t("understanding_the_loop_is_the_first_step_out_of_it")}
         showHome={false}
         onStartOver={onReset}
-        onDone={() => window.history.back()}
+        onDone={() => handleExit()}
       />
     </div>
   );

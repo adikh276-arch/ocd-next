@@ -2,6 +2,7 @@ import { StandardCompletionModal } from "@/components/StandardCompletionModal";
 import { BookOpen, CheckCircle2, Heart, ArrowLeft } from "lucide-react";
 import { useState } from "react";
 import { useTranslation } from "react-i18next";
+import { handleExit } from "@/lib/navigation";
 
 const ReadingSection = ({ children }: { children: React.ReactNode }) => (
   <section className="py-8 border-b border-slate-100 last:border-0">
@@ -42,7 +43,7 @@ const Index = () => {
       <div className="w-full flex flex-col gap-8 mb-10 z-10 relative">
         <div className="flex items-center justify-between">
           <button
-            onClick={() => window.history.back()}
+            onClick={handleExit}
             className="p-2 rounded-full hover:bg-slate-100 transition-colors text-slate-500"
           >
             <ArrowLeft size={20} />
@@ -183,7 +184,7 @@ const Index = () => {
         title={t("knowledge_is_power")}
         description={t("youve_taken_the_first_step_by_educating_yourself_r")}
         startOverText={t("read_guide_again")}
-        onDone={() => window.history.back()}
+        onDone={handleExit}
         onStartOver={() => window.location.reload()}
         showHome={false}
       />

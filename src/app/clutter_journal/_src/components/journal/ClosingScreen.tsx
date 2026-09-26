@@ -2,6 +2,7 @@ import { useState } from "react";
 import { StandardCompletionModal } from "@/components/StandardCompletionModal";
 import { BookOpen, ChevronRight, CheckCircle2 } from "lucide-react";
 import { useTranslation } from "react-i18next";
+import { handleExit } from "@/lib/navigation";
 
 interface ClosingScreenProps {
   objectName: string;
@@ -91,7 +92,7 @@ const ClosingScreen = ({ objectName, insight, onViewJournal, onReset }: ClosingS
         description={t("every_entry_is_a_moment_of_courage_youre_learning_")}
         showHome={false}
         onStartOver={onReset}
-        onDone={() => window.history.back()}
+        onDone={handleExit}
       />
     </div>
   );

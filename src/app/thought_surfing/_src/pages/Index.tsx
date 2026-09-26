@@ -5,6 +5,7 @@ import { StandardCompletionModal } from "@/components/StandardCompletionModal";
 import { ActivityHistoryDrawer } from "@/components/ActivityHistoryDrawer";
 import { motion, AnimatePresence } from "framer-motion";
 import { useTranslation } from "react-i18next";
+import { handleExit } from "@/lib/navigation";
 
 const Index = () => {
     const { t } = useTranslation("thought_surfing");
@@ -46,7 +47,7 @@ const Index = () => {
           <button
             onClick={() => {
               if (activeTab === 'practice') setActiveTab('overview');
-              else window.history.back();
+              else handleExit();
             }}
             className="w-9 h-9 rounded-full bg-card/90 border border-border/50 flex flex-col items-center justify-center text-muted-foreground hover:text-foreground hover:bg-card hover:shadow-sm transition-all active:scale-95 shrink-0 backdrop-blur-sm"
             aria-label={t("go_back")}
@@ -163,7 +164,7 @@ const Index = () => {
         description={t("each_time_you_let_a_leaf_float_by_you_strengthen_y")}
         onStartOver={() => window.location.reload()}
         startOverText={t("resume_practice")}
-        onDone={() => window.history.back()}
+        onDone={handleExit}
       />
     </div>
   );

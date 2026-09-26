@@ -10,6 +10,7 @@ import Screen3CostReveal from "./Screen3CostReveal";
 import Screen4Completion from "./Screen4Completion";
 import { Ritual } from "./types";
 import { useTranslation } from "react-i18next";
+import { handleExit } from "@/lib/navigation";
 
 type Screen = "intro" | "rituals" | "reveal" | "complete";
 
@@ -59,14 +60,6 @@ const RitualCostCalculator = () => {
     if (screen === "rituals") setScreen("intro");
     else if (screen === "reveal") setScreen("rituals");
     else if (screen === "complete") setScreen("reveal");
-  };
-
-  const handleExit = () => {
-    if (window.parent !== window) {
-      window.parent.postMessage({ action: 'exit' }, 'https://web.mantracare.com');
-    } else {
-      window.location.href = 'https://web.mantracare.com';
-    }
   };
 
   return (
@@ -161,7 +154,7 @@ const RitualCostCalculator = () => {
           setRituals([]);
         }}
         startOverText={t("start_new_analysis")}
-        onDone={() => window.history.back()}
+        onDone={handleExit}
       />
     </div>
   );

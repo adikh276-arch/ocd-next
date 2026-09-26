@@ -6,6 +6,7 @@ import { StandardCompletionModal } from "@/components/StandardCompletionModal";
 import { ActivityHistoryDrawer } from "@/components/ActivityHistoryDrawer";
 import { motion, AnimatePresence } from "framer-motion";
 import { useTranslation } from "react-i18next";
+import { handleExit } from "@/lib/navigation";
 
 const ICON_MAP: Record<string, any> = {
   water: Droplets,
@@ -160,7 +161,7 @@ export default function TechniqueDetail() {
           setCurrentStep(0);
         }}
         startOverText={t("practice_again")}
-        onDone={() => window.history.back()}
+        onDone={() => handleExit()}
       />
     </div>
   );

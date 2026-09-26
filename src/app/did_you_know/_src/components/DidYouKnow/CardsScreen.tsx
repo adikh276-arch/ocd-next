@@ -4,6 +4,7 @@ import { RotateCcw, CheckCircle2, ChevronLeft, ChevronRight, Waves } from "lucid
 import { cards } from "./cardData";
 import { StandardCompletionModal } from "@/components/StandardCompletionModal";
 import { useTranslation } from "react-i18next";
+import { handleExit } from "@/lib/navigation";
 
 interface CardsScreenProps {
   onRestart: () => void;
@@ -168,7 +169,7 @@ const CardsScreen = ({ onRestart }: CardsScreenProps) => {
           onRestart();
         }}
         startOverText={t("back_to_start")}
-        onDone={() => window.history.back()}
+        onDone={() => handleExit()}
       />
     </div>
   );

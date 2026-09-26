@@ -6,6 +6,7 @@ import RevealScreen from "../components/activity/RevealScreen";
 import FeelingScreen, { type Feeling } from "../components/activity/FeelingScreen";
 import ClosingScreen from "../components/activity/ClosingScreen";
 import { useTranslation } from "react-i18next";
+import { handleExit } from "@/lib/navigation";
 
 type Screen = 'welcome' | 'pick' | 'reveal' | 'feeling' | 'closing';
 
@@ -37,13 +38,7 @@ const Index = () => {
         <div className="flex items-center justify-between">
           <div className="flex items-center gap-4">
             <button 
-              onClick={() => {
-                if (window.parent !== window) {
-                  window.parent.postMessage({ action: 'exit' }, 'https://web.mantracare.com');
-                } else {
-                  window.location.href = 'https://web.mantracare.com';
-                }
-              }}
+              onClick={handleExit}
               className="p-2 rounded-xl bg-white text-slate-500 hover:text-primary hover:shadow-md transition-all border border-slate-100"
             >
               <ArrowLeft size={20} />

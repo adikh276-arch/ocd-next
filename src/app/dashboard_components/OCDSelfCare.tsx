@@ -1,5 +1,6 @@
 "use client";
 
+import { useState, useEffect } from "react";
 import Link from "next/link";
 import { useRouter } from "next/navigation";
 import { motion } from "framer-motion";
@@ -8,21 +9,22 @@ import {
   BookOpen, 
   Heart, 
   Shield, 
-  Brain,
-  Zap,
-  TrendingUp,
-  HeartPulse,
-  RefreshCw,
-  Star,
-  FolderTree,
-  Smile,
-  Calendar,
-  Clock,
-  Lightbulb,
-  Award,
-  Wind
+  Brain, 
+  Zap, 
+  TrendingUp, 
+  HeartPulse, 
+  RefreshCw, 
+  Star, 
+  FolderTree, 
+  Smile, 
+  Calendar, 
+  Clock, 
+  Lightbulb, 
+  Award, 
+  Wind 
 } from "lucide-react";
 import { useTranslation } from "react-i18next";
+import { forceExit } from "@/lib/navigation";
 import "@/lib/i18n";
 
 interface TopicCard {
@@ -37,6 +39,17 @@ interface TopicCard {
 export function OCDSelfCare() {
   const { t, i18n: i18nInstance } = useTranslation("ocd-self-care");
   const router = useRouter();
+
+  useEffect(() => {
+    if (typeof window !== "undefined") {
+      try {
+        sessionStorage.setItem("opened_from_hub", "true");
+        sessionStorage.setItem("hub_return_url", window.location.pathname + window.location.search);
+      } catch (e) {
+        // ignore
+      }
+    }
+  }, []);
 
   // Get current active language — used to append ?lang=xx to all navigation links
   // so that every activity the user opens stays in the same language.
@@ -94,13 +107,7 @@ export function OCDSelfCare() {
             className="mb-10 flex items-center gap-6"
           >
             <button
-              onClick={() => {
-                if (window.parent !== window) {
-                  window.parent.postMessage({ action: 'exit' }, 'https://web.mantracare.com');
-                } else {
-                  window.location.href = 'https://web.mantracare.com';
-                }
-              }}
+              onClick={forceExit}
               className="w-10 h-10 flex items-center justify-center rounded-full text-slate-500 hover:bg-slate-100 hover:text-slate-800 transition-colors"
             >
               <ChevronLeft size={24} strokeWidth={2} />

@@ -4,6 +4,7 @@ import CompletionScreen from "../../components/CompletionScreen";
 import { ArrowLeft, ChevronLeft, RotateCcw, X, Pause, Sparkles, Heart, ArrowRight } from "lucide-react";
 import { motion, AnimatePresence } from "framer-motion";
 import { useTranslation } from "react-i18next";
+import { handleExit } from "@/lib/navigation";
 
 /* ─── Shared UI Components ─── */
 function GradientBadge({ children }: { children: React.ReactNode }) {
@@ -121,11 +122,7 @@ const DoNothing = () => {
         <button 
           onClick={(e) => { 
             e.stopPropagation(); 
-            if (window.parent !== window) {
-              window.parent.postMessage({ action: 'exit' }, 'https://web.mantracare.com');
-            } else {
-              window.location.href = 'https://web.mantracare.com';
-            }
+            handleExit();
           }} 
           className="absolute top-6 left-6 md:top-8 md:left-8 z-50 p-3 rounded-full bg-white/50 hover:bg-white text-slate-500 hover:text-primary shadow-sm transition-all border border-slate-100/50"
         >
@@ -174,11 +171,7 @@ const DoNothing = () => {
         <button 
           onClick={(e) => { 
             e.stopPropagation(); 
-            if (window.parent !== window) {
-              window.parent.postMessage({ action: 'exit' }, 'https://web.mantracare.com');
-            } else {
-              window.location.href = 'https://web.mantracare.com';
-            }
+            handleExit();
           }} 
           className="absolute top-6 left-6 md:top-8 md:left-8 z-50 p-3 rounded-full bg-white/50 hover:bg-white text-slate-500 hover:text-primary shadow-sm transition-all border border-slate-100/50"
         >
@@ -226,11 +219,7 @@ const DoNothing = () => {
          <button 
            onClick={(e) => { 
              e.stopPropagation(); 
-             if (window.parent !== window) {
-               window.parent.postMessage({ action: 'exit' }, 'https://web.mantracare.com');
-             } else {
-               window.location.href = 'https://web.mantracare.com';
-             }
+             handleExit();
            }} 
            className="p-3 rounded-full bg-white/50 hover:bg-white text-slate-500 hover:text-primary shadow-sm transition-all border border-slate-100/50 w-fit"
          >

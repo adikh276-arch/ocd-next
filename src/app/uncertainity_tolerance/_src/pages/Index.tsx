@@ -7,6 +7,7 @@ import { useActivitySession } from "../hooks/useActivitySession";
 import { toast } from "sonner";
 import { useTranslation } from "react-i18next";
 import { useSearchParams } from 'next/navigation';
+import { handleExit } from "@/lib/navigation";
 
 /* ─── Shared sub-components ──────────────────────────────────────────────────── */
 function GradientBadge({ children }: { children: React.ReactNode }) {
@@ -94,13 +95,7 @@ const Index = () => {
         <div className="flex items-center justify-between">
           <div className="flex items-center gap-4">
             <button
-              onClick={() => {
-                if (window.parent !== window) {
-                   window.parent.postMessage({ action: 'exit' }, 'https://web.mantracare.com');
-                } else {
-                   window.location.href = 'https://web.mantracare.com';
-                }
-               }}
+              onClick={handleExit}
               className="p-2 rounded-full hover:bg-slate-100 transition-colors text-slate-500"
             >
               <ArrowLeft size={20} />
@@ -351,7 +346,7 @@ const Index = () => {
         description={t("you_showed_up_for_yourself_today_sitting_with_unce", "You showed up for yourself today. Sitting with uncertainty is a real skill — and you just practiced it.")}
         onStartOver={() => setStepIndex(0)}
         startOverText={t("practice_again", "Practice Again")}
-        onDone={() => window.history.back()}
+        onDone={handleExit}
         showHome={false}
       />
     </div>

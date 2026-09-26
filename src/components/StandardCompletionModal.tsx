@@ -10,6 +10,7 @@ import {
 } from "@/components/ui/dialog";
 import { StandardFinishCard } from "@/components/StandardFinishCard";
 import { useTranslation } from "react-i18next";
+import { handleExit } from "@/lib/navigation";
 
 interface StandardCompletionModalProps {
   isOpen: boolean;
@@ -59,7 +60,7 @@ export function StandardCompletionModal({
           onDone={() => {
             onOpenChange(false);
             if (onDone) onDone();
-            else window.location.href = '/ocd';
+            else handleExit();
           }}
           doneText={doneText}
           className="shadow-none border-none animate-none"

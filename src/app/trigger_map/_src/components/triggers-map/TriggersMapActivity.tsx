@@ -11,6 +11,7 @@ import ScreenMapView from "./ScreenMapView";
 import ScreenComplete from "./ScreenComplete";
 import { Trigger } from "./types";
 import { useTranslation } from "react-i18next";
+import { handleExit } from "@/lib/navigation";
 
 type Screen = "intro" | "add" | "rate" | "map" | "complete";
 
@@ -73,14 +74,6 @@ const TriggersMapActivity = () => {
     else if (screen === "rate") setScreen("add");
     else if (screen === "map") setScreen("add");
     else if (screen === "complete") setScreen("map");
-  };
-
-  const handleExit = () => {
-    if (window.parent !== window) {
-      window.parent.postMessage({ action: 'exit' }, 'https://web.mantracare.com');
-    } else {
-      window.location.href = 'https://web.mantracare.com';
-    }
   };
 
   return (
@@ -162,7 +155,7 @@ const TriggersMapActivity = () => {
                   <ScreenComplete 
                     triggers={triggers} 
                     onAddMore={() => setScreen("add")} 
-                    onDone={() => window.history.back()}
+                    onDone={() => handleExit()}
                     onComplete={handleFinalComplete}
                   />
                 )}
@@ -184,7 +177,7 @@ const TriggersMapActivity = () => {
           setTriggers([]);
         }}
         startOverText={t("start_new_map")}
-        onDone={() => window.history.back()}
+        onDone={handleExit}
       />
     </div>
   );

@@ -3,6 +3,7 @@ import { ActivityHistoryDrawer } from "@/components/ActivityHistoryDrawer";
 import { StandardCompletionModal } from "@/components/StandardCompletionModal";
 import { CheckCircle2, RotateCcw } from "lucide-react";
 import { useTranslation } from "react-i18next";
+import { handleExit } from "@/lib/navigation";
 
 interface WrapUpScreenProps {
   beforeAnxiety: number;
@@ -132,7 +133,7 @@ const WrapUpScreen = ({ beforeAnxiety, surface, duration, onTryHarder, onDone, o
         description={t("you_faced_your_fears_and_won_every_exposure_makes_")}
         showHome={false}
         onStartOver={onReset}
-        onDone={() => window.history.back()}
+        onDone={handleExit}
       />
     </div>
   );

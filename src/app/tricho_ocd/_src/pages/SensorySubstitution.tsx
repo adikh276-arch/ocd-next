@@ -3,6 +3,7 @@ import { motion, AnimatePresence } from "framer-motion";
 import { Sparkles, ToyBrick, Fingerprint, CheckCircle2, ChevronRight, ChevronLeft } from "lucide-react";
 import { useTranslation } from "react-i18next";
 import { StandardCompletionModal } from "@/components/StandardCompletionModal";
+import { handleExit } from "@/lib/navigation";
 
 const SensorySubstitution = () => {
     const { t } = useTranslation("tricho_ocd");
@@ -38,7 +39,7 @@ const SensorySubstitution = () => {
     if (step > 0) {
       setStep(step - 1);
     } else {
-      window.history.back();
+      handleExit();
     }
   };
 
@@ -92,7 +93,7 @@ const SensorySubstitution = () => {
         emoji="✨"
         title={t("sensory_explorer")}
         description={t("sensory_completion_desc", "Keep exploring different textures until you find the one that works best for you. Carry your sensory tool with you at all times.")}
-        onDone={() => window.history.back()}
+        onDone={handleExit}
         onStartOver={() => setStep(0)}
         showHome={false}
       />

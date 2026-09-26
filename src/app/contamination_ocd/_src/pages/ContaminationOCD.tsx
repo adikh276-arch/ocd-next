@@ -1,6 +1,7 @@
 import { StandardCompletionModal } from "@/components/StandardCompletionModal";
 import { useState } from "react";
 import { useTranslation } from "react-i18next";
+import { handleExit } from "@/lib/navigation";
 const ContaminationOCD = () => {
     const { t } = useTranslation("contamination_ocd");
     const keyPoints = [
@@ -81,7 +82,7 @@ const ContaminationOCD = () => {
         title={t("knowledge_is_power")}
         description={t("youve_successfully_completed_the_guide_to_contamin")}
         startOverText={t("read_again")}
-        onDone={() => window.history.back()}
+        onDone={() => handleExit()}
         onStartOver={() => window.location.reload()}
         showHome={false}
       />

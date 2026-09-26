@@ -5,6 +5,7 @@ import { ArrowLeft, PenLine, RotateCcw, CheckCircle2, ChevronLeft, ChevronRight,
 import { motion, AnimatePresence } from "framer-motion";
 import { ActivityHistoryDrawer } from "@/components/ActivityHistoryDrawer";
 import { useTranslation } from "react-i18next";
+import { handleExit } from "@/lib/navigation";
 
 type Screen = "welcome" | "writing" | "preview";
 
@@ -40,14 +41,6 @@ const DearOCD = () => {
       toast.error("Failed to save letter.");
     } finally {
       setSaving(false);
-    }
-  };
-
-  const handleExit = () => {
-    if (window.parent !== window) {
-      window.parent.postMessage({ action: 'exit' }, 'https://web.mantracare.com');
-    } else {
-      window.location.href = 'https://web.mantracare.com';
     }
   };
 
@@ -197,7 +190,7 @@ const DearOCD = () => {
            setScreen("welcome");
         }}
         startOverText={t("write_another")}
-        onDone={() => window.history.back()}
+        onDone={handleExit}
       />
     </div>
   );

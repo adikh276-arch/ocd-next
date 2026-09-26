@@ -5,6 +5,7 @@ import { StandardCompletionModal } from "@/components/StandardCompletionModal";
 import "@/lib/i18n";
 import { toast } from "sonner";
 import { useTranslation } from "react-i18next";
+import { handleExit } from "@/lib/navigation";
 
 const MoodTracker = () => {
     const { t, i18n } = useTranslation("mood_tracker");
@@ -138,13 +139,7 @@ const MoodTracker = () => {
       <div className="w-full flex flex-col gap-8 mb-10 z-10 relative">
         <div className="flex items-center justify-between">
           <button 
-            onClick={() => {
-              if (window.parent !== window) {
-                 window.parent.postMessage({ action: 'exit' }, 'https://web.mantracare.com');
-              } else {
-                 window.location.href = 'https://web.mantracare.com';
-              }
-             }}
+            onClick={handleExit}
             className="p-2 rounded-full hover:bg-slate-100 transition-colors text-slate-500"
           >
             <ArrowLeft size={20} />
@@ -245,7 +240,7 @@ const MoodTracker = () => {
         description={selectedMood !== null ? MESSAGES[selectedDay][selectedMood].body : t("noticing_your_mood_is_the_first_step_to_mastering_your_mind.")}
         onStartOver={handleReset}
         startOverText={t("log_another")}
-        onDone={() => window.history.back()}
+        onDone={handleExit}
         showHome={false}/>
     </div>
   );

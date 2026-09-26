@@ -6,6 +6,7 @@ import DistortionCard from "../components/DistortionCard";
 import FinishCard from "../components/FinishCard";
 import { cognitiveDistortions } from "../data/cognitiveDistortions";
 import { useTranslation } from "react-i18next";
+import { handleExit } from "@/lib/navigation";
 
 const TOTAL = cognitiveDistortions.length;
 const TOTAL_SLIDES = TOTAL + 1;
@@ -88,7 +89,7 @@ const CognitiveDistortionsCarousel: React.FC = () => {
 
   const handleGlobalBack = () => {
     if (current > 0) goTo(current - 1);
-    else window.history.back();
+    else handleExit();
   };
 
   const handleComplete = async () => {
